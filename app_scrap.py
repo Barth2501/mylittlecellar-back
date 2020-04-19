@@ -11,7 +11,8 @@ from scrapping.cellar_scrapy.spiders.recipes_spider import RecipesSpider
 from scrapping.cellar_scrapy.spiders.region_spider import RegionSpider, GrapeSpider, VinDePaysSpider
 
 from scrapping.cellar_scrapy.pipelines import HachettePipeline, RecipePipeline, WinePipeline, RecipesPipeline, WineDeciderPipeline
-from back.models.pipelines.hachette_pipelines import RegionPipeline, GrapesPipeline
+## to uncomment if you want to import 
+# from back.models.pipelines.hachette_pipelines import RegionPipeline, GrapesPipeline
 # from scrapy.utils.project import get_project_settings
 # from scrapping.main import wine_decider
 import time
