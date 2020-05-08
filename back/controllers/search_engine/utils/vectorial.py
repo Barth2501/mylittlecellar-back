@@ -21,7 +21,11 @@ def tokenize_query(query):
     tokens = tokenizer.tokenize(text)
     for token in tokens:
         if not re.match(r'.*\d+.*', token):
-            tokenized_query.append(token.upper())
+            # retire le s final si présent
+            if token[-1]=='s':
+                tokenized_query.append(token[:-1].upper())
+            else:    
+                tokenized_query.append(token.upper())
     return tokenized_query
 
 

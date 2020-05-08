@@ -1,0 +1,979 @@
+area,cru,type,couleur,age_min,age_max,t_min,t_max,glass_type,comments,color
+ALSACE GEWURZTRAMINER,ALSACE GEWURZTRAMINER Grand Cru,sec,blanc,5.0,25.0,15.0,0.0,Bordelais ; Alsacien,Les meilleurs jusqu'à 10 ans,blanc
+ALSACE PINOT GRIS,ALSACE PINOT GRIS Grand Cru,sec,blanc,4.0,12.0,15.0,0.0,Bordelais ; Alsacien,Les meilleurs jusqu'à 10 ans,blanc
+ALSACE MUSCAT,ALSACE MUSCAT Grand Cru,sec,blanc,4.0,12.0,15.0,0.0,Bordelais ; Alsacien,Les meilleurs jusqu'à 10 ans,blanc
+ALSACE RIESLING,ALSACE RIESLING Grand Cru,sec,blanc,5.0,25.0,15.0,0.0,Bordelais ; Alsacien,Les meilleurs jusqu'à 10 ans,blanc
+ALSACE CHASSELAS OU GUTEDEL,ALSACE CHASSELAS OU GUTEDEL,sec,blanc,1.0,5.0,15.0,0.0,Bordelais ; Alsacien,Les meilleurs jusqu'à 10 ans,blanc
+ALSACE EDELZWICKER,ALSACE EDELZWICKER,sec,blanc,1.0,5.0,15.0,0.0,Bordelais ; Alsacien,Les meilleurs jusqu'à 10 ans,blanc
+ALSACE GEWURZTRAMINER,ALSACE GEWURZTRAMINER,sec,blanc,4.0,20.0,15.0,0.0,Bordelais ; Alsacien,Les meilleurs jusqu'à 10 ans,blanc
+ALSACE KLEVENER-DE-HEILIGENSTEIN,ALSACE KLEVENER-DE-HEILIGENSTEIN,sec,blanc,3.0,5.0,15.0,0.0,Bordelais ; Alsacien,Les meilleurs jusqu'à 10 ans,blanc
+ALSACE MUSCAT,ALSACE MUSCAT,sec,blanc,2.0,4.0,15.0,0.0,Bordelais ; Alsacien,Les meilleurs jusqu'à 10 ans,blanc
+ALSACE PINOT BLANC OU KLEVNER,ALSACE PINOT BLANC OU KLEVNER,sec,blanc,2.0,5.0,15.0,0.0,Bordelais ; Alsacien,Les meilleurs jusqu'à 10 ans,blanc
+ALSACE PINOT GRIS,ALSACE PINOT GRIS,sec,blanc,2.0,6.0,15.0,0.0,Bordelais ; Alsacien,Les meilleurs jusqu'à 10 ans,blanc
+ALSACE PINOT NOIR,ALSACE PINOT NOIR,sec,rouge,2.0,6.0,15.0,0.0,Bordelais ; Alsacien,Les meilleurs jusqu'à 10 ans,rouge
+ALSACE RIESLING,ALSACE RIESLING,sec,blanc,4.0,20.0,15.0,0.0,Bordelais ; Alsacien,Les meilleurs jusqu'à 10 ans,blanc
+ALSACE SYLVANER,ALSACE SYLVANER,sec,blanc,2.0,5.0,15.0,0.0,Bordelais ; Alsacien,Les meilleurs jusqu'à 10 ans,blanc
+Alsace,Alsace,doux,blanc,5.0,30.0,8.0,12.0,Bordelais ; INAO,,jaune
+Alsace,Alsace Grand Cru ,doux,blanc,10.0,50.0,11.0,13.0,Bordelais ; INAO,Les Grands Crus peuvent être servis à 14°C,jaune
+Alsace,CRÉMANT-D'ALSACE,Effervescent,blanc,1.0,4.0,5.0,7.0,Champagne,,blanc
+Alsace,CRÉMANT-D'ALSACE,Effervescent,rosé,1.0,4.0,6.0,8.0,Vin Blanc; Champagne,,rosé
+Beaujolais,Beaujolais,sec,blanc,2.0,5.0,10.0,12.0,Bordelais ; INAO,,blanc
+Beaujolais,Beaujolais,sec,rosé,2.0,4.0,8.0,11.0,Bourgogne,,rosé
+Beaujolais,Beaujolais,sec,rouge,3.0,8.0,14.0,16.0,Bourgogne,,rouge
+Beaujolais,Beaujolais-villages,sec,blanc,2.0,5.0,10.0,12.0,Bordelais ; INAO,,blanc
+Beaujolais,Beaujolais-villages,sec,rosé,2.0,4.0,8.0,11.0,Bourgogne,,rosé
+Beaujolais,Beaujolais-villages,sec,rouge,3.0,8.0,14.0,16.0,Bourgogne,,rouge
+Beaujolais,Beaujolais supérieur,sec,rouge,3.0,8.0,14.0,16.0,Bourgogne,,rouge
+Beaujolais,Comtés Rhodaniens,sec,rouge,2.0,5.0,16.0,0.0,,,rouge
+Beaujolais,Comtés Rhodaniens,sec,rosé,1.0,3.0,8.0,0.0,,,rosé
+Beaujolais,Comtés Rhodaniens,sec,blanc,2.0,4.0,8.0,0.0,,,blanc
+Beaujolais,Saône-et-Loire,sec,rouge,3.0,5.0,14.0,15.0,,,rouge
+Beaujolais,Saône-et-Loire,sec,rosé,1.0,3.0,8.0,11.0,,,rosé
+Beaujolais,Saône-et-Loire,sec,blanc,2.0,5.0,10.0,13.0,,,blanc
+Brouilly,Brouilly,sec,rouge,2.0,6.0,12.0,13.0,Bourgogne,,rouge
+Chénas,Chénas,sec,rouge,4.0,10.0,16.0,16.0,,,rouge
+Chiroubles,Chiroubles,sec,rouge,1.0,4.0,12.0,13.0,,,rouge
+CÔTE-DE-BROUILLY,CÔTE-DE-BROUILLY,sec,rouge,4.0,8.0,15.0,15.0,,,rouge
+Fleurie,Fleurie,sec,rouge,1.0,4.0,14.0,14.0,,,rouge
+Juliénas,Juliénas,sec,rouge,4.0,10.0,14.0,15.0,,,rouge
+Morgon,Morgon,sec,rouge,4.0,12.0,16.0,16.0,,,rouge
+Moulin-à-Vent,Moulin-à-Vent,sec,rouge,5.0,12.0,16.0,16.0,,,rouge
+Régnié,Régnié,sec,rouge,3.0,8.0,14.0,16.0,,,rouge
+Saint-Amour,Saint-Amour,sec,rouge,2.0,6.0,15.0,15.0,,,rouge
+Vins de pays/IGP Saône-et-Loire,Vins de pays/IGP Saône-et-Loire,sec,rouge,3.0,5.0,14.0,15.0,,,rouge
+Vins de pays/IGP Saône-et-Loire,Vins de pays/IGP Saône-et-Loire,sec,blanc,1.0,3.0,8.0,11.0,,,blanc
+Vins de pays/IGP Saône-et-Loire,Vins de pays/IGP Saône-et-Loire,sec,rosé,2.0,4.0,10.0,13.0,,,rosé
+Blaye,Blaye,sec,rouge,5.0,10.0,15.0,15.0,Bordelais,,rouge
+Blaye,CÔTES-DE-BLAYE,sec,blanc,3.0,5.0,8.0,11.0,,,blanc
+Blaye,Blaye-Côtes-de-Bordeaux,sec,rouge,5.0,10.0,15.0,15.0,,,rouge
+Blaye,CÔTES-DE-BORDEAUX,sec,blanc,3.0,5.0,8.0,11.0,,,blanc
+Bourg,CÔTES-DE-BOURG,sec,rouge,5.0,20.0,15.0,16.0,,,rouge
+Bourg,CÔTES-DE-BOURG,sec,blanc,3.0,10.0,10.0,12.0,,,blanc
+Bourg,Bourgeais,sec,rouge,3.0,10.0,15.0,0.0,,,rouge
+Bordeaux,Bordeaux rosé,sec,rosé,1.0,3.0,8.0,11.0,Bordelais,,rosé
+Bordeaux,Bordeaux Blanc,sec,blanc,3.0,5.0,8.0,11.0,Bordelais ; INAO,,blanc
+Bordeaux,Bordeaux,sec,rouge,3.0,5.0,14.0,16.0,Bordelais,,rouge
+Bordeaux,Bordeaux clairet,sec,blanc,1.0,3.0,8.0,11.0,Bordelais,,blanc
+Bordeaux,Bordeaux,moelleux,blanc,5.0,15.0,10.0,13.0,Bordelais ; INAO,,blanc
+CRÉMANT-DE-BORDEAUX,CRÉMANT-DE-BORDEAUX,effervescent,blanc,1.0,3.0,6.0,8.0,Bordelais ; INAO,,blanc
+Bordeaux,Bordeaux Haut-Benauge,sec,blanc,5.0,15.0,8.0,11.0,Bordelais,,blanc
+Bordeaux,Bordeaux Haut-Benauge,moelleux,blanc,5.0,20.0,10.0,12.0,Bordelais ; INAO,,blanc
+Bordeaux,Bordeaux supérieur,sec,blanc,3.0,7.0,10.0,13.0,Bordelais ; INAO,,blanc
+Bordeaux,Bordeaux supérieur,sec,rouge,5.0,15.0,15.0,15.0,Bordelais,,rouge
+CÔTES-DE-BORDEAUX,CÔTES-DE-BORDEAUX,sec,rouge,5.0,15.0,15.0,15.0,Bordelais,,rouge
+Cadillac,Cadillac,doux,blanc,5.0,30.0,10.0,13.0,Bordelais ; INAO,,jaune
+Cadillac,CADILLAC-CÔTES-DE-BORDEAUX,sec,rouge,5.0,10.0,15.0,15.0,Bordelais,,rouge
+CÔTES-DE-BORDEAUX-SAINT-MACAIRE,CÔTES-DE-BORDEAUX-SAINT-MACAIRE,sec,blanc,3.0,5.0,8.0,11.0,,,blanc
+CÔTES-DE-BORDEAUX-SAINT-MACAIRE,CÔTES-DE-BORDEAUX-SAINT-MACAIRE,moelleux,blanc,5.0,15.0,10.0,13.0,,,blanc
+CÔTES-DE-BORDEAUX-SAINT-MACAIRE,CÔTES-DE-BORDEAUX-SAINT-MACAIRE,doux,blanc,5.0,30.0,9.0,12.0,,,jaune
+Entre-deux-Mers,Entre-deux-Mers,sec,blanc,2.0,5.0,8.0,11.0,,,blanc
+Entre-deux-Mers,Entre-deux-Mers Haut-Benauge,sec,blanc,3.0,7.0,8.0,11.0,,,blanc
+GRAVES-DE-VAYRES,GRAVES-DE-VAYRES,sec,rouge,1.0,5.0,14.0,16.0,,,rouge
+GRAVES-DE-VAYRES,GRAVES-DE-VAYRES,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+GRAVES-DE-VAYRES,GRAVES-DE-VAYRES,doux,blanc,3.0,10.0,10.0,12.0,,,jaune
+Loupiac,Loupiac,doux,blanc,5.0,20.0,9.0,11.0,,,jaune
+PREMIÈRES-CÔTES-DE-BORDEAUX,PREMIÈRES-CÔTES-DE-BORDEAUX,moelleux,blanc,3.0,15.0,8.0,11.0,,,blanc
+Sainte-Croix-du-Mont,Sainte-Croix-du-Mont,doux,blanc,5.0,30.0,9.0,11.0,,,jaune
+Sainte-Foy-Bordeaux,Sainte-Foy-Bordeaux,sec,rouge,5.0,10.0,16.0,18.0,,,rouge
+Sainte-Foy-Bordeaux,Sainte-Foy-Bordeaux,sec,blanc,1.0,5.0,10.0,12.0,,,blanc
+Sainte-Foy-Bordeaux,Sainte-Foy-Bordeaux,moelleux,blanc,3.0,10.0,9.0,11.0,,,blanc
+Sainte-Foy-Bordeaux,Sainte-Foy-Bordeaux,doux,blanc,5.0,15.0,8.0,10.0,,,jaune
+Cérons,Céron,doux,blanc,5.0,20.0,8.0,10.0,,,jaune
+Graves,Graves,sec,rouge,3.0,10.0,16.0,0.0,,,rouge
+Graves,Graves,sec,blanc,3.0,8.0,10.0,12.0,,,blanc
+Graves supérieures,Graves supérieurs,doux,blanc,2.0,10.0,9.0,12.0,,,jaune
+Pessac-Léognan,Pessac-Léognan,sec,rouge,10.0,35.0,16.0,16.0,,,rouge
+Pessac-Léognan,Pessac-Léognan,sec,blanc,5.0,20.0,10.0,12.0,,,blanc
+Canon-Fronsac,Canon-Fronsac,sec,rouge,3.0,15.0,15.0,0.0,,,rouge
+Castillon,CASTILLON-CÔTES-DE-BORDEAUX,sec,rouge,3.0,5.0,15.0,0.0,Bordelais,,rouge
+Castillon,FRANCS-CÔTES-DE-BORDEAUX,sec,rouge,3.0,12.0,15.0,0.0,Bordelais,,rouge
+Castillon,FRANCS-CÔTES-DE-BORDEAUX,sec,blanc,3.0,8.0,10.0,12.0,Bordelais,,blanc
+Castillon,FRANCS-CÔTES-DE-BORDEAUX,doux,blanc,3.0,50.0,10.0,13.0,Bordelais ; INAO,,jaune
+Fronsac,Fronsac,sec,rouge,7.0,20.0,16.0,0.0,,,rouge
+Lalande-de-Pomerol,Lalande-de-Pomerol,sec,rouge,8.0,20.0,16.0,18.0,,,rouge
+LUSSAC-SAINT-ÉMILION,LUSSAC-SAINT-ÉMILION,sec,rouge,5.0,10.0,16.0,18.0,,,rouge
+MONTAGNE-SAINT-ÉMILION,MONTAGNE-SAINT-ÉMILION,sec,rouge,5.0,15.0,16.0,18.0,,,rouge
+Pomerol,Pomerol,sec,rouge,10.0,25.0,16.0,18.0,,,rouge
+PUISSEGUIN-SAINT-ÉMILION,PUISSEGUIN-SAINT-ÉMILION,sec,rouge,3.0,8.0,16.0,18.0,,,rouge
+SAINT-ÉMILION,SAINT-ÉMILION,sec,rouge,3.0,8.0,16.0,18.0,,,rouge
+SAINT-ÉMILION GRAND CRU,SAINT-ÉMILION GRAND CRU,sec,rouge,10.0,35.0,15.0,16.0,,,rouge
+Saint-Emilion,Saint-Emilion Premier Cru,sec,rouge,10.0,25.0,16.0,16.0,,,rouge
+SAINT-GEORGES-SAINT-ÉMILION,SAINT-GEORGES-SAINT-ÉMILION,sec,rouge,5.0,10.0,16.0,18.0,,,rouge
+Haut-Médoc,Haut-Médoc,sec,rouge,5.0,10.0,15.0,16.0,,,rouge
+Listrac-Médoc,Listrac-Médoc,sec,rouge,3.0,10.0,16.0,18.0,,,rouge
+Margaux,Margaux,sec,rouge,10.0,35.0,16.0,16.0,,,rouge
+Médoc,Médoc,sec,rouge,3.0,8.0,16.0,18.0,,,rouge
+Moulis-en-Médoc,Moulis-en-Médoc,sec,rouge,3.0,15.0,16.0,18.0,,,rouge
+Pauillac,Pauillac,sec,rouge,10.0,35.0,16.0,16.0,,,rouge
+Saint-Estèphe,Saint-Estèphe,sec,rouge,10.0,35.0,16.0,18.0,,,rouge
+Saint-Julien ,Saint-Julien ,sec,rouge,10.0,35.0,16.0,17.0,,,rouge
+Barsac,Barsac,doux,blanc,10.0,50.0,10.0,13.0,Bordelais ; INAO,,jaune
+SAUTERNES,SAUTERNES,doux,blanc,10.0,50.0,10.0,13.0,,,jaune
+Bourgogne,Bourgogne,sec,rouge,2.0,6.0,14.0,16.0,,,rouge
+Bourgogne,Bourgogne,sec,blanc,2.0,8.0,12.0,14.0,,,blanc
+Bourgogne,Bourgogne,sec,rosé,1.0,3.0,10.0,12.0,,,rosé
+Bourgogne aligoté,Bourgogne-aligoté Primeur,sec,blanc,1.0,2.0,10.0,10.0,,,blanc
+Bourgogne aligoté,Bourgogne-aligoté,sec,blanc,2.0,5.0,10.0,12.0,,,blanc
+Bourgogne mousseux,Bourgogne mousseux,Effervescent,blanc,1.0,2.0,6.0,8.0,,,blanc
+Bourgogne Passe-tout-grains,Bourgogne-Passetoutgrain,sec,rouge,1.0,5.0,12.0,14.0,,,rouge
+Coteaux Bourguignons,Coteaux Bourguignons,sec,rouge,2.0,5.0,14.0,14.0,,,rouge
+Coteaux Bourguignons,Coteaux Bourguignons,sec,blanc,1.0,5.0,10.0,12.0,,,blanc
+Coteaux Bourguignons,Coteaux Bourguignons,sec,rosé,1.0,3.0,12.0,0.0,,,rosé
+Crémant de Bourgogne,CRÉMANT-DE-BOURGOGNE,effervescent,blanc,1.0,5.0,6.0,8.0,,,blanc
+Crémant de Bourgogne,CRÉMANT-DE-BOURGOGNE,effervescent,rosé,1.0,3.0,8.0,10.0,,,rosé
+Vins de pays/IGP Coteaux de l'Auxois,Vins de pays/IGP Coteaux de l'Auxois,sec,rouge,2.0,5.0,13.0,15.0,,,rouge
+Vins de pays/IGP Coteaux de l'Auxois,Vins de pays/IGP Coteaux de l'Auxois,sec,blanc,2.0,6.0,12.0,14.0,,,blanc
+Vins de pays/IGP Coteaux de l'Auxois,Vins de pays/IGP Coteaux de l'Auxois,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Coteaux de Tannay,Vins de pays/IGP Coteaux de Tannay,sec,rouge,2.0,4.0,13.0,15.0,,,rouge
+Vins de pays/IGP Coteaux de Tannay,Vins de pays/IGP Coteaux de Tannay,sec,blanc,1.0,4.0,12.0,14.0,,,blanc
+Vins de pays/IGP Coteaux de Tannay,Vins de pays/IGP Coteaux de Tannay,sec,rosé,1.0,2.0,7.0,9.0,,,rosé
+Vins de pays/IGP Sainte-Marie-la-Blanche,Vins de pays/IGP Sainte-Marie-la-Blanche,sec,rouge,2.0,5.0,14.0,15.0,,,rouge
+Vins de pays/IGP Sainte-Marie-la-Blanche,Vins de pays/IGP Sainte-Marie-la-Blanche,sec,blanc,1.0,4.0,9.0,11.0,,,blanc
+Vins de pays/IGP Sainte-Marie-la-Blanche,Vins de pays/IGP Sainte-Marie-la-Blanche,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Vins de pays/IGP Yonne,Vins de pays/IGP Yonne,sec,rouge,1.0,4.0,13.0,15.0,,,rouge
+Vins de pays/IGP Yonne,Vins de pays/IGP Yonne,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+Vins de pays/IGP Yonne,Vins de pays/IGP Yonne,sec,rosé,1.0,2.0,9.0,11.0,,,rosé
+Chablis,Chablis,sec,blanc,4.0,10.0,10.0,12.0,,,blanc
+Chablis,Chablis Premier Cru,sec,blanc,5.0,15.0,12.0,12.0,,,blanc
+Chablis Grand Cru,Chablis Grand Cru,sec,blanc,5.0,15.0,12.0,14.0,,,blanc
+Irancy,Irancy,sec,rouge,2.0,10.0,15.0,0.0,,,rouge
+PETIT-CHABLIS,PETIT-CHABLIS,sec,blanc,1.0,2.0,10.0,0.0,,,blanc
+Saint-Bris,Saint-Bris,sec,blanc,1.0,6.0,8.0,0.0,,,blanc
+BOURGOGNE-CÔTE-CHALONNAISE,BOURGOGNE-CÔTE-CHALONNAISE,sec,rouge,2.0,10.0,16.0,0.0,,,rouge
+BOURGOGNE-CÔTE-CHALONNAISE,BOURGOGNE-CÔTE-CHALONNAISE,sec,blanc,1.0,5.0,13.0,0.0,,,blanc
+Bouzeron,Bouzeron,sec,blanc,1.0,5.0,11.0,13.0,,,blanc
+Givry,Givry,sec,rouge,2.0,10.0,16.0,0.0,,,rouge
+Givry,Givry Premier Cru,sec,rouge,3.0,15.0,16.0,0.0,,,rouge
+Givry,Givry,sec,blanc,1.0,5.0,13.0,0.0,,,blanc
+Givry,Givry Premier Cru,sec,blanc,2.0,8.0,13.0,0.0,,,blanc
+Mercurey,Mercurey,sec,rouge,3.0,7.0,16.0,0.0,,,rouge
+Mercurey,Mercurey Premier Cru,sec,rouge,3.0,15.0,16.0,0.0,,,rouge
+Mercurey,Mercurey,sec,blanc,2.0,6.0,12.0,0.0,,,blanc
+Mercurey,Mercurey Premier Cru,sec,blanc,2.0,10.0,12.0,0.0,,,blanc
+Montagny,Montagny,sec,blanc,1.0,4.0,11.0,13.0,,,blanc
+Montagny,Montagny premier Cru,sec,blanc,1.0,6.0,11.0,13.0,,,blanc
+Rully,Rully,sec,rouge,2.0,7.0,16.0,0.0,,,rouge
+Rully,Rully Premier Cru,sec,rouge,3.0,8.0,16.0,0.0,,,rouge
+Rully,Rully,sec,blanc,2.0,6.0,13.0,0.0,,,blanc
+Rully,Rully Premier Cru,sec,blanc,3.0,8.0,13.0,0.0,,,blanc
+Aloxe-Corton,Aloxe-Corton Villages,sec,rouge,5.0,10.0,16.0,0.0,,,rouge
+Aloxe-Corton,Aloxe-Corton Premier Cru,sec,rouge,8.0,20.0,16.0,0.0,,,rouge
+Aloxe-Corton,Aloxe-Corton Villages,sec,blanc,3.0,7.0,12.0,0.0,,,blanc
+Aloxe-Corton,Aloxe-Corton Premier Cru,sec,blanc,5.0,15.0,12.0,14.0,,,blanc
+Auxey-Duresses,Auxey-Duresses Villages,sec,rouge,5.0,10.0,16.0,0.0,,,rouge
+Auxey-Duresses,Auxey-Duresses Premier Cru,sec,rouge,8.0,20.0,15.0,16.0,,,rouge
+Auxey-Duresses,Auxey-Duresses Villages,sec,blanc,3.0,7.0,11.0,13.0,,,blanc
+Auxey-Duresses,Auxey-Duresses Premier Cru,sec,blanc,5.0,10.0,11.0,13.0,,,blanc
+Bâtard-Montrachet,Bâtard-Montrachet Grand Crus,sec,blanc,10.0,30.0,12.0,14.0,,,blanc
+Beaune,Beaune,sec,rouge,5.0,15.0,15.0,16.0,,,rouge
+Beaune,BEAUNE Premier Cru,sec,rouge,7.0,15.0,15.0,16.0,,,rouge
+Beaune,Beaune,sec,blanc,2.0,8.0,11.0,13.0,,,blanc
+Beaune,BEAUNE Premier Cru,sec,blanc,5.0,15.0,12.0,14.0,,,blanc
+Bienvenues-Bâtard-Montrachet,Bienvenues-Bâtard-Montrachet Grand Cru,sec,blanc,10.0,30.0,12.0,14.0,,,blanc
+Blagny,Blagny,sec,rouge,3.0,6.0,16.0,16.0,,,rouge
+Blagny,Blagny Premier Cru,sec,rouge,5.0,8.0,16.0,16.0,,,rouge
+Charlemagne,Charlemagne Grand Cru,sec,blanc,10.0,25.0,12.0,14.0,,,blanc
+Chassagne-Montrachet,Chassagne-Montrachet,sec,rouge,4.0,10.0,16.0,0.0,,,rouge
+Chassagne-Montrachet,Chassagne-Montrachet Premier Cru,sec,rouge,6.0,15.0,16.0,0.0,,,rouge
+Chassagne-Montrachet,Chassagne-Montrachet,sec,blanc,3.0,10.0,12.0,14.0,,,blanc
+Chassagne-Montrachet,Chassagne-Montrachet Premier Cru,sec,blanc,5.0,15.0,12.0,14.0,,,blanc
+Chevalier-Montrachet,Chevalier-Montrachet Grand Cru,sec,blanc,8.0,20.0,12.0,14.0,,,blanc
+Chorey-lès-Beaune,Chorey-lès-Beaune,sec,rouge,5.0,10.0,16.0,0.0,,,rouge
+Chorey-lès-Beaune,Chorey-lès-Beaune,sec,blanc,3.0,8.0,12.0,13.0,,,blanc
+Corton,Corton Grand Cru,sec,rouge,5.0,30.0,16.0,0.0,,,rouge
+Corton,Corton Grand Cru,sec,blanc,5.0,15.0,12.0,14.0,,,blanc
+Corton-Charlemagne ,Corton-Charlemagne Grand Cru,sec,blanc,5.0,20.0,12.0,14.0,,,blanc
+BOURGOGNE-HAUTES-CÔTES-DE-BEAUNE,BOURGOGNE-HAUTES-CÔTES-DE-BEAUNE,sec,rouge,2.0,6.0,16.0,0.0,,,rouge
+BOURGOGNE-HAUTES-CÔTES-DE-BEAUNE,BOURGOGNE-HAUTES-CÔTES-DE-BEAUNE,sec,blanc,1.0,5.0,12.0,14.0,,,blanc
+CÔTE-DE-BEAUNE,CÔTE-DE-BEAUNE,sec,rouge,2.0,6.0,16.0,0.0,,,rouge
+CÔTE-DE-BEAUNE,CÔTE-DE-BEAUNE,sec,blanc,1.0,5.0,12.0,14.0,,,blanc
+CÔTE-DE-BEAUNE-VILLAGES,CÔTE-DE-BEAUNE-VILLAGES,sec,rouge,3.0,8.0,16.0,0.0,,,rouge
+Criots-Bâtard-Montrachet,Criots-Bâtard-Montrachet Grand Cru,sec,blanc,6.0,25.0,12.0,14.0,,,blanc
+Ladoix,Ladoix,sec,rouge,2.0,7.0,16.0,0.0,,,rouge
+Ladoix,Ladoix Premier Cru,sec,rouge,4.0,10.0,16.0,0.0,,,rouge
+Ladoix,Ladoix,sec,blanc,2.0,6.0,13.0,0.0,,,blanc
+Ladoix,Ladoix Premier Cru,sec,blanc,3.0,8.0,13.0,0.0,,,blanc
+Maranges,Maranges,sec,rouge,2.0,5.0,16.0,0.0,,,rouge
+Maranges,Maranges Premier Cru,sec,rouge,2.0,7.0,16.0,0.0,,,rouge
+Maranges,Maranges,sec,blanc,2.0,5.0,13.0,0.0,,,blanc
+Maranges,Maranges Premier Cru,sec,blanc,2.0,5.0,13.0,0.0,,,blanc
+Meursault,Meursault Premier Cru,sec,rouge,5.0,20.0,16.0,0.0,,,rouge
+Meursault,Meursault,sec,blanc,4.0,10.0,12.0,14.0,,,blanc
+Meursault,Meursault Premier Cru,sec,blanc,5.0,15.0,12.0,14.0,,,blanc
+Monthélie,Monthélie,sec,rouge,3.0,8.0,16.0,0.0,,,rouge
+Monthélie,Monthélie Premier Cru,sec,rouge,3.0,12.0,16.0,0.0,,,rouge
+Monthélie,Monthélie,sec,blanc,2.0,5.0,13.0,0.0,,,blanc
+Monthélie,Monthélie Premier Cru,sec,blanc,2.0,7.0,13.0,0.0,,,blanc
+Montrachet,Montrachet Grand Cru,sec,blanc,7.0,30.0,12.0,14.0,,,blanc
+Musigny,Musigny Grand Cru,sec,rouge,7.0,35.0,15.0,16.0,,,rouge
+Musigny,Musigny Grand Cru,sec,blanc,7.0,20.0,12.0,14.0,,,blanc
+Pernand-Vergelesses,Pernand-Vergelesses,sec,rouge,2.0,7.0,16.0,0.0,,,rouge
+Pernand-Vergelesses,Pernand-Vergelesses Premier Cru,sec,rouge,3.0,12.0,16.0,0.0,,,rouge
+Pernand-Vergelesses,Pernand-Vergelesses,sec,blanc,1.0,4.0,13.0,0.0,,,blanc
+Pernand-Vergelesses,Pernand-Vergelesses Premier Cru,sec,blanc,2.0,10.0,13.0,0.0,,,blanc
+Pommard,Pommard,sec,rouge,5.0,15.0,16.0,0.0,,,rouge
+Pommard,Pommard Premier Cru,sec,rouge,6.0,20.0,16.0,0.0,,,rouge
+Puligny-Montrachet,Puligny-Montrachet,sec,rouge,5.0,10.0,16.0,0.0,,,rouge
+Puligny-Montrachet,Puligny-Montrachet Premier Cru,sec,rouge,5.0,15.0,16.0,0.0,,,rouge
+Puligny-Montrachet,Puligny-Montrachet,sec,blanc,3.0,10.0,13.0,0.0,,,blanc
+Puligny-Montrachet,Puligny-Montrachet Premier Cru,sec,blanc,3.0,15.0,13.0,0.0,,,blanc
+Saint-Aubin,Saint-Aubin,sec,rouge,5.0,12.0,16.0,0.0,,,rouge
+Saint-Aubin,Saint-Aubin Premier Cru,sec,rouge,6.0,15.0,16.0,0.0,,,rouge
+Saint-Aubin,Saint-Aubin,sec,blanc,4.0,10.0,13.0,0.0,,,blanc
+Saint-Aubin,Saint-Aubin Premier Cru,sec,blanc,5.0,15.0,13.0,0.0,,,blanc
+Saint-Romain,Saint-Romain,sec,rouge,4.0,12.0,16.0,0.0,,,rouge
+Saint-Romain,Saint-Romain,sec,blanc,2.0,10.0,13.0,0.0,,,blanc
+Santenay,Santenay,sec,rouge,3.0,7.0,16.0,0.0,,,rouge
+Santenay,Santenay Premier Cru,sec,rouge,4.0,15.0,16.0,0.0,,,rouge
+Santenay,Santenay,sec,blanc,2.0,8.0,13.0,0.0,,,blanc
+Santenay,Santenay Premier Cru,sec,blanc,3.0,17.0,13.0,0.0,,,blanc
+Savigny-lès-Beaune,Savigny-lès-Beaune,sec,rouge,4.0,10.0,16.0,0.0,,,rouge
+Savigny-lès-Beaune,Savigny-lès-Beaune Premier Cru,sec,rouge,6.0,16.0,16.0,0.0,,,rouge
+Savigny-lès-Beaune,Savigny-lès-Beaune,sec,blanc,4.0,10.0,13.0,0.0,,,blanc
+Savigny-lès-Beaune,Savigny-lès-Beaune Premier Cru,sec,blanc,5.0,15.0,13.0,0.0,,,blanc
+Volnay,Volnay,sec,rouge,3.0,6.0,16.0,0.0,,,rouge
+Volnay,Volnay Premier Cru,sec,rouge,4.0,15.0,16.0,0.0,,,rouge
+BOURGOGNE-HAUTES-CÔTES-DE-NUITS,BOURGOGNE-HAUTES-CÔTES-DE-NUITS,sec,rouge,3.0,8.0,16.0,0.0,,,rouge
+BOURGOGNE-HAUTES-CÔTES-DE-NUITS,BOURGOGNE-HAUTES-CÔTES-DE-NUITS,sec,blanc,1.0,6.0,12.0,14.0,,,blanc
+Bonnes-Mares,Bonnes-Mares Grand Cru,sec,rouge,10.0,25.0,16.0,0.0,,,rouge
+Chambertin,Chambertin,sec,rouge,7.0,15.0,14.0,16.0,,,rouge
+Chambertin-Clos-de-Bèze,Chambertin-Clos de Bèze Grand Cru,sec,rouge,10.0,35.0,14.0,16.0,,,rouge
+Chambolle-Musigny,Chambolle-Musigny,sec,rouge,5.0,10.0,16.0,16.0,,,rouge
+Chambolle-Musigny,Chambolle-Musigny Premier Cru,sec,rouge,7.0,15.0,16.0,16.0,,,rouge
+Chapelle-Chambertin,Chapelle-Chambertin Grand Cru,sec,rouge,7.0,20.0,15.0,16.0,,,rouge
+Charmes-Chambertin,Charmes-Chambertin Grand Cru,sec,rouge,6.0,25.0,16.0,0.0,,,rouge
+Clos-de-la-Roche,Clos de la Roche Grand Cru,sec,rouge,8.0,30.0,16.0,0.0,,,rouge
+Clos-de-Tart,Clos de Tart Grand Cru,sec,rouge,8.0,30.0,15.0,16.0,,,rouge
+Clos-de-Vougeot,Clos de Vougeot Grand Cru,sec,rouge,10.0,35.0,16.0,0.0,,,rouge
+Clos-des-Lambrays,Clos des Lambrays Grand Cru,sec,rouge,7.0,25.0,16.0,0.0,,,rouge
+Clos-Saint-Denis,Clos Saint-Denis Grand Cru,sec,rouge,5.0,20.0,15.0,16.0,,,rouge
+CÔTE-DE-NUITS-VILLAGES,CÔTE-DE-NUITS-VILLAGES,sec,rouge,3.0,8.0,16.0,0.0,,,rouge
+CÔTE-DE-NUITS-VILLAGES,CÔTE-DE-NUITS-VILLAGES,sec,blanc,1.0,5.0,12.0,14.0,,,blanc
+ÉCHÉZEAUX,Echezeaux Grand Cru,sec,rouge,7.0,30.0,16.0,0.0,,,rouge
+Fixin,Fixin,sec,rouge,3.0,8.0,16.0,0.0,,,rouge
+Fixin,Fixin Premier Cru,sec,rouge,3.0,10.0,16.0,0.0,,,rouge
+Fixin,Fixin,sec,blanc,1.0,5.0,13.0,0.0,,,blanc
+Fixin,Fixin Premier Cru,sec,blanc,1.0,6.0,13.0,0.0,,,blanc
+Gevrey-Chambertin,Gevrey-Chambertin,sec,rouge,2.0,10.0,16.0,0.0,,,rouge
+Gevrey-Chambertin,Gevrey-Chambertin Premier Cru,sec,rouge,4.0,20.0,16.0,0.0,,,rouge
+GRANDS-ÉCHÉZEAUX,Grands-Echezeaux Grand Cru,sec,rouge,5.0,25.0,16.0,0.0,,,rouge
+Griotte-Chambertin,Griotte-Chambertin Grand Cru,sec,rouge,8.0,30.0,16.0,0.0,,,rouge
+GRANDE-RUE (LA),La Grande Rue Grand Cru,sec,rouge,7.0,25.0,16.0,0.0,,,rouge
+ROMANÉE (LA),La Romanée Grand Cru,sec,rouge,10.0,40.0,16.0,0.0,,,rouge
+TÂCHE (LA),La Tâche Grand Cru,sec,rouge,8.0,30.0,16.0,0.0,,,rouge
+Latricières-Chambertin,Latricières-Chambertin Grand Cru,sec,rouge,7.0,35.0,16.0,0.0,,,rouge
+Marsannay,Marsannay,sec,rouge,2.0,9.0,16.0,0.0,,,rouge
+Marsannay,Marsannay,sec,blanc,3.0,7.0,12.0,0.0,,,blanc
+Marsannay,Marsannay,sec,rosé,1.0,4.0,12.0,0.0,,,rosé
+Mazis-Chambertin,Mazis-Chambertin Grand Cru,sec,rouge,7.0,30.0,16.0,0.0,,,rouge
+Mazoyères-Chambertin,Mazoyères-Chambertin Grand Cru,sec,rouge,7.0,30.0,16.0,0.0,,,rouge
+Morey-Saint-Denis,Morey-Saint-Denis,sec,rouge,3.0,12.0,16.0,0.0,,,rouge
+Morey-Saint-Denis,Morey-Saint-Denis Premier Cru,sec,rouge,3.0,15.0,16.0,0.0,,,rouge
+Morey-Saint-Denis,Morey-Saint-Denis,sec,blanc,2.0,8.0,13.0,0.0,,,blanc
+Morey-Saint-Denis,Morey-Saint-Denis Premier Cru,sec,blanc,2.0,12.0,13.0,0.0,,,blanc
+Nuits-Saint-Georges,Nuits-Saint-Georges,sec,rouge,4.0,15.0,16.0,0.0,,,rouge
+Nuits-Saint-Georges,Nuits-Saint-Georges Premier Cru,sec,rouge,5.0,20.0,16.0,0.0,,,rouge
+Nuits-Saint-Georges,Nuits-Saint-Georges,sec,blanc,3.0,8.0,13.0,0.0,,,blanc
+Nuits-Saint-Georges,Nuits-Saint-Georges Premier Cru,sec,blanc,3.0,15.0,13.0,0.0,,,blanc
+Richebourg,Richebourg Grand Cru,sec,rouge,7.0,35.0,16.0,0.0,,,rouge
+Romanée-Conti,Romanée-Conti Grand Cru,sec,rouge,7.0,40.0,16.0,0.0,,,rouge
+Romanée-Saint-Vivant,Romanée-Saint-Vivant Grand Cru,sec,rouge,7.0,35.0,16.0,0.0,,,rouge
+Ruchottes-Chambertin,Ruchottes-Chambertin Grand Cru,sec,rouge,7.0,30.0,16.0,0.0,,,rouge
+Vosne-Romanée,Vosne-Romanée,sec,rouge,2.0,13.0,16.0,0.0,,,rouge
+Vosne-Romanée,Vosne-Romanée Premier Cru,sec,rouge,5.0,20.0,16.0,0.0,,,rouge
+Vougeot,Vougeot,sec,rouge,3.0,12.0,16.0,0.0,,,rouge
+Vougeot,Vougeot Premier Cru,sec,rouge,5.0,15.0,16.0,0.0,,,rouge
+Vougeot,Vougeot,sec,blanc,2.0,10.0,13.0,0.0,,,blanc
+Vougeot,Vougeot Premier Cru,sec,blanc,2.0,15.0,13.0,0.0,,,blanc
+COTEAUX-DU-LYONNAIS,COTEAUX-DU-LYONNAIS,sec,rouge,2.0,5.0,14.0,16.0,,,rouge
+COTEAUX-DU-LYONNAIS,COTEAUX-DU-LYONNAIS,sec,blanc,1.0,4.0,10.0,12.0,,,blanc
+COTEAUX-DU-LYONNAIS,COTEAUX-DU-LYONNAIS,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+MÂCON ET MÂCON-VILLAGES,MÂCON ET MÂCON-VILLAGES,sec,rouge,2.0,6.0,14.0,0.0,,,rouge
+MÂCON ET MÂCON-VILLAGES,MÂCON ET MÂCON-VILLAGES,sec,blanc,2.0,8.0,12.0,13.0,,,blanc
+MÂCON ET MÂCON-VILLAGES,MÂCON ET MÂCON-VILLAGES,sec,rosé,1.0,3.0,10.0,0.0,,,rosé
+MÂCON SUPÉRIEUR,MÂCON SUPÉRIEUR,sec,rouge,2.0,8.0,14.0,0.0,,,rouge
+MÂCON SUPÉRIEUR,MÂCON SUPÉRIEUR,sec,blanc,2.0,10.0,12.0,13.0,,,blanc
+MÂCON SUPÉRIEUR,MÂCON SUPÉRIEUR,sec,rosé,1.0,4.0,10.0,0.0,,,rosé
+Pouilly-Fuissé,Pouilly-Fuissé,sec,blanc,3.0,12.0,13.0,0.0,,,blanc
+Pouilly-Loché,Pouilly-Loché,sec,blanc,5.0,15.0,13.0,0.0,,,blanc
+Pouilly-Vinzelles,Pouilly-Vinzelles,sec,blanc,2.0,8.0,13.0,0.0,,,blanc
+Saint-Véran,Saint-Véran,sec,blanc,3.0,8.0,13.0,0.0,,,blanc
+Viré-Clessé,Viré-Clessé,sec,blanc,3.0,10.0,13.0,0.0,,,blanc
+Vins de pays/IGP Comtés rhodaniens,Vins de pays/IGP Comtés rhodaniens,sec,rouge,2.0,5.0,16.0,16.0,,,rouge
+Vins de pays/IGP Comtés rhodaniens,Vins de pays/IGP Comtés rhodaniens,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+Vins de pays/IGP Comtés rhodaniens,Vins de pays/IGP Comtés rhodaniens,sec,rosé,2.0,4.0,8.0,10.0,,,rosé
+Champagne,Champagne millésimé,effervescent,blanc,1.0,15.0,10.0,12.0,,,blanc
+Champagne,Champagne millésimé,effervescent,rosé,1.0,15.0,11.0,12.0,,,rosé
+Champagne,Champagne BSA,effervescent,blanc,1.0,8.0,8.0,10.0,,,blanc
+Champagne,Champagne BSA,effervescent,rosé,1.0,8.0,9.0,11.0,,,rosé
+Champagne,Coteaux-Champenois,sec,rouge,3.0,8.0,13.0,14.0,,,rouge
+Champagne,Coteaux-Champenois,sec,blanc,2.0,10.0,10.0,10.0,,,blanc
+Champagne,Coteaux-Champenois,sec,rosé,1.0,4.0,8.0,10.0,,,rosé
+Champagne,ROSÉ-DES-RICEYS,sec,rosé,2.0,6.0,10.0,12.0,,,rosé
+Vins de pays/IGP Coteaux de Coiffy,Vins de pays/IGP Coteaux de Coiffy,sec,rouge,2.0,7.0,12.0,14.0,,,rouge
+Vins de pays/IGP Coteaux de Coiffy,Vins de pays/IGP Coteaux de Coiffy,sec,blanc,2.0,7.0,12.0,14.0,,,blanc
+Vins de pays/IGP Coteaux de Coiffy,Vins de pays/IGP Coteaux de Coiffy,sec,rosé,1.0,4.0,11.0,13.0,,,rosé
+Vins de pays/IGP Haute-Marne,Vins de pays/IGP Haute-Marne,sec,rouge,2.0,5.0,16.0,17.0,,,rouge
+Vins de pays/IGP Haute-Marne,Vins de pays/IGP Haute-Marne,sec,blanc,2.0,5.0,12.0,14.0,,,blanc
+Vins de pays/IGP Haute-Marne,Vins de pays/IGP Haute-Marne,effervescent,blanc,1.0,3.0,6.0,8.0,,,blanc
+Vins de pays/IGP Haute-Marne,Vins de pays/IGP Haute-Marne,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Ajaccio,Ajaccio,sec,rouge,2.0,5.0,16.0,16.0,,,rouge
+Ajaccio,Ajaccio,sec,blanc,1.0,3.0,7.0,9.0,,,blanc
+Ajaccio,Ajaccio,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Vins de pays/IGP Charentais,Vins de pays/IGP Charentais,sec,rouge,1.0,4.0,16.0,16.0,,,rouge
+Vins de pays/IGP Charentais,Vins de pays/IGP Charentais,sec,blanc,1.0,2.0,9.0,11.0,,,blanc
+Vins de pays/IGP Charentais,Vins de pays/IGP Charentais,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+MUSCAT-DU-CAP-CORSE,MUSCAT-DU-CAP-CORSE,doux,blanc,3.0,10.0,9.0,11.0,,,jaune
+Patrimonio,Patrimonio,sec,rouge,3.0,10.0,16.0,16.0,,,rouge
+Patrimonio,Patrimonio,sec,blanc,1.0,3.0,10.0,11.0,,,blanc
+Patrimonio,Patrimonio,sec,rosé,1.0,2.0,12.0,12.0,,,rosé
+CORSE (VIN DE),CORSE (VIN DE),sec,rouge,2.0,5.0,16.0,0.0,,,rouge
+CORSE (VIN DE),CORSE (VIN DE),sec,blanc,1.0,3.0,8.0,0.0,,,blanc
+CORSE (VIN DE),CORSE (VIN DE),sec,rosé,1.0,3.0,10.0,0.0,,,rosé
+Arbois,Arbois,sec,rouge,3.0,10.0,14.0,16.0,,,rouge
+Arbois,Arbois,sec,blanc,1.0,7.0,11.0,0.0,,,blanc
+Arbois,Arbois,sec,rosé,1.0,2.0,10.0,12.0,,,rosé
+Arbois,Arbois Vin de paille,doux,blanc,5.0,20.0,7.0,8.0,,,jaune
+Arbois,Arbois vin jaune,sec,blanc,7.0,40.0,14.0,14.0,,,blanc
+CHÂTEAU-CHALON,CHÂTEAU-CHALON,sec,blanc,7.0,60.0,14.0,16.0,,,blanc
+CÔTES-DU-JURA,CÔTES-DU-JURA,sec,blanc,2.0,8.0,12.0,14.0,,,blanc
+CÔTES-DU-JURA,CÔTES-DU-JURA,sec,rouge,2.0,10.0,16.0,16.0,,,rouge
+CÔTES-DU-JURA,CÔTES-DU-JURA,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+CÔTES-DU-JURA,CÔTES-DU-JURA Vin jaune,doux,blanc,6.0,40.0,15.0,16.0,,,jaune
+CÔTES-DU-JURA,CÔTES-DU-JURA,doux,blanc,5.0,15.0,8.0,10.0,,,jaune
+Crémant du Jura,CRÉMANT-DU-JURA,effervescent,blanc,1.0,5.0,8.0,0.0,,,blanc
+Crémant du Jura,CRÉMANT-DU-JURA,effervescent,rosé,1.0,4.0,8.0,0.0,,,rosé
+L'ÉTOILE,L'ÉTOILE,sec,blanc,3.0,10.0,12.0,0.0,,,blanc
+L'ÉTOILE,L'ÉTOILE vin jaune,sec,blanc,6.0,40.0,14.0,16.0,,,blanc
+L'ÉTOILE,L'ÉTOILE vin de paille,doux,blanc,10.0,35.0,8.0,10.0,,,jaune
+Vins de pays/IGP Franche-Comté,Vins de pays/IGP Franche-Comté,sec,rouge,2.0,5.0,16.0,16.0,,,rouge
+Vins de pays/IGP Franche-Comté,Vins de pays/IGP Franche-Comté,sec,blanc,1.0,5.0,12.0,14.0,,,blanc
+Vins de pays/IGP Franche-Comté,Vins de pays/IGP Franche-Comté,sec,rosé,1.0,2.0,9.0,11.0,,,rosé
+MACVIN-DU-JURA,MACVIN-DU-JURA,doux,blanc,5.0,20.0,10.0,13.0,,,jaune
+MACVIN-DU-JURA,MACVIN-DU-JURA,doux,rouge,5.0,20.0,11.0,14.0,,,rouge
+MACVIN-DU-JURA,MACVIN-DU-JURA,doux,rosé,5.0,15.0,10.0,13.0,,,rosé
+Cabardès,Cabardès,sec,rouge,5.0,10.0,14.0,16.0,,,rouge
+Cabardès,Cabardès,sec,rosé,1.0,3.0,10.0,12.0,,,rosé
+Clairette-du-languedoc,Clairette-du-languedoc,sec,blanc,1.0,3.0,10.0,10.0,,,blanc
+Clairette-du-languedoc,Clairette-du-languedoc,doux,blanc,5.0,15.0,10.0,13.0,,,jaune
+Clairette-du-languedoc,Clairette-du-languedoc rancio,doux,blanc,4.0,12.0,10.0,13.0,,,jaune
+Corbières,Corbières,sec,blanc,4.0,8.0,10.0,11.0,,,blanc
+Corbières,Corbières,sec,rouge,4.0,10.0,16.0,18.0,,,rouge
+Corbières,Corbières,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Corbières-boutenac,Corbières-boutenac,sec,rouge,4.0,15.0,16.0,18.0,,,rouge
+Crémant-de-limoux,Crémant-de-limoux,effervescent,blanc,2.0,4.0,8.0,10.0,,,blanc
+Crémant-de-limoux,Crémant-de-limoux,effervescent,rosé,2.0,4.0,8.0,10.0,,,rosé
+Faugères,Faugères,sec,rouge,5.0,15.0,16.0,18.0,,,rouge
+Faugères,Faugères,sec,blanc,3.0,8.0,11.0,13.0,,,blanc
+Faugères,Faugères,sec,rosé,1.0,4.0,10.0,11.0,,,rosé
+Fitou,Fitou,sec,rouge,5.0,10.0,16.0,18.0,,,rouge
+La Clape,La Clape,sec,rouge,5.0,15.0,16.0,18.0,,,rouge
+IGP Coteaux de Béziers,IGP Coteaux de Béziers,sec,rouge,0.0,0.0,0.0,0.0,,,rouge
+IGP Coteaux de Béziers,IGP Coteaux de Béziers,sec,blanc,0.0,0.0,0.0,0.0,,,blanc
+IGP Coteaux de Béziers,IGP Coteaux de Béziers,sec,rosé,0.0,0.0,0.0,0.0,,,rosé
+Languedoc,Languedoc,sec,rouge,2.0,10.0,16.0,18.0,,,rouge
+Languedoc,Languedoc,sec,blanc,1.0,8.0,9.0,11.0,,,blanc
+Languedoc,Languedoc,sec,rosé,1.0,4.0,10.0,12.0,,,rosé
+Vins de pays/IGP Cathare,Vins de pays/IGP Cathare,sec,rouge,1.0,3.0,16.0,17.0,,,rouge
+Vins de pays/IGP Cathare,Vins de pays/IGP Cathare,sec,blanc,1.0,3.0,10.0,12.0,,,blanc
+Vins de pays/IGP Cathare,Vins de pays/IGP Cathare,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Cité de Carcassonne,Vins de pays/IGP Cité de Carcassonne,sec,rouge,1.0,4.0,16.0,16.0,,,rouge
+Vins de pays/IGP Cité de Carcassonne,Vins de pays/IGP Cité de Carcassonne,sec,blanc,1.0,3.0,10.0,11.0,,,blanc
+Vins de pays/IGP Cité de Carcassonne,Vins de pays/IGP Cité de Carcassonne,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Coteaux d'Ensérune,Vins de pays/IGP Coteaux d'Ensérune,sec,rouge,2.0,8.0,14.0,16.0,,,rouge
+Vins de pays/IGP Coteaux d'Ensérune,Vins de pays/IGP Coteaux d'Ensérune,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+Vins de pays/IGP Coteaux d'Ensérune,Vins de pays/IGP Coteaux d'Ensérune,sec,rosé,1.0,2.0,7.0,9.0,,,rosé
+Vins de pays/IGP Coteaux de Peyriac,Vins de pays/IGP Coteaux de Peyriac,sec,rouge,1.0,3.0,16.0,16.0,,,rouge
+Vins de pays/IGP Coteaux de Peyriac,Vins de pays/IGP Coteaux de Peyriac,sec,blanc,1.0,2.0,7.0,9.0,,,blanc
+Vins de pays/IGP Coteaux de Peyriac,Vins de pays/IGP Coteaux de Peyriac,sec,rosé,1.0,2.0,7.0,9.0,,,rosé
+Vins de pays/IGP Côtes de Thau,Vins de pays/IGP Côtes de Thau,sec,rouge,2.0,6.0,16.0,18.0,,,rouge
+Vins de pays/IGP Côtes de Thau,Vins de pays/IGP Côtes de Thau,sec,blanc,2.0,5.0,11.0,13.0,,,blanc
+Vins de pays/IGP Côtes de Thau,Vins de pays/IGP Côtes de Thau,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Vins de pays/IGP Côtes de Thongue,Vins de pays/IGP Côtes de Thongue,sec,rouge,1.0,6.0,16.0,18.0,,,rouge
+Vins de pays/IGP Côtes de Thongue,Vins de pays/IGP Côtes de Thongue,sec,blanc,1.0,3.0,9.0,11.0,,,blanc
+Vins de pays/IGP Côtes de Thongue,Vins de pays/IGP Côtes de Thongue,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Côtes du Brian,Vins de pays/IGP Côtes du Brian,sec,rouge,2.0,6.0,16.0,18.0,,,rouge
+Vins de pays/IGP Côtes du Brian,Vins de pays/IGP Côtes du Brian,sec,blanc,1.0,3.0,11.0,12.0,,,blanc
+Vins de pays/IGP Côtes du Brian,Vins de pays/IGP Côtes du Brian,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Haute vallée de l'Aude,Vins de pays/IGP Haute vallée de l'Aude,sec,rouge,2.0,5.0,16.0,16.0,,,rouge
+Vins de pays/IGP Haute vallée de l'Aude,Vins de pays/IGP Haute vallée de l'Aude,sec,blanc,1.0,4.0,10.0,12.0,,,blanc
+Vins de pays/IGP Haute vallée de l'Aude,Vins de pays/IGP Haute vallée de l'Aude,sec,rosé,1.0,1.0,8.0,10.0,,,rosé
+Vins de pays/IGP Haute vallée de l'Orb,Vins de pays/IGP Haute vallée de l'Orb,sec,rouge,1.0,4.0,16.0,16.0,,,rouge
+Vins de pays/IGP Haute vallée de l'Orb,Vins de pays/IGP Haute vallée de l'Orb,sec,blanc,1.0,4.0,10.0,12.0,,,blanc
+Vins de pays/IGP Haute vallée de l'Orb,Vins de pays/IGP Haute vallée de l'Orb,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Hérault,Vins de pays/IGP Hérault,sec,rouge,3.0,12.0,16.0,16.0,,,rouge
+Vins de pays/IGP Hérault,Vins de pays/IGP Hérault,sec,blanc,2.0,10.0,11.0,13.0,,,blanc
+Vins de pays/IGP Hérault,Vins de pays/IGP Hérault,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+Vins de pays/IGP Sable de Camargue,Vins de pays/IGP Sable de Camargue,sec,rouge,2.0,5.0,16.0,16.0,,,rouge
+Vins de pays/IGP Sable de Camargue,Vins de pays/IGP Sable de Camargue,sec,blanc,1.0,4.0,9.0,11.0,,,blanc
+Vins de pays/IGP Sable de Camargue,Vins de pays/IGP Sable de Camargue,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+Vins de pays/IGP Sable de Camargue,Vins de pays/IGP Sable de Camargue,sec,blanc,1.0,3.0,9.0,11.0,,,blanc
+Vins de pays/IGP Sable de Camargue,Vins de pays/IGP Sable de Camargue,effervescent,blanc,1.0,3.0,6.0,8.0,,,blanc
+Vins de pays/IGP Saint-Guilhem-le-Désert,Vins de pays/IGP Saint-Guilhem-le-Désert,sec,rouge,2.0,6.0,16.0,16.0,,,rouge
+Vins de pays/IGP Saint-Guilhem-le-Désert,Vins de pays/IGP Saint-Guilhem-le-Désert,sec,blanc,2.0,4.0,10.0,12.0,,,blanc
+Vins de pays/IGP Saint-Guilhem-le-Désert,Vins de pays/IGP Saint-Guilhem-le-Désert,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Torgan,Vins de pays/IGP Torgan,sec,rouge,2.0,4.0,16.0,16.0,,,rouge
+Vins de pays/IGP Torgan,Vins de pays/IGP Torgan,sec,blanc,1.0,4.0,9.0,11.0,,,blanc
+Vins de pays/IGP Torgan,Vins de pays/IGP Torgan,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Vallée du paradis,Vins de pays/IGP Vallée du paradis,sec,rouge,2.0,6.0,15.0,17.0,,,rouge
+Vins de pays/IGP Vallée du paradis,Vins de pays/IGP Vallée du paradis,sec,blanc,1.0,4.0,10.0,11.0,,,blanc
+Vins de pays/IGP Vallée du paradis,Vins de pays/IGP Vallée du paradis,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Vicomté d'Aumélas,Vins de pays/IGP Vicomté d'Aumélas,sec,rouge,2.0,7.0,16.0,16.0,,,rouge
+Vins de pays/IGP Vicomté d'Aumélas,Vins de pays/IGP Vicomté d'Aumélas,sec,blanc,2.0,5.0,12.0,14.0,,,blanc
+Vins de pays/IGP Vicomté d'Aumélas,Vins de pays/IGP Vicomté d'Aumélas,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGPCoteaux de Narbonne,Vins de pays/IGPCoteaux de Narbonne,sec,rouge,1.0,4.0,16.0,16.0,,,rouge
+Vins de pays/IGPCoteaux de Narbonne,Vins de pays/IGPCoteaux de Narbonne,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+Vins de pays/IGPCoteaux de Narbonne,Vins de pays/IGPCoteaux de Narbonne,sec,rosé,1.0,2.0,7.0,9.0,,,rosé
+Limoux,Limoux,sec,rouge,3.0,10.0,15.0,17.0,,,rouge
+Limoux,Limoux,sec,blanc,2.0,8.0,9.0,11.0,,,blanc
+Limoux,Blanquette méthode ancestrale,effervescent,blanc,2.0,5.0,8.0,10.0,,,blanc
+Limoux,Blanquette-de-limoux,effervescent,blanc,2.0,5.0,8.0,10.0,,,blanc
+Malepère,Malepère,sec,rouge,4.0,12.0,15.0,16.0,,,rouge
+Malepère,Malepère,sec,rosé,2.0,4.0,8.0,11.0,,,rosé
+Minervois,Minervois,sec,rouge,4.0,10.0,15.0,17.0,,,rouge
+Minervois,Minervois,sec,rosé,2.0,4.0,9.0,11.0,,,rosé
+Minervois,Minervois,sec,blanc,2.0,7.0,12.0,12.0,,,blanc
+Minervois-la-livinière,Minervois-la-livinière,sec,rouge,5.0,15.0,16.0,18.0,,,rouge
+Muscat-de-frontignan,Muscat-de-frontignan,doux,blanc,4.0,20.0,9.0,11.0,,,jaune
+Muscat-de-lunel,Muscat-de-lunel,doux,blanc,4.0,20.0,9.0,11.0,,,jaune
+Muscat-de-mireval,Muscat-de-mireval,doux,blanc,4.0,20.0,9.0,11.0,,,jaune
+Muscat-de-saint-jean-de-minervois,Muscat-de-saint-jean-de-minervois,doux,blanc,4.0,20.0,9.0,11.0,,,jaune
+Pic-saint-loup,Pic-saint-loup,sec,rouge,5.0,15.0,16.0,18.0,,,rouge
+Picpoul-de-pinet,Picpoul-de-pinet,sec,rouge,5.0,15.0,16.0,18.0,,,rouge
+Saint-chinian,Saint-chinian,sec,rouge,3.0,10.0,16.0,18.0,,,rouge
+Saint-chinian,Saint-chinian,sec,blanc,3.0,8.0,8.0,10.0,,,blanc
+Saint-chinian,Saint-chinian,sec,rosé,2.0,4.0,9.0,11.0,,,rosé
+Vins de pays/IGP Oc,Vins de pays/IGP Oc,sec,rouge,2.0,6.0,15.0,17.0,,,rouge
+Vins de pays/IGP Oc,Vins de pays/IGP Oc,sec,blanc,1.0,4.0,9.0,11.0,,,blanc
+Vins de pays/IGP Oc,Vins de pays/IGP Oc,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+Côtes-de-toul,Côtes-de-toul,sec,rouge,2.0,6.0,14.0,16.0,,,rouge
+Côtes-de-toul,Côtes-de-toul,sec,blanc,3.0,5.0,10.0,12.0,,,blanc
+Côtes-de-toul,Côtes-de-toul,sec,blanc,2.0,3.0,9.0,11.0,,,blanc
+Vins de pays/IGP Côte de Meuse,Vins de pays/IGP Côte de Meuse,sec,rouge,1.0,3.0,16.0,16.0,,,rouge
+Vins de pays/IGP Côte de Meuse,Vins de pays/IGP Côte de Meuse,sec,blanc,1.0,2.0,8.0,10.0,,,blanc
+Vins de pays/IGP Côte de Meuse,Vins de pays/IGP Côte de Meuse,sec,rosé,1.0,3.0,8.0,11.0,,,rosé
+Moselle,Moselle,sec,rouge,2.0,5.0,14.0,16.0,,,rouge
+Moselle,Moselle,sec,blanc,3.0,5.0,10.0,12.0,,,blanc
+Moselle,Moselle,sec,rosé,2.0,3.0,10.0,12.0,,,rosé
+Haut-poitou,Haut-poitou,sec,rouge,3.0,10.0,14.0,16.0,,,rouge
+Haut-poitou,Haut-poitou,sec,blanc,2.0,5.0,9.0,11.0,,,blanc
+Haut-poitou,Haut-poitou,sec,rosé,1.0,3.0,8.0,11.0,,,rosé
+Bandol,Bandol,sec,rouge,3.0,20.0,16.0,18.0,,,rouge
+Bandol,Bandol,sec,rosé,2.0,7.0,8.0,11.0,,,rosé
+Bandol,Bandol,sec,blanc,2.0,5.0,8.0,11.0,,,blanc
+Baux-de-Provence (Les),Baux-de-Provence (Les),sec,rouge,3.0,15.0,15.0,17.0,,,rouge
+Baux-de-Provence (Les),Baux-de-Provence (Les),sec,blanc,2.0,8.0,8.0,11.0,,,blanc
+Baux-de-Provence (Les),Baux-de-Provence (Les),sec,rosé,2.0,5.0,8.0,10.0,,,rosé
+Bellet,Bellet,sec,rouge,3.0,15.0,14.0,15.0,,,rouge
+Bellet,Bellet,sec,blanc,3.0,10.0,8.0,11.0,,,blanc
+Bellet,Bellet,sec,rosé,1.0,3.0,10.0,12.0,,,rosé
+Cassis,Cassis,sec,rouge,2.0,7.0,14.0,16.0,,,rouge
+Cassis,Cassis,sec,blanc,4.0,10.0,10.0,12.0,,,blanc
+Cassis,Cassis,sec,rosé,2.0,4.0,10.0,11.0,,,rosé
+Coteaux-d'aix-en-provence,Coteaux-d'aix-en-provence,sec,rouge,3.0,15.0,14.0,16.0,,,rouge
+Coteaux-d'aix-en-provence,Coteaux-d'aix-en-provence,sec,blanc,2.0,8.0,8.0,10.0,,,blanc
+Coteaux-d'aix-en-provence,Coteaux-d'aix-en-provence,sec,rosé,1.0,4.0,9.0,11.0,,,rosé
+Coteaux-varois-en-provence,Coteaux-varois-en-provence,sec,rouge,3.0,15.0,14.0,16.0,,,rouge
+Coteaux-varois-en-provence,Coteaux-varois-en-provence,sec,blanc,2.0,8.0,8.0,10.0,,,blanc
+Coteaux-varois-en-provence,Coteaux-varois-en-provence,sec,rosé,1.0,4.0,9.0,11.0,,,rosé
+Côtes-de-provence,Côtes-de-provence,sec,rouge,3.0,15.0,14.0,16.0,,,rouge
+Côtes-de-provence,Côtes-de-provence,sec,blanc,2.0,8.0,8.0,10.0,,,blanc
+Côtes-de-provence,Côtes-de-provence,sec,rosé,1.0,4.0,9.0,11.0,,,rosé
+Palette,Palette,sec,rouge,4.0,16.0,15.0,17.0,,,rouge
+Palette,Palette,sec,blanc,4.0,12.0,10.0,12.0,,,blanc
+Palette,Palette,sec,rosé,2.0,6.0,10.0,13.0,,,rosé
+Vins de pays/IGP Alpes-de-Haute-Provence,Vins de pays/IGP Alpes-de-Haute-Provence,sec,rouge,2.0,10.0,16.0,16.0,,,rouge
+Vins de pays/IGP Alpes-de-Haute-Provence,Vins de pays/IGP Alpes-de-Haute-Provence,sec,blanc,1.0,2.0,8.0,10.0,,,blanc
+Vins de pays/IGP Alpes-de-Haute-Provence,Vins de pays/IGP Alpes-de-Haute-Provence,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+Vins de pays/IGP Alpes-Maritimes,Vins de pays/IGP Alpes-Maritimes,sec,rouge,2.0,8.0,14.0,16.0,,,rouge
+Vins de pays/IGP Alpes-Maritimes,Vins de pays/IGP Alpes-Maritimes,sec,blanc,1.0,4.0,8.0,10.0,,,blanc
+Vins de pays/IGP Alpes-Maritimes,Vins de pays/IGP Alpes-Maritimes,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Vins de pays/IGP Alpilles,Vins de pays/IGP Alpilles,sec,rouge,2.0,6.0,14.0,16.0,,,rouge
+Vins de pays/IGP Alpilles,Vins de pays/IGP Alpilles,sec,blanc,1.0,4.0,8.0,10.0,,,blanc
+Vins de pays/IGP Alpilles,Vins de pays/IGP Alpilles,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Maures,Vins de pays/IGP Maures,sec,rouge,2.0,4.0,16.0,16.0,,,rouge
+Vins de pays/IGP Maures,Vins de pays/IGP Maures,sec,blanc,1.0,4.0,8.0,10.0,,,blanc
+Vins de pays/IGP Maures,Vins de pays/IGP Maures,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Vins de pays/IGP Mont-Caume,Vins de pays/IGP Mont-Caume,sec,rouge,2.0,5.0,16.0,16.0,,,rouge
+Vins de pays/IGP Mont-Caume,Vins de pays/IGP Mont-Caume,sec,blanc,1.0,4.0,8.0,10.0,,,blanc
+Vins de pays/IGP Mont-Caume,Vins de pays/IGP Mont-Caume,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Vins de pays/IGP Var,Vins de pays/IGP Var,sec,rouge,2.0,6.0,16.0,16.0,,,rouge
+Vins de pays/IGP Var,Vins de pays/IGP Var,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+Vins de pays/IGP Var,Vins de pays/IGP Var,sec,rosé,1.0,4.0,10.0,12.0,,,rosé
+Vins de pays/IGPCoteaux du Verdon,Vins de pays/IGPCoteaux du Verdon,sec,rouge,2.0,6.0,16.0,16.0,,,rouge
+Vins de pays/IGPCoteaux du Verdon,Vins de pays/IGPCoteaux du Verdon,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+Vins de pays/IGPCoteaux du Verdon,Vins de pays/IGPCoteaux du Verdon,sec,rosé,1.0,4.0,10.0,12.0,,,rosé
+Vins de pays/IGPHautes-Alpes,Vins de pays/IGPHautes-Alpes,sec,rouge,2.0,5.0,16.0,16.0,,,rouge
+Vins de pays/IGPHautes-Alpes,Vins de pays/IGPHautes-Alpes,sec,blanc,1.0,5.0,8.0,10.0,,,blanc
+Vins de pays/IGPHautes-Alpes,Vins de pays/IGPHautes-Alpes,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Vins de pays/IGPHautes-Alpes,Vins de pays/IGPHautes-Alpes,effervescent,blanc,1.0,3.0,6.0,8.0,,,blanc
+Vins de pays/IGP Île de Beauté,Vins de pays/IGP Île de Beauté,sec,rouge,2.0,4.0,14.0,15.0,,,rouge
+Vins de pays/IGP Île de Beauté,Vins de pays/IGP Île de Beauté,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+Vins de pays/IGP Île de Beauté,Vins de pays/IGP Île de Beauté,sec,rosé,1.0,2.0,8.0,9.0,,,rosé
+Banyuls,Banyuls,doux,rouge,5.0,25.0,10.0,12.0,,,rouge
+Banyuls,Banyuls,doux,blanc,6.0,12.0,10.0,13.0,,,jaune
+Banyuls,Banyuls,doux,rosé,5.0,10.0,10.0,13.0,,,rosé
+Banyuls,Banyuls rancio,doux,rouge,5.0,50.0,12.0,14.0,,,rouge
+Banyuls,Banyuls ambré,doux,blanc,6.0,15.0,10.0,13.0,,,jaune
+Banyuls grand cru,Banyuls grand cru,doux,rouge,5.0,30.0,10.0,12.0,,,rouge
+Banyuls grand cru rancio,Banyuls grand cru,doux,rouge,5.0,50.0,12.0,14.0,,,rouge
+Collioure,Collioure,sec,rouge,5.0,15.0,16.0,18.0,,,rouge
+Collioure,Collioure,sec,blanc,4.0,12.0,8.0,11.0,,,blanc
+Collioure,Collioure,sec,rosé,2.0,8.0,8.0,10.0,,,rosé
+Côtes-du-roussillon,Côtes-du-roussillon,sec,rouge,3.0,10.0,16.0,18.0,,,rouge
+Côtes-du-roussillon,Côtes-du-roussillon,sec,blanc,2.0,8.0,8.0,10.0,,,blanc
+Côtes-du-roussillon,Côtes-du-roussillon,sec,rosé,1.0,3.0,10.0,12.0,,,rosé
+Côtes-du-roussillon-villages,Côtes-du-roussillon-villages,sec,rouge,2.0,10.0,16.0,18.0,,,rouge
+Maury,Maury,doux,rouge,5.0,25.0,10.0,12.0,,,rouge
+Maury,Maury,doux,blanc,5.0,15.0,10.0,13.0,,,jaune
+Maury,Maury rancio,doux,blanc,5.0,50.0,12.0,14.0,,,jaune
+Maury sec,Maury sec,sec,rouge,5.0,15.0,16.0,18.0,,,rouge
+Muscat-de-rivesaltes,Muscat-de-rivesaltes,doux,blanc,6.0,20.0,10.0,13.0,,,jaune
+Rivesaltes,Rivesaltes tuilé,doux,blanc,5.0,15.0,14.0,16.0,,,jaune
+Rivesaltes,Rivesaltes rancio,doux,blanc,5.0,35.0,12.0,14.0,,,jaune
+Rivesaltes,Rivesaltes,doux,rouge,5.0,15.0,11.0,13.0,,,rouge
+Vins de pays/IGP Côte Vermeille,Vins de pays/IGP Côte Vermeille,sec,rouge,1.0,4.0,16.0,16.0,,,rouge
+Vins de pays/IGP Côte Vermeille,Vins de pays/IGP Côte Vermeille,sec,blanc,1.0,3.0,10.0,11.0,,,blanc
+Vins de pays/IGP Côte Vermeille,Vins de pays/IGP Côte Vermeille,sec,rosé,1.0,2.0,7.0,9.0,,,rosé
+Vins de pays/IGP Côtes catalanes,Vins de pays/IGP Côtes catalanes,sec,rouge,3.0,10.0,16.0,16.0,,,rouge
+Vins de pays/IGP Côtes catalanes,Vins de pays/IGP Côtes catalanes,sec,blanc,1.0,4.0,8.0,10.0,,,blanc
+Vins de pays/IGP Côtes catalanes,Vins de pays/IGP Côtes catalanes,sec,rosé,1.0,2.0,7.0,9.0,,,rosé
+Bugey,Bugey,sec,blanc,1.0,2.0,10.0,0.0,,,blanc
+Bugey,Bugey,sec,rouge,3.0,10.0,14.0,16.0,,,rouge
+Bugey,Bugey,sec,rosé,1.0,2.0,10.0,12.0,,,rosé
+Bugey,Bugey,effervescent,blanc,1.0,5.0,6.0,6.0,,,blanc
+Bugey,Bugey Cerdon,effervescent,rosé,1.0,3.0,8.0,10.0,,,rosé
+CRÉPY,CRÉPY,sec,blanc,3.0,8.0,10.0,12.0,,,blanc
+Roussette du Bugey,Roussette du Bugey,sec,blanc,1.0,4.0,10.0,12.0,,,blanc
+ROUSSETTE-DE-SAVOIE,ROUSSETTE-DE-SAVOIE,sec,blanc,1.0,3.0,11.0,11.0,,,blanc
+ROUSSETTE-DE-SAVOIE,ROUSSETTE-DE-SAVOIE,sec,blanc,2.0,5.0,12.0,12.0,,,blanc
+Seyssel,Seyssel,sec,blanc,1.0,3.0,12.0,12.0,,,blanc
+SAVOIE (VIN DE),SAVOIE (VIN DE),sec,rouge,1.0,6.0,14.0,16.0,,,rouge
+SAVOIE (VIN DE),SAVOIE (VIN DE),sec,blanc,1.0,6.0,11.0,11.0,,,blanc
+CRÉMANT-DE-SAVOIE,CRÉMANT-DE-SAVOIE,effervescent,blanc,1.0,3.0,6.0,8.0,,,blanc
+Vins de Pays IGP vins des Allobroges,Vins de Pays IGP vins des Allobroges,sec,rouge,3.0,6.0,16.0,16.0,,,rouge
+Vins de Pays IGP vins des Allobroges,Vins de Pays IGP vins des Allobroges,sec,blanc,4.0,10.0,8.0,10.0,,,blanc
+Vins de pays/IGP Coteaux de l'Ain,Vins de pays/IGP Coteaux de l'Ain,sec,rouge,3.0,10.0,14.0,16.0,,,rouge
+Vins de pays/IGP Coteaux de l'Ain,Vins de pays/IGP Coteaux de l'Ain,sec,blanc,3.0,6.0,10.0,12.0,,,blanc
+Vins de pays/IGP Isère,Vins de pays/IGP Isère,sec,rouge,3.0,8.0,16.0,16.0,,,rouge
+Vins de pays/IGP Isère,Vins de pays/IGP Isère,sec,blanc,2.0,6.0,8.0,12.0,,,blanc
+Vins de pays/IGP Isère,Vins de pays/IGP Isère,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Duché d'Uzès,Duché d'Uzès,sec,rouge,2.0,5.0,16.0,16.0,,,rouge
+Duché d'Uzès,Duché d'Uzès,sec,blanc,1.0,4.0,10.0,12.0,,,blanc
+Duché d'Uzès,Duché d'Uzès,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Bouches-du-Rhône,Vins de pays/IGP Bouches-du-Rhône,sec,rouge,3.0,12.0,16.0,16.0,,,rouge
+Vins de pays/IGP Bouches-du-Rhône,Vins de pays/IGP Bouches-du-Rhône,sec,blanc,2.0,8.0,11.0,13.0,,,blanc
+Vins de pays/IGP Bouches-du-Rhône,Vins de pays/IGP Bouches-du-Rhône,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+Vins de pays/IGP Cévennes,Vins de pays/IGP Cévennes,sec,rouge,2.0,8.0,16.0,16.0,,,rouge
+Vins de pays/IGP Cévennes,Vins de pays/IGP Cévennes,sec,blanc,1.0,4.0,9.0,11.0,,,blanc
+Vins de pays/IGP Cévennes,Vins de pays/IGP Cévennes,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Coteaux du Pont du Gard,Vins de pays/IGP Coteaux du Pont du Gard,sec,rouge,2.0,6.0,16.0,16.0,,,rouge
+Vins de pays/IGP Coteaux du Pont du Gard,Vins de pays/IGP Coteaux du Pont du Gard,sec,blanc,1.0,3.0,11.0,13.0,,,blanc
+Vins de pays/IGP Coteaux du Pont du Gard,Vins de pays/IGP Coteaux du Pont du Gard,sec,rosé,1.0,2.0,9.0,11.0,,,rosé
+Vins de pays/IGP Gard,Vins de pays/IGP Gard,sec,rouge,3.0,8.0,16.0,16.0,,,rouge
+Vins de pays/IGP Gard,Vins de pays/IGP Gard,sec,blanc,2.0,5.0,12.0,14.0,,,blanc
+Vins de pays/IGP Gard,Vins de pays/IGP Gard,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Méditerranée,Vins de pays/IGP Méditerranée,sec,rouge,2.0,5.0,16.0,16.0,,,rouge
+Vins de pays/IGP Méditerranée,Vins de pays/IGP Méditerranée,sec,blanc,1.0,3.0,10.0,12.0,,,blanc
+Vins de pays/IGP Méditerranée,Vins de pays/IGP Méditerranée,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+FLOC-DE-GASCOGNE,FLOC-DE-GASCOGNE,doux,rosé,2.0,12.0,6.0,9.0,,,rosé
+FLOC-DE-GASCOGNE,FLOC-DE-GASCOGNE,doux,blanc,2.0,12.0,6.0,9.0,,,jaune
+Vins de pays/IGP Landes,Vins de pays/IGP Landes,sec,rouge,1.0,4.0,14.0,16.0,,,rouge
+Vins de pays/IGP Landes,Vins de pays/IGP Landes,sec,blanc,1.0,2.0,8.0,10.0,,,blanc
+Vins de pays/IGP Landes,Vins de pays/IGP Landes,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Béarn,Béarn,sec,rouge,2.0,8.0,14.0,16.0,,,rouge
+Béarn,Béarn,sec,blanc,2.0,6.0,7.0,10.0,,,blanc
+Béarn,Béarn,sec,rosé,1.0,4.0,8.0,10.0,,,rosé
+Bergerac,Bergerac,sec,rouge,3.0,12.0,15.0,16.0,,,rouge
+Bergerac,Bergerac,sec,blanc,2.0,8.0,10.0,11.0,,,blanc
+Bergerac,Bergerac,sec,rosé,1.0,4.0,11.0,13.0,,,rosé
+Brulhois,Brulhois,sec,rouge,4.0,12.0,16.0,18.0,,,rouge
+Brulhois,Brulhois,sec,rosé,1.0,3.0,10.0,11.0,,,rosé
+Buzet,Buzet,sec,rouge,3.0,12.0,14.0,16.0,,,rouge
+Buzet,Buzet,sec,blanc,1.0,4.0,8.0,10.0,,,blanc
+Buzet,Buzet,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+Cahors,Cahors,sec,rouge,5.0,15.0,16.0,18.0,,,rouge
+Coteaux-du-quercy,Coteaux-du-quercy,sec,rouge,5.0,15.0,16.0,18.0,,,rouge
+Côtes-de-bergerac,Côtes-de-bergerac,sec,rouge,4.0,10.0,16.0,18.0,,,rouge
+Côtes-de-bergerac,Côtes-de-bergerac,moelleux,blanc,5.0,20.0,10.0,12.0,,,blanc
+Côtes-de-duras,Côtes-de-duras,sec,rouge,3.0,12.0,14.0,16.0,,,rouge
+Côtes-de-duras,Côtes-de-duras,sec,blanc,1.0,4.0,7.0,9.0,,,blanc
+Côtes-de-duras,Côtes-de-duras,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Côtes-de-duras,Côtes-de-duras,moelleux,blanc,2.0,15.0,10.0,13.0,,,blanc
+Côtes-de-millau,Côtes-de-millau,sec,rouge,5.0,15.0,16.0,18.0,,,rouge
+Côtes-de-millau,Côtes-de-millau,sec,blanc,1.0,4.0,8.0,10.0,,,blanc
+Côtes-de-millau,Côtes-de-millau,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Côtes-de-montravel,Côtes-de-montravel,doux,blanc,5.0,20.0,10.0,13.0,,,jaune
+Côtes-du-marmandais,Côtes-du-marmandais,sec,rouge,5.0,15.0,16.0,18.0,,,rouge
+Côtes-du-marmandais,Côtes-du-marmandais,sec,blanc,3.0,10.0,8.0,10.0,,,blanc
+Côtes-du-marmandais,Côtes-du-marmandais,sec,rosé,2.0,3.0,10.0,12.0,,,rosé
+Entraygues-le-fel,Entraygues-le-fel,sec,rouge,3.0,8.0,16.0,0.0,,,rouge
+Entraygues-le-fel,Entraygues-le-fel,sec,blanc,2.0,4.0,10.0,12.0,,,blanc
+Entraygues-le-fel,Entraygues-le-fel,sec,rosé,1.0,3.0,10.0,12.0,,,rosé
+Fronton,Fronton,sec,rouge,4.0,15.0,16.0,0.0,,,rouge
+Fronton,Fronton,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Gaillac,Gaillac,sec,rouge,3.0,8.0,15.0,17.0,,,rouge
+Gaillac,Gaillac,sec,rosé,1.0,4.0,8.0,10.0,,,rosé
+Gaillac,Gaillac,sec,blanc,2.0,6.0,8.0,10.0,,,blanc
+Gaillac,Gaillac,effervescent,blanc,1.0,3.0,6.0,8.0,,,blanc
+Gaillac,Gaillac,doux,blanc,5.0,25.0,10.0,12.0,,,jaune
+Gaillac,Gaillac vendanges tardives,doux,blanc,7.0,30.0,11.0,14.0,,,jaune
+Haut-montravel,Haut-montravel,moelleux,blanc,5.0,20.0,8.0,10.0,,,blanc
+Irouléguy,Irouléguy,sec,rouge,3.0,15.0,16.0,0.0,,,rouge
+Irouléguy,Irouléguy,sec,blanc,2.0,8.0,10.0,12.0,,,blanc
+Irouléguy,Irouléguy,sec,rosé,2.0,5.0,9.0,11.0,,,rosé
+Jurançon,Jurançon,sec,blanc,2.0,10.0,10.0,12.0,,,blanc
+Jurançon,Jurançon,doux,blanc,5.0,20.0,10.0,13.0,,,jaune
+Jurançon,Jurançon vendandes tardives,doux,blanc,5.0,20.0,10.0,12.0,,,jaune
+Madiran,Madiran,sec,rouge,5.0,25.0,16.0,18.0,,,rouge
+Marcillac,Marcillac,sec,rouge,2.0,6.0,16.0,16.0,,,rouge
+Marcillac,Marcillac,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Monbazillac,Monbazillac,doux,blanc,5.0,25.0,9.0,11.0,,,jaune
+Montravel,Montravel,sec,rouge,5.0,15.0,16.0,0.0,,,rouge
+Montravel,Montravel,sec,blanc,2.0,8.0,8.0,10.0,,,blanc
+Pacherenc-du-vic-bilh,Pacherenc-du-vic-bilh,sec,blanc,2.0,5.0,10.0,12.0,,,blanc
+Pacherenc-du-vic-bilh,Pacherenc-du-vic-bilh,moelleux,blanc,5.0,20.0,8.0,10.0,,,blanc
+Pécharmant,Pécharmant,sec,rouge,4.0,15.0,16.0,16.0,,,rouge
+Rosette,Rosette,moelleux,blanc,2.0,7.0,8.0,10.0,,,blanc
+Saint-mont,Saint-mont,sec,rouge,2.0,6.0,14.0,16.0,,,rouge
+Saint-mont,Saint-mont,sec,blanc,1.0,4.0,10.0,12.0,,,blanc
+Saint-mont,Saint-mont,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+Saint-sardos,Saint-sardos,sec,rouge,3.0,10.0,15.0,16.0,,,rouge
+Saint-sardos,Saint-sardos,sec,rosé,1.0,3.0,10.0,12.0,,,rosé
+Saussignac,Saussignac,moelleux,blanc,5.0,20.0,8.0,10.0,,,blanc
+Saussignac,Saussignac,doux,blanc,5.0,25.0,9.0,11.0,,,jaune
+Lavilledieu,Lavilledieu,sec,rouge,2.0,4.0,16.0,16.0,,,rouge
+Lavilledieu,Lavilledieu,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Agenais,Vins de pays/IGP Agenais,sec,rouge,2.0,4.0,16.0,16.0,,,rouge
+Vins de pays/IGP Agenais,Vins de pays/IGP Agenais,sec,blanc,1.0,2.0,8.0,9.0,,,blanc
+Vins de pays/IGP Agenais,Vins de pays/IGP Agenais,sec,rosé,1.0,2.0,8.0,9.0,,,rosé
+Vins de pays/IGP Ariège,Vins de pays/IGP Ariège,sec,rouge,2.0,7.0,16.0,16.0,,,rouge
+Vins de pays/IGP Ariège,Vins de pays/IGP Ariège,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+Vins de pays/IGP Ariège,Vins de pays/IGP Ariège,moelleux,blanc,1.0,4.0,10.0,11.0,,,blanc
+Vins de pays/IGP Ariège,Vins de pays/IGP Ariège,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Atlantique,Vins de pays/IGP Atlantique,sec,rouge,1.0,4.0,15.0,17.0,,,rouge
+Vins de pays/IGP Atlantique,Vins de pays/IGP Atlantique,sec,blanc,1.0,2.0,8.0,9.0,,,blanc
+Vins de pays/IGP Atlantique,Vins de pays/IGP Atlantique,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Aude,Vins de pays/IGP Aude,sec,rouge,1.0,4.0,16.0,16.0,,,rouge
+Vins de pays/IGP Aude,Vins de pays/IGP Aude,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+Vins de pays/IGP Aude,Vins de pays/IGP Aude,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Aveyron,Vins de pays/IGP Aveyron,sec,rouge,1.0,3.0,16.0,16.0,,,rouge
+Vins de pays/IGP Aveyron,Vins de pays/IGP Aveyron,sec,blanc,1.0,3.0,10.0,12.0,,,blanc
+Vins de pays/IGP Aveyron,Vins de pays/IGP Aveyron,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Comté tolosan,Vins de pays/IGP Comté tolosan,sec,rouge,2.0,4.0,14.0,16.0,,,rouge
+Vins de pays/IGP Comté tolosan,Vins de pays/IGP Comté tolosan,sec,blanc,1.0,3.0,8.0,11.0,,,blanc
+Vins de pays/IGP Comté tolosan,Vins de pays/IGP Comté tolosan,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+Vins de pays/IGP Corrèze,Vins de pays/IGP Corrèze,sec,rouge,1.0,4.0,16.0,16.0,,,rouge
+Vins de pays/IGP Corrèze,Vins de pays/IGP Corrèze,doux,rouge,2.0,10.0,8.0,10.0,,,rouge
+Vins de pays/IGP Corrèze,Vins de pays/IGP Corrèze,sec,blanc,2.0,6.0,8.0,10.0,,,blanc
+Vins de pays/IGP Corrèze,Vins de pays/IGP Corrèze,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Coteaux de Glanes,Vins de pays/IGP Coteaux de Glanes,sec,rouge,1.0,3.0,14.0,16.0,,,rouge
+Vins de pays/IGP Coteaux de Glanes,Vins de pays/IGP Coteaux de Glanes,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Côtes de Gascogne,Vins de pays/IGP Côtes de Gascogne,sec,rouge,2.0,5.0,16.0,16.0,,,rouge
+Vins de pays/IGP Côtes de Gascogne,Vins de pays/IGP Côtes de Gascogne,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+Vins de pays/IGP Côtes de Gascogne,Vins de pays/IGP Côtes de Gascogne,sec,rosé,1.0,4.0,9.0,11.0,,,rosé
+Vins de pays/IGP Côtes du Lot,Vins de pays/IGP Côtes du Lot,sec,rouge,1.0,5.0,13.0,15.0,,,rouge
+Vins de pays/IGP Côtes du Lot,Vins de pays/IGP Côtes du Lot,sec,blanc,1.0,4.0,10.0,12.0,,,blanc
+Vins de pays/IGP Côtes du Lot,Vins de pays/IGP Côtes du Lot,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Côtes du Tarn,Vins de pays/IGP Côtes du Tarn,sec,rouge,2.0,5.0,16.0,16.0,,,rouge
+Vins de pays/IGP Côtes du Tarn,Vins de pays/IGP Côtes du Tarn,sec,blanc,1.0,5.0,10.0,12.0,,,blanc
+Vins de pays/IGP Côtes du Tarn,Vins de pays/IGP Côtes du Tarn,sec,rosé,1.0,2.0,8.0,9.0,,,rosé
+Vins de pays/IGP Gers,Vins de pays/IGP Gers,sec,rouge,1.0,4.0,14.0,16.0,,,rouge
+Vins de pays/IGP Gers,Vins de pays/IGP Gers,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+Vins de pays/IGP Gers,Vins de pays/IGP Gers,doux,blanc,1.0,4.0,9.0,11.0,,,jaune
+Vins de pays/IGP Gers,Vins de pays/IGP Gers,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Périgord,Vins de pays/IGP Périgord Domme,sec,rouge,3.0,6.0,16.0,18.0,,,rouge
+Vins de pays/IGP Périgord,Vins de pays/IGP Périgord,sec,rouge,2.0,5.0,16.0,18.0,,,rouge
+Vins de pays/IGP Périgord,Vins de pays/IGP Périgord,sec,blanc,1.0,3.0,9.0,11.0,,,blanc
+Vins de pays/IGP Périgord,Vins de pays/IGP Périgord,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Thézac-Perricard,Vins de pays/IGP Thézac-Perricard,sec,rouge,2.0,6.0,15.0,16.0,,,rouge
+Vins de pays/IGP Thézac-Perricard,Vins de pays/IGP Thézac-Perricard,sec,rosé,1.0,2.0,8.0,9.0,,,rosé
+Tursan,Tursan,sec,rouge,4.0,15.0,16.0,16.0,,,rouge
+VINS-D'ESTAING,Tursan,sec,blanc,2.0,5.0,8.0,10.0,,,blanc
+VINS-D'ESTAING,Tursan,sec,rosé,1.0,3.0,10.0,11.0,,,rosé
+Anjou,Anjou,sec,rouge,2.0,5.0,14.0,15.0,,,rouge
+Anjou,Anjou,sec,blanc,2.0,4.0,8.0,10.0,,,blanc
+Anjou,Anjou-Gamay,sec,rouge,1.0,1.0,13.0,14.0,,,rouge
+Anjou,Anjou,effervescent,blanc,1.0,3.0,6.0,8.0,,,blanc
+Anjou,Anjou,effervescent,rouge,1.0,3.0,8.0,10.0,,,rouge
+Anjou-coteaux-de-la-loire,Anjou-coteaux-de-la-loire,doux,blanc,2.0,15.0,8.0,10.0,,,jaune
+Anjou-villages,Anjou-villages,sec,rouge,4.0,12.0,16.0,16.0,,,rouge
+Anjou-villages-brissac,Anjou-villages-brissac,sec,rouge,5.0,15.0,16.0,16.0,,,rouge
+Bonnezeaux,Bonnezeaux,doux,blanc,5.0,35.0,10.0,12.0,,,jaune
+Bourgueil,Bourgueil,sec,rouge,3.0,16.0,14.0,16.0,,,rouge
+Bourgueil,Bourgueil,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Cabernet-d'anjou,Cabernet-d'anjou,moelleux,rosé,2.0,3.0,8.0,11.0,,,rosé
+Cabernet-d'anjou,Cabernet-d'anjou,doux,rosé,2.0,3.0,8.0,11.0,,,rosé
+Cabernet-de-saumur,Cabernet-de-saumur,sec,rosé,1.0,2.0,10.0,12.0,,,rosé
+Cabernet-de-saumur,Cabernet-de-saumur,moelleux,rosé,2.0,3.0,8.0,10.0,,,rosé
+Châteaumeillant,Châteaumeillant,sec,rouge,2.0,5.0,14.0,16.0,,,rouge
+Châteaumeillant,Châteaumeillant,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+Chaume,Chaume,doux,blanc,3.0,25.0,11.0,13.0,,,jaune
+Cheverny,Cheverny,sec,rouge,3.0,10.0,14.0,14.0,,,rouge
+Cheverny,Cheverny,sec,blanc,1.0,5.0,8.0,10.0,,,blanc
+Cheverny,Cheverny,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Chinon,Chinon,sec,rouge,4.0,20.0,16.0,16.0,,,rouge
+Chinon,Chinon,sec,blanc,2.0,5.0,10.0,12.0,,,blanc
+Chinon,Chinon,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+Côte-roannaise,Côte-roannaise,sec,rouge,1.0,5.0,14.0,16.0,,,rouge
+Côte-roannaise,Côte-roannaise,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Coteaux-d'ancenis,Coteaux-d'ancenis,sec,rouge,3.0,7.0,14.0,16.0,,,rouge
+Coteaux-d'ancenis,Coteaux-d'ancenis,sec,blanc,2.0,5.0,10.0,12.0,,,blanc
+Coteaux-d'ancenis,Coteaux-d'ancenis,sec,rosé,1.0,3.0,10.0,12.0,,,rosé
+Coteaux-d'ancenis,Coteaux-d'ancenis Malvoisie,sec,blanc,3.0,15.0,10.0,10.0,,,blanc
+Coteaux-de-l'aubance,Coteaux-de-l'aubance vendanges tardives,doux,blanc,5.0,20.0,9.0,12.0,,,jaune
+Coteaux-de-l'aubance,Coteaux-de-l'aubance sélection de grains nobles,doux,blanc,5.0,35.0,10.0,13.0,,,jaune
+Coteaux-de-saumur,Coteaux-de-saumur,doux,blanc,5.0,20.0,10.0,12.0,,,jaune
+Coteaux-du-giennois,Coteaux-du-giennois,sec,rouge,2.0,6.0,14.0,15.0,,,rouge
+Coteaux-du-giennois,Coteaux-du-giennois,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+Coteaux-du-giennois,Coteaux-du-giennois,sec,rosé,1.0,2.0,10.0,12.0,,,rosé
+Coteaux-du-layon,Coteaux-du-layon,doux,blanc,5.0,25.0,10.0,13.0,,,jaune
+Coteaux-du-layon,Coteaux-du-layon sélection de grains nobles,doux,blanc,5.0,35.0,10.0,13.0,,,jaune
+Coteaux-du-loir,Coteaux-du-loir,sec,rouge,1.0,4.0,14.0,14.0,,,rouge
+Coteaux-du-loir,Coteaux-du-loir,sec,blanc,1.0,6.0,10.0,12.0,,,blanc
+Coteaux-du-loir,Coteaux-du-loir,sec,rosé,1.0,2.0,10.0,12.0,,,rosé
+Coteaux-du-vendômois,Coteaux-du-vendômois,sec,rouge,1.0,3.0,14.0,14.0,,,rouge
+Coteaux-du-vendômois,Coteaux-du-vendômois,sec,blanc,1.0,3.0,10.0,11.0,,,blanc
+Coteaux-du-vendômois,Coteaux-du-vendômois,sec,blanc,1.0,2.0,11.0,12.0,,,blanc
+Côtes-d'auvergne,Côtes-d'auvergne,sec,rouge,3.0,7.0,15.0,16.0,,,rouge
+Côtes-d'auvergne,Côtes-d'auvergne,sec,blanc,2.0,4.0,12.0,14.0,,,blanc
+Côtes-d'auvergne,Côtes-d'auvergne,sec,rosé,1.0,3.0,10.0,12.0,,,rosé
+Côtes-du-forez,Côtes-du-forez,sec,rouge,2.0,4.0,14.0,14.0,,,rouge
+Côtes-du-forez,Côtes-du-forez,sec,rosé,1.0,2.0,11.0,12.0,,,rosé
+Cour-cheverny,Cour-cheverny,sec,blanc,2.0,5.0,9.0,11.0,,,blanc
+Crémant-de-loire,Crémant-de-loire,effervescent,blanc,1.0,4.0,7.0,9.0,,,blanc
+Crémant-de-loire,Crémant-de-loire,effervescent,rosé,1.0,3.0,8.0,9.0,,,rosé
+Fiefs-vendéens,Fiefs-vendéens,sec,rouge,3.0,12.0,16.0,0.0,,,rouge
+Fiefs-vendéens,Fiefs-vendéens,sec,blanc,3.0,10.0,12.0,13.0,,,blanc
+Fiefs-vendéens,Fiefs-vendéens,sec,rosé,1.0,3.0,11.0,12.0,,,rosé
+Gros-plant-du-pays-nantais,Gros-plant-du-pays-nantais,sec,blanc,1.0,4.0,8.0,10.0,,,blanc
+Jasnières,Jasnières,sec,blanc,3.0,15.0,11.0,13.0,,,blanc
+Menetou-salon,Menetou-salon,sec,rouge,3.0,10.0,16.0,16.0,,,rouge
+Menetou-salon,Menetou-salon,sec,blanc,3.0,8.0,10.0,12.0,,,blanc
+Menetou-salon,Menetou-salon,sec,rosé,1.0,3.0,10.0,11.0,,,rosé
+Montlouis-sur-loire,Montlouis-sur-loire,sec,blanc,3.0,8.0,10.0,12.0,,,blanc
+Montlouis-sur-loire,Montlouis-sur-loire,moelleux,blanc,5.0,20.0,9.0,11.0,,,blanc
+Montlouis-sur-loire,Montlouis-sur-loire,effervescent,blanc,1.0,2.0,6.0,8.0,,,blanc
+Muscadet,Muscadet,sec,blanc,1.0,5.0,8.0,10.0,,,blanc
+Muscadet,Muscadet sur lie,sec,blanc,3.0,10.0,8.0,10.0,,,blanc
+Muscadet-coteaux-de-la-loire,Muscadet-coteaux-de-la-loire,sec,blanc,1.0,5.0,8.0,10.0,,,blanc
+Muscadet-côtes-de-grand-lieu,Muscadet-côtes-de-grand-lieu,sec,blanc,1.0,5.0,8.0,10.0,,,blanc
+Muscadet-sèvre-et-maine,Muscadet-sèvre-et-maine,sec,blanc,1.0,5.0,8.0,10.0,,,blanc
+Orléans,Orléans,sec,rouge,1.0,4.0,13.0,14.0,,,rouge
+Orléans,Orléans,sec,blanc,1.0,3.0,10.0,11.0,,,blanc
+Orléans,Orléans,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Orléans-cléry,Orléans-cléry,sec,rouge,2.0,5.0,13.0,14.0,,,rouge
+Pouilly-fumé,Pouilly-fumé,sec,blanc,3.0,15.0,10.0,12.0,,,blanc
+Pouilly-sur-loire,Pouilly-sur-loire,sec,blanc,2.0,6.0,10.0,12.0,,,blanc
+Quarts-de-chaume,Quarts-de-chaume,doux,blanc,5.0,35.0,8.0,10.0,,,jaune
+Quincy,Quincy,sec,blanc,3.0,10.0,10.0,12.0,,,blanc
+Reuilly,Reuilly,sec,rouge,1.0,4.0,16.0,16.0,,,rouge
+Reuilly,Reuilly,sec,blanc,1.0,3.0,10.0,11.0,,,blanc
+Reuilly,Reuilly,sec,rosé,1.0,2.0,12.0,12.0,,,rosé
+Rosé-d'anjou,Rosé-d'anjou,moelleux,rosé,1.0,4.0,10.0,12.0,,,rosé
+Rosé-de-loire,Rosé-de-loire,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Saint-nicolas-de-bourgueil,Saint-nicolas-de-bourgueil,sec,rouge,3.0,17.0,14.0,16.0,,,rouge
+Saint-nicolas-de-bourgueil,Saint-nicolas-de-bourgueil,sec,rosé,1.0,4.0,10.0,11.0,,,rosé
+Saint-pourçain,Saint-pourçain,sec,rouge,2.0,6.0,14.0,14.0,,,rouge
+Saint-pourçain,Saint-pourçain,sec,blanc,1.0,5.0,10.0,10.0,,,blanc
+Saint-pourçain,Saint-pourçain,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+Sancerre,Sancerre,sec,rouge,2.0,8.0,14.0,15.0,,,rouge
+Sancerre,Sancerre,sec,blanc,2.0,15.0,10.0,12.0,,,blanc
+Sancerre,Sancerre,sec,rosé,1.0,4.0,12.0,12.0,,,rosé
+Saumur,Saumur,sec,rouge,3.0,10.0,16.0,16.0,,,rouge
+Saumur,Saumur Puy-Notre-Dame,sec,rouge,3.0,15.0,15.0,15.0,,,rouge
+Saumur,Saumur,sec,blanc,2.0,10.0,12.0,14.0,,,blanc
+Saumur,Saumur,effervescent,blanc,1.0,3.0,6.0,8.0,,,blanc
+Saumur,Saumur,effervescent,rosé,1.0,2.0,6.0,8.0,,,rosé
+Saumur-champigny,Saumur-champigny,sec,rouge,3.0,12.0,16.0,16.0,,,rouge
+Savennières,Savennières,sec,blanc,3.0,15.0,11.0,13.0,,,blanc
+Savennières-coulée-de-serrant,Savennières-coulée-de-serrant,sec,blanc,4.0,20.0,11.0,13.0,,,blanc
+Savennières-roche-aux-moines,Savennières-roche-aux-moines,sec,blanc,3.0,15.0,11.0,13.0,,,blanc
+Touraine,Touraine,sec,rouge,2.0,10.0,14.0,15.0,,,rouge
+Touraine,Touraine,sec,blanc,1.0,5.0,8.0,10.0,,,blanc
+Touraine,Touraine,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Touraine,Touraine,effervescent,blanc,1.0,4.0,6.0,8.0,,,blanc
+Touraine,Touraine,effervescent,rosé,1.0,4.0,7.0,9.0,,,rosé
+Touraine,Touraine,effervescent,rouge,1.0,4.0,10.0,12.0,,,rouge
+Touraine-noble-joué,Touraine-noble-joué,sec,rosé,2.0,4.0,8.0,10.0,,,rosé
+TOURAINE-AMBOISE,TOURAINE-AMBOISE,sec,rouge,2.0,10.0,14.0,15.0,,,rouge
+TOURAINE-AMBOISE,TOURAINE-AMBOISE,sec,blanc,1.0,5.0,8.0,10.0,,,blanc
+TOURAINE-AMBOISE,TOURAINE-AMBOISE,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+TOURAINE-AZAY-LE-RIDEAU,TOURAINE-AZAY-LE-RIDEAU,sec,blanc,2.0,10.0,10.0,12.0,,,blanc
+TOURAINE-AZAY-LE-RIDEAU,TOURAINE-AZAY-LE-RIDEAU,sec,rosé,1.0,3.0,10.0,12.0,,,rosé
+TOURAINE-CHENONCEAUX,TOURAINE-CHENONCEAUX,sec,rouge,3.0,10.0,14.0,15.0,,,rouge
+TOURAINE-CHENONCEAUX,TOURAINE-CHENONCEAUX,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+TOURAINE-MESLAND,TOURAINE-MESLAND,sec,rouge,3.0,10.0,14.0,15.0,,,rouge
+TOURAINE-MESLAND,TOURAINE-MESLAND,sec,blanc,1.0,5.0,8.0,10.0,,,blanc
+TOURAINE-MESLAND,TOURAINE-MESLAND,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+TOURAINE-OISLY,TOURAINE-OISLY,sec,blanc,1.0,5.0,10.0,12.0,,,blanc
+Valençay,Valençay,sec,rouge,2.0,5.0,14.0,14.0,,,rouge
+Valençay,Valençay,sec,blanc,1.0,4.0,10.0,11.0,,,blanc
+Valençay,Valençay,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+Vins de pays/IGP Allier,Vins de pays/IGP Allier,sec,rouge,1.0,4.0,14.0,16.0,,,rouge
+Vins de pays/IGP Allier,Vins de pays/IGP Allier,sec,blanc,1.0,2.0,8.0,10.0,,,blanc
+Vins de pays/IGP Allier,Vins de pays/IGP Allier,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Calvados,Vins de pays/IGP Calvados,sec,rouge,1.0,4.0,12.0,14.0,,,rouge
+Vins de pays/IGP Calvados,Vins de pays/IGP Calvados,sec,blanc,1.0,6.0,9.0,11.0,,,blanc
+Vins de pays/IGP Calvados,Vins de pays/IGP Calvados,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Cher,Vins de pays/IGP Cher,sec,rouge,2.0,4.0,13.0,15.0,,,rouge
+Vins de pays/IGP Cher,Vins de pays/IGP Cher,sec,blanc,1.0,4.0,8.0,10.0,,,blanc
+Vins de pays/IGP Cher,Vins de pays/IGP Cher,sec,rosé,1.0,3.0,8.0,10.0,,,rosé
+Vins de pays/IGP Coteaux charitois,Vins de pays/IGP Coteaux charitois,sec,rouge,2.0,4.0,15.0,16.0,,,rouge
+Vins de pays/IGP Coteaux charitois,Vins de pays/IGP Coteaux charitois,sec,blanc,2.0,6.0,10.0,12.0,,,blanc
+Vins de pays/IGP Coteaux charitois,Vins de pays/IGP Coteaux charitois,sec,rosé,1.0,2.0,9.0,11.0,,,rosé
+Vins de pays/IGP Côtes de la Charité,Vins de pays/IGP Côtes de la Charité,sec,rouge,2.0,6.0,13.0,15.0,,,rouge
+Vins de pays/IGP Côtes de la Charité,Vins de pays/IGP Côtes de la Charité,sec,blanc,2.0,5.0,12.0,14.0,,,blanc
+Vins de pays/IGP Côtes de la Charité,Vins de pays/IGP Côtes de la Charité,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+Vins de pays/IGP Haute-Vienne,Vins de pays/IGP Haute-Vienne,sec,rouge,1.0,4.0,13.0,15.0,,,rouge
+Vins de pays/IGP Haute-Vienne,Vins de pays/IGP Haute-Vienne,sec,blanc,1.0,3.0,10.0,11.0,,,blanc
+Vins de pays/IGP Haute-Vienne,Vins de pays/IGP Haute-Vienne,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Puy-de-Dôme,Vins de pays/IGP Puy-de-Dôme,sec,rouge,2.0,5.0,16.0,16.0,,,rouge
+Vins de pays/IGP Puy-de-Dôme,Vins de pays/IGP Puy-de-Dôme,sec,blanc,1.0,3.0,8.0,10.0,,,blanc
+Vins de pays/IGP Puy-de-Dôme,Vins de pays/IGP Puy-de-Dôme,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Urfé,Vins de pays/IGP Urfé,sec,rouge,2.0,6.0,14.0,15.0,,,rouge
+Vins de pays/IGP Urfé,Vins de pays/IGP Urfé,sec,blanc,1.0,5.0,11.0,13.0,,,blanc
+Vins de pays/IGP Urfé,Vins de pays/IGP Urfé,sec,rosé,1.0,2.0,9.0,10.0,,,rosé
+Vins de pays/IGP Val de Loire,Vins de pays/IGP Val de Loire,sec,rouge,2.0,6.0,15.0,17.0,,,rouge
+Vins de pays/IGP Val de Loire,Vins de pays/IGP Val de Loire,sec,blanc,1.0,5.0,9.0,12.0,,,blanc
+Vins de pays/IGP Val de Loire,Vins de pays/IGP Val de Loire,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+Vouvray,Vouvray,sec,blanc,4.0,17.0,10.0,12.0,,,blanc
+Vouvray,Vouvray,moelleux,blanc,5.0,45.0,10.0,12.0,,,blanc
+Vouvray,Vouvray,effervescent,blanc,1.0,3.0,8.0,10.0,,,blanc
+Beaumes-de-venise,Beaumes-de-venise,sec,rouge,3.0,10.0,16.0,16.0,,,rouge
+Cairanne,Cairanne,sec,rouge,3.0,10.0,15.0,17.0,,,rouge
+Cairanne,Cairanne,sec,blanc,2.0,8.0,12.0,13.0,,,blanc
+Cairanne,Cairanne,sec,rosé,1.0,4.0,10.0,11.0,,,rosé
+Château-grillet,Château-grillet,sec,blanc,3.0,15.0,10.0,12.0,,,blanc
+Châteauneuf-du-pape,Châteauneuf-du-pape,sec,rouge,5.0,25.0,15.0,17.0,,,rouge
+Châteauneuf-du-pape,Châteauneuf-du-pape,sec,blanc,3.0,15.0,12.0,14.0,,,blanc
+Châtillon-en-diois,Châtillon-en-diois,sec,rouge,3.0,8.0,15.0,17.0,,,rouge
+Châtillon-en-diois,Châtillon-en-diois,sec,blanc,1.0,4.0,12.0,14.0,,,blanc
+Châtillon-en-diois,Châtillon-en-diois,sec,rosé,1.0,3.0,9.0,11.0,,,rosé
+Clairette-de-bellegarde,Clairette-de-bellegarde,sec,blanc,1.0,2.0,10.0,11.0,,,blanc
+Clairette-de-die,Clairette-de-die,effervescent,blanc,1.0,2.0,7.0,9.0,,,blanc
+Condrieu,Condrieu,sec,blanc,3.0,12.0,12.0,13.0,,,blanc
+Condrieu,Condrieu,doux,blanc,5.0,50.0,11.0,13.0,,,jaune
+Cornas,Cornas,sec,rouge,5.0,20.0,16.0,16.0,,,rouge
+Costières-de-nîmes,Costières-de-nîmes,sec,rouge,2.0,6.0,16.0,16.0,,,rouge
+Costières-de-nîmes,Costières-de-nîmes,sec,blanc,1.0,4.0,8.0,10.0,,,blanc
+Costières-de-nîmes,Costières-de-nîmes,sec,rosé,1.0,2.0,10.0,12.0,,,rosé
+Côte-rôtie,Côte-rôtie,sec,rouge,5.0,20.0,15.0,17.0,,,rouge
+Coteaux-de-die,Coteaux-de-die,sec,blanc,1.0,4.0,10.0,12.0,,,blanc
+Côtes-du-rhône,Côtes-du-rhône,sec,rouge,2.0,8.0,15.0,17.0,,,rouge
+Côtes-du-rhône,Côtes-du-rhône,sec,blanc,1.0,5.0,10.0,12.0,,,blanc
+Côtes-du-rhône,Côtes-du-rhône,sec,rosé,1.0,2.0,11.0,13.0,,,rosé
+Côtes-du-rhône-villages,Côtes-du-rhône-villages,sec,rouge,1.0,10.0,16.0,0.0,,,rouge
+Côtes-du-rhône-villages,Côtes-du-rhône-villages,sec,blanc,1.0,6.0,11.0,0.0,,,blanc
+Côtes-du-rhône-villages,Côtes-du-rhône-villages,sec,rosé,1.0,4.0,10.0,0.0,,,rosé
+Côtes-du-vivarais,Côtes-du-vivarais,sec,rouge,3.0,8.0,16.0,16.0,,,rouge
+Côtes-du-vivarais,Côtes-du-vivarais,sec,blanc,2.0,5.0,11.0,13.0,,,blanc
+Côtes-du-vivarais,Côtes-du-vivarais,sec,rosé,1.0,4.0,10.0,11.0,,,rosé
+Crémant-de-die,Crémant-de-die,effervescent,blanc,1.0,3.0,7.0,9.0,,,blanc
+Crozes-hermitage,Crozes-hermitage,sec,rouge,2.0,10.0,15.0,17.0,,,rouge
+Crozes-hermitage,Crozes-hermitage,sec,blanc,1.0,6.0,10.0,12.0,,,blanc
+Gigondas,Gigondas,sec,rouge,5.0,20.0,16.0,17.0,,,rouge
+Gigondas,Gigondas,sec,rosé,1.0,5.0,11.0,13.0,,,rosé
+Grignan-les-adhémar,Grignan-les-adhémar,sec,rouge,2.0,6.0,15.0,17.0,,,rouge
+Grignan-les-adhémar,Grignan-les-adhémar,sec,blanc,2.0,4.0,10.0,12.0,,,blanc
+Grignan-les-adhémar,Grignan-les-adhémar,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Hermitage,Hermitage,sec,rouge,7.0,40.0,16.0,16.0,,,rouge
+Hermitage,Hermitage,sec,blanc,5.0,20.0,11.0,13.0,,,blanc
+Hermitage,Hermitage,doux,blanc,5.0,50.0,10.0,13.0,,,jaune
+Lirac,Lirac,sec,rouge,3.0,10.0,15.0,17.0,,,rouge
+Lirac,Lirac,sec,rosé,2.0,4.0,10.0,12.0,,,rosé
+Lirac,Lirac,sec,blanc,1.0,5.0,10.0,11.0,,,blanc
+Luberon,Luberon,sec,rouge,2.0,8.0,15.0,17.0,,,rouge
+Luberon,Luberon,sec,rosé,1.0,3.0,10.0,12.0,,,rosé
+Luberon,Luberon,sec,blanc,2.0,5.0,10.0,11.0,,,blanc
+Muscat-de-beaumes-de-venise,Muscat-de-beaumes-de-venise,doux,rouge,3.0,15.0,8.0,10.0,,,rouge
+Muscat-de-beaumes-de-venise,Muscat-de-beaumes-de-venise,doux,blanc,2.0,15.0,6.0,8.0,,,jaune
+Muscat-de-beaumes-de-venise,Muscat-de-beaumes-de-venise,doux,rosé,2.0,10.0,8.0,10.0,,,rosé
+Pierrevert,Pierrevert,,,0.0,0.0,0.0,0.0,,,
+Rasteau,Rasteau,doux,rouge,5.0,25.0,14.0,16.0,,,rouge
+Rasteau,Rasteau,doux,blanc,5.0,20.0,10.0,12.0,,,jaune
+Rasteau,Rasteau rancio,doux,blanc,5.0,50.0,12.0,14.0,,,jaune
+Rasteau sec,Rasteau sec,sec,rouge,5.0,15.0,14.0,16.0,,,rouge
+Saint-joseph,Saint-joseph,sec,blanc,2.0,10.0,11.0,13.0,,,blanc
+Saint-joseph,Saint-joseph,sec,rouge,3.0,20.0,15.0,17.0,,,rouge
+Saint-péray,Saint-péray,sec,blanc,3.0,10.0,10.0,11.0,,,blanc
+Saint-péray,Saint-péray,effervescent,blanc,1.0,3.0,7.0,9.0,,,blanc
+Tavel,Tavel,sec,rosé,1.0,5.0,10.0,12.0,,,rosé
+Vacqueyras,Vacqueyras,sec,rouge,3.0,15.0,15.0,17.0,,,rouge
+Vacqueyras,Vacqueyras,sec,blanc,2.0,6.0,10.0,12.0,,,blanc
+Vacqueyras,Vacqueyras,sec,rosé,1.0,4.0,12.0,14.0,,,rosé
+Vins de pays/IGP Ardèche,Vins de pays/IGP Ardèche,sec,rouge,2.0,4.0,16.0,16.0,,,rouge
+Vins de pays/IGP Ardèche,Vins de pays/IGP Ardèche,sec,blanc,1.0,4.0,8.0,10.0,,,blanc
+Vins de pays/IGP Ardèche,Vins de pays/IGP Ardèche,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Collines rhodaniennes,Vins de pays/IGP Collines rhodaniennes,sec,rouge,2.0,8.0,16.0,16.0,,,rouge
+Vins de pays/IGP Collines rhodaniennes,Vins de pays/IGP Collines rhodaniennes,sec,blanc,1.0,5.0,10.0,12.0,,,blanc
+Vins de pays/IGP Collines rhodaniennes,Vins de pays/IGP Collines rhodaniennes,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Comté de Grignan,Vins de pays/IGP Comté de Grignan,sec,rouge,2.0,6.0,16.0,16.0,,,rouge
+Vins de pays/IGP Comté de Grignan,Vins de pays/IGP Comté de Grignan,sec,blanc,1.0,5.0,10.0,12.0,,,blanc
+Vins de pays/IGP Comté de Grignan,Vins de pays/IGP Comté de Grignan,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Coteaux des Baronnies,Vins de pays/IGP Coteaux des Baronnies,sec,rouge,2.0,5.0,14.0,16.0,,,rouge
+Vins de pays/IGP Coteaux des Baronnies,Vins de pays/IGP Coteaux des Baronnies,sec,blanc,1.0,2.0,11.0,13.0,,,blanc
+Vins de pays/IGP Coteaux des Baronnies,Vins de pays/IGP Coteaux des Baronnies,sec,rosé,1.0,2.0,8.0,10.0,,,rosé
+Vins de pays/IGP Drôme,Vins de pays/IGP Drôme,sec,rouge,1.0,5.0,16.0,16.0,,,rouge
+Vins de pays/IGP Drôme,Vins de pays/IGP Drôme,sec,blanc,1.0,2.0,8.0,10.0,,,blanc
+Vins de pays/IGP Drôme,Vins de pays/IGP Drôme,sec,rosé,1.0,4.0,12.0,14.0,,,rosé
+Vins de pays/IGP Vaucluse,Vins de pays/IGP Vaucluse,sec,rouge,2.0,6.0,16.0,16.0,,,rouge
+Vins de pays/IGP Vaucluse,Vins de pays/IGP Vaucluse,sec,blanc,1.0,4.0,10.0,12.0,,,blanc
+Vins de pays/IGP Vaucluse,Vins de pays/IGP Vaucluse,sec,rosé,1.0,3.0,10.0,12.0,,,rosé
+Ventoux,Ventoux,sec,rouge,2.0,5.0,14.0,16.0,,,rouge
+Ventoux,Ventoux,sec,blanc,1.0,4.0,10.0,12.0,,,blanc
+Ventoux,Ventoux,sec,rosé,1.0,2.0,10.0,11.0,,,rosé
+Vinsobres,Vinsobres,sec,rouge,3.0,8.0,16.0,16.0,,,rouge
+Rancio sec,Rancio sec,sec,blanc,1.0,20.0,13.0,15.0,,,blanc
+Vins de pays/IGP Argens,Vins de pays/IGP Argens,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Balmes dauphinoises,Vins de pays/IGP Balmes dauphinoises,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Bénovie,Vins de pays/IGP Bénovie,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Bessan,Vins de pays/IGP Bessan,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Cassan,Vins de pays/IGP Cassan,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Catalan,Vins de pays/IGP Catalan,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Caux,Vins de pays/IGP Caux,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Cessenon,Vins de pays/IGP Cessenon,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Collines de la Moure,Vins de pays/IGP Collines de la Moure,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Coteaux de Bessilles,Vins de pays/IGP Coteaux de Bessilles,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Coteaux de l'Ardèche,Vins de pays/IGP Coteaux de l'Ardèche,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Coteaux de Laurens,Vins de pays/IGP Coteaux de Laurens,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Coteaux de Montélimar,Vins de pays/IGP Coteaux de Montélimar,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Coteaux de Murviel,Vins de pays/IGP Coteaux de Murviel,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Coteaux des Fenouillèdes,Vins de pays/IGP Coteaux des Fenouillèdes,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Coteaux du Grésivaudan,Vins de pays/IGP Coteaux du Grésivaudan,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Coteaux du littoral audois,Vins de pays/IGP Coteaux du littoral audois,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Coteaux du Salagou,Vins de pays/IGP Coteaux du Salagou,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Coteaux du Salavès,Vins de pays/IGP Coteaux du Salavès,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Coteaux et terrasses de Montauban,Vins de pays/IGP Coteaux et terrasses de Montauban,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Côtes de Pérignan,Vins de pays/IGP Côtes de Pérignan,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Côtes du Ceressou,Vins de pays/IGP Côtes du Ceressou,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Côtes du Condomois,Vins de pays/IGP Côtes du Condomois,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Deux Sèvres,Vins de pays/IGP Deux Sèvres,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Dordogne,Vins de pays/IGP Dordogne,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Grand-roussillon,Vins de pays/IGP Grand-roussillon,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Hauterive,Vins de pays/IGP Hauterive,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Hautes Vallées de l'Aude,Vins de pays/IGP Hautes Vallées de l'Aude,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Hauts de Badens,Vins de pays/IGP Hauts de Badens,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Lastours,Vins de pays/IGP Lastours,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Loire-Atlantique,Vins de pays/IGP Loire-Atlantique,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Lot-et-Garonne,Vins de pays/IGP Lot-et-Garonne,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Meuse,Vins de pays/IGP Meuse,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Mont Baudile,Vins de pays/IGP Mont Baudile,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Monts de la Grage,Vins de pays/IGP Monts de la Grage,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Nièvre,Vins de pays/IGP Nièvre,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Petite Crau,Vins de pays/IGP Petite Crau,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Principauté d'Orange,Vins de pays/IGP Principauté d'Orange,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Pyrénées-Atlantiques,Vins de pays/IGP Pyrénées-Atlantiques,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Pyrénées-Orientales,Vins de pays/IGP Pyrénées-Orientales,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Sables du Golfe du Lion,Vins de pays/IGP Sables du Golfe du Lion,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Saint-Sardos,Vins de pays/IGP Saint-Sardos,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Sainte-Baume,Vins de pays/IGP Sainte-Baume,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Tarn et Garonne,Vins de pays/IGP Tarn et Garonne,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Terroirs landais,Vins de pays/IGP Terroirs landais,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Val de Cesse,Vins de pays/IGP Val de Cesse,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Val de Montferrand,Vins de pays/IGP Val de Montferrand,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Vallée de l'Orb,Vins de pays/IGP Vallée de l'Orb,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Vendée,Vins de pays/IGP Vendée,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGP Vienne,Vins de pays/IGP Vienne,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGPCoteaux de Fontcaude,Vins de pays/IGPCoteaux de Fontcaude,,,0.0,0.0,0.0,0.0,,,
+Vins de pays/IGPCoteaux de Miramont,Vins de pays/IGPCoteaux de Miramont,,,0.0,0.0,0.0,0.0,,,

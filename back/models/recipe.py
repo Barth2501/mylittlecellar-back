@@ -17,6 +17,10 @@ class Recipe(BaseModel):
     preparation = ArrayField(TextField, null=True)
     image = TextField(null=True)
     category = ForeignKeyField(Category, backref='recipes')
+    proportion=CharField(null=True)
+    time_prep=CharField(null=True)
+    time_cook=CharField(null=True)
+    description=TextField(null=True)
 
     def get_data(self):
         data = self.get_small_data()

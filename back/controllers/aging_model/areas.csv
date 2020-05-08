@@ -1,0 +1,479 @@
+id,name,region_id
+375,Touraine-azay-le-rideau,4
+4,Palette,2
+90,Cadillac,17
+53,Bordeaux supérieur,17
+54,Bordeaux rosé,17
+60,Sauternes,17
+64,Barsac,17
+65,Cérons,17
+66,Sainte-croix-du-mont,17
+67,Loupiac,17
+111,Viré-clessé,15
+104,Crémant-de-bourgogne,15
+105,Bourgogne-hautes-côtes-de-beaune,15
+106,Bourgogne-hautes-côtes-de-nuits,15
+76,Vins de pays/IGP Côtes de la Charité,9
+81,Vins de pays/IGP Allier,9
+77,Vins de pays/IGP Puy-de-Dôme,9
+21,Aloxe-corton,15
+22,Ladoix,15
+78,Vins de pays/IGP Coteaux de Tannay,9
+23,Montagny,15
+24,Givry,15
+25,Mercurey,15
+26,Rully,15
+27,Bouzeron,15
+14,Chaume,4
+16,Saumur-champigny,4
+17,Coteaux-de-saumur,4
+18,Cabernet-de-saumur,4
+19,Saumur,4
+13,Quarts-de-chaume,4
+7,Savennières-roche-aux-moines,4
+8,Savennières-coulée-de-serrant,4
+9,Savennières,4
+10,Anjou-coteaux-de-la-loire,4
+12,Cabernet-d'anjou,4
+20,Vins de pays/IGP Collines rhodaniennes,9
+5,Côtes-de-provence,2
+6,Coteaux-varois-en-provence,2
+1,Alsace pinot noir,1
+2,Alsace pinot gris,1
+3,Alsace pinot blanc ou klevner,1
+107,Bourgogne-passetoutgrain,15
+108,Bourgogne-aligoté,15
+109,Coteaux bourguignons,15
+110,Bourgogne,15
+69,Vins de pays/IGP Calvados,9
+70,Vins de pays/IGP Nièvre,9
+71,Vins de pays/IGP Loire-Atlantique,9
+72,Vins de pays/IGP Cher,9
+73,Vins de pays/IGP Val de Loire,9
+74,Vins de pays/IGP Deux Sèvres,9
+75,Vins de pays/IGP Coteaux charitois,9
+79,Vins de pays/IGP Vienne,9
+84,Vins de pays/IGP Vendée,9
+82,Vins de pays/IGP Côte de Meuse,9
+83,Vins de pays/IGP Coteaux de l'Auxois,9
+80,Vins de pays/IGP Sainte-Marie-la-Blanche,9
+68,Vins de pays/IGP Meuse,9
+85,Vins de pays/IGP Franche-Comté,9
+86,Vins de pays/IGP Saône-et-Loire,9
+87,Vins de pays/IGP Yonne,9
+88,Vins de pays/IGP Haute-Marne,9
+89,Vins de pays/IGP Coteaux de Coiffy,9
+61,Vins de pays/IGP Sainte-Baume,9
+62,Vins de pays/IGP Méditerranée,9
+63,Vins de pays/IGP Argens,9
+91,Vins de pays/IGPHautes-Alpes,9
+92,Vins de pays/IGP Alpes-de-Haute-Provence,9
+93,Vins de pays/IGP Var,9
+94,Vins de pays/IGP Bouches-du-Rhône,9
+95,Vins de pays/IGP Vaucluse,9
+96,Vins de pays/IGP Maures,9
+97,Vins de pays/IGP Petite Crau,9
+98,Vins de pays/IGP Principauté d'Orange,9
+55,Bordeaux blanc,17
+56,Bordeaux clairet,17
+57,Bordeaux,17
+58,Crémant-de-bordeaux,17
+59,Moulis-en-médoc,17
+100,Listrac-médoc,17
+101,Haut-médoc,17
+102,Médoc,17
+103,Margaux,17
+52,Saint-julien,17
+99,Vins de pays/IGP Île de Beauté,9
+112,Vins de pays/IGP Mont-Caume,9
+113,Vins de pays/IGPCoteaux du Verdon,9
+114,Vins de pays/IGP Alpes-Maritimes,9
+115,Vins de pays/IGP Aveyron,9
+116,Vins de pays/IGP Tarn et Garonne,9
+41,Clos-de-la-roche,15
+42,Morey-saint-denis,15
+43,Ruchottes-chambertin,15
+117,Vins de pays/IGP Gers,9
+118,Vins de pays/IGP Ariège,9
+119,Vins de pays/IGP Côtes du Lot,9
+120,Vins de pays/IGP Côtes du Condomois,9
+45,Lalande-de-pomerol,17
+46,Pomerol,17
+47,Fronsac,17
+48,Canon-fronsac,17
+49,Francs-côtes-de-bordeaux,17
+50,Castillon-côtes-de-bordeaux,17
+51,Saint-émilion grand cru,17
+36,Fixin,15
+44,Blaye,17
+37,Cadillac-côtes-de-bordeaux,17
+38,Entre-deux-mers haut-benauge,17
+39,Entre-deux-mers,17
+40,Bordeaux haut-benauge,17
+29,Chassagne-montrachet,15
+30,Criots-bâtard-montrachet,15
+31,Bienvenues-bâtard-montrachet,15
+32,Bâtard-montrachet,15
+33,Chevalier-montrachet,15
+34,Montrachet,15
+35,Puligny-montrachet,15
+196,Vins de pays/IGP Côtes de Pérignan,9
+197,Vins de pays/IGP Côtes du Ceressou,9
+198,Vins de pays/IGP Cité de Carcassonne,9
+199,Vins de pays/IGP Torgan,9
+28,Auxey-duresses,15
+237,Meursault,15
+238,Saint-romain,15
+122,Saint-estèphe,17
+231,Vins de pays/IGP Coteaux de Peyriac,9
+123,Pauillac,17
+125,Puisseguin-saint-émilion,17
+126,Montagne-saint-émilion,17
+151,Petit-chablis,15
+152,Irancy,15
+153,Côte-de-nuits-villages,15
+129,Saint-véran,15
+130,Pouilly-vinzelles,15
+131,Pouilly-loché,15
+132,Pouilly-fuissé,15
+133,Mâcon supérieur,15
+146,Mâcon et mâcon-villages,15
+147,Saint-bris,15
+148,Chablis grand cru,15
+149,Chablis premier cru,15
+150,Chablis,15
+154,Nuits-saint-georges,15
+155,Tâche (La),15
+156,Richebourg,15
+157,Romanée-saint-vivant,15
+158,Romanée-conti,15
+181,Romanée (La),15
+182,Vosne-romanée,15
+183,Grands-échézeaux,15
+184,Échézeaux,15
+185,Clos-de-vougeot,15
+186,Vougeot,15
+187,Musigny,15
+188,Bonnes-mares,15
+189,Chambolle-musigny,15
+190,Clos-des-lambrays,15
+191,Clos-de-tart,15
+127,Lussac-saint-émilion,17
+128,Saint-émilion,17
+192,Clos-saint-denis,15
+121,Vins de pays/IGP Pyrénées-Atlantiques,9
+143,Côtes-de-bourg,17
+144,Blaye-côtes-de-bordeaux,17
+145,Côtes-de-blaye,17
+200,Mazoyères-chambertin,15
+201,Mazis-chambertin,15
+202,Griotte-chambertin,15
+203,Charmes-chambertin,15
+204,Chapelle-chambertin,15
+205,Latricières-chambertin,15
+206,Chambertin-clos-de-bèze,15
+207,Chambertin,15
+208,Gevrey-chambertin,15
+233,Sancerre,4
+134,Vins de pays/IGP Coteaux de Glanes,9
+135,Vins de pays/IGP Lot-et-Garonne,9
+136,Vins de pays/IGP Côtes de Gascogne,9
+137,Vins de pays/IGP Saint-Sardos,9
+138,Lavilledieu,9
+140,Vins de pays/IGP Corrèze,9
+141,Vins de pays/IGP Côtes du Tarn,9
+142,Vins de pays/IGP Comté tolosan,9
+159,Rancio sec,9
+160,Vins de pays/IGP Côte Vermeille,9
+161,Vins de pays/IGP Sable de Camargue,9
+162,Vins de pays/IGP Vallée de l'Orb,9
+173,Graves supérieures,17
+174,Graves,17
+175,Pessac-léognan,17
+176,Côtes-de-Bordeaux,17
+177,Premières-côtes-de-bordeaux,17
+178,Sainte-foy-bordeaux,17
+219,Marsannay,15
+220,Grande-rue (La),15
+221,Côte-de-beaune-villages,15
+222,Maranges,15
+223,Santenay,15
+163,Vins de pays/IGP Coteaux du littoral audois,9
+164,Vins de pays/IGP Vallée du paradis,9
+165,Vins de pays/IGP Val de Cesse,9
+166,Vins de pays/IGP Bessan,9
+167,Vins de pays/IGP Cessenon,9
+168,Vins de pays/IGP Coteaux du Pont du Gard,9
+169,Vins de pays/IGP Côtes du Brian,9
+170,Vins de pays/IGP Mont Baudile,9
+179,Graves-de-vayres,17
+180,Côtes-de-bordeaux-saint-macaire,17
+224,Saint-aubin,15
+236,Blagny,15
+171,Vins de pays/IGP Hautes Vallées de l'Aude,9
+172,Vins de pays/IGP Saint-Guilhem-le-Désert,9
+193,Vins de pays/IGPCoteaux de Narbonne,9
+194,Vins de pays/IGP Vicomté d'Aumélas,9
+195,Vins de pays/IGP Cathare,9
+209,Vins de pays/IGP Grand-roussillon,9
+210,Vins de pays/IGP Hauterive,9
+211,Vins de pays/IGP Cassan,9
+212,Vins de pays/IGP Coteaux d'Ensérune,9
+214,Vins de pays/IGP Hauts de Badens,9
+215,Vins de pays/IGPCoteaux de Fontcaude,9
+216,Vins de pays/IGP Coteaux de Murviel,9
+217,Vins de pays/IGP Gard,9
+218,Vins de pays/IGP Côtes catalanes,9
+225,Vins de pays/IGP Catalan,9
+226,Vins de pays/IGP Hérault,9
+227,Vins de pays/IGP Côtes de Thongue,9
+228,Vins de pays/IGP Collines de la Moure,9
+229,Vins de pays/IGP Val de Montferrand,9
+232,Vins de pays/IGP Oc,9
+239,Vins de pays/IGP Haute vallée de l'Orb,9
+240,Vins de pays/IGP Coteaux du Salagou,9
+241,Vins de pays/IGP Lastours,9
+242,IGP Coteaux de Béziers,9
+470,Ratafia champenois,16
+244,Vins de pays/IGP Coteaux de Laurens,9
+245,Vins de pays/IGP Coteaux du Salavès,9
+246,Vins de pays/IGP Bénovie,9
+247,Vins de pays/IGP Cévennes,9
+248,Vins de pays/IGP Aude,9
+234,Rasteau,5
+235,Muscat-de-beaumes-de-venise,5
+345,Coteaux-du-quercy,7
+381,Côtes-de-montravel,7
+230,Vins de pays/IGP Coteaux de Bessilles,9
+323,Chinon,4
+322,Bourgueil,4
+332,Fitou,8
+362,Corse (vin de),14
+353,Ajaccio,14
+327,Rosé-des-riceys,16
+294,Touraine,4
+380,Cour-cheverny,4
+293,Muscadet-sèvre-et-maine,4
+341,Muscadet-coteaux-de-la-loire,4
+297,Moselle,13
+249,Vins de pays/IGPCoteaux de Miramont,9
+272,Vins de pays/IGP Pyrénées-Orientales,9
+273,Vins de pays/IGP Caux,9
+314,Corbières,8
+333,Blanquette-de-limoux,8
+382,Blanquette méthode ancestrale,8
+275,Vins de pays/IGP Monts de la Grage,9
+276,Vins de pays/IGP Côtes de Thau,9
+269,Vins de pays/IGP Atlantique,9
+270,Vins de pays/IGP Périgord,9
+271,Vins de pays/IGP Landes,9
+277,Vins de pays/IGP Terroirs landais,9
+278,Vins de pays/IGP Dordogne,9
+279,Vins de pays/IGP Agenais,9
+280,Vins de pays/IGP Charentais,9
+281,Vins de pays/IGP Thézac-Perricard,9
+266,Vins de pays/IGP Alpilles,9
+358,Château-chalon,12
+310,Arbois,12
+325,Rivesaltes,6
+263,Vins de pays/IGP Urfé,9
+256,Vins de pays/IGP Coteaux de Montélimar,9
+261,Vins de pays/IGP Isère,9
+267,Vins de pays/IGP Coteaux du Grésivaudan,9
+268,Vins de pays/IGP Comtés rhodaniens,9
+264,Vins de pays/IGP Ardèche,9
+265,Vins de pays/IGP Coteaux de l'Ardèche,9
+313,Hermitage,5
+285,Saint-joseph,5
+286,Château-grillet,5
+311,Condrieu,5
+334,Côtes-du-roussillon-villages,6
+288,Côtes-du-roussillon,6
+289,Collioure,6
+392,Anjou-villages,4
+355,Anjou-gamay,4
+328,Anjou,4
+258,Vins de pays/IGP Coteaux des Baronnies,9
+257,Vins de Pays IGP vins des Allobroges,9
+260,Vins de pays/IGP Balmes dauphinoises,9
+262,Vins de pays/IGP Comté de Grignan,9
+379,Côte-rôtie,5
+370,Vinsobres,5
+329,Beaumes-de-venise,5
+305,Côtes-du-vivarais,5
+317,Coteaux-d'aix-en-provence,2
+303,Ventoux,5
+389,Saint-sardos,7
+284,Saint-péray,5
+348,Cornas,5
+337,Côtes-du-rhône-villages,5
+308,Côtes-du-rhône,5
+383,Clairette-de-die,5
+372,Macvin-du-jura,12
+357,L'Étoile,12
+290,Languedoc,8
+391,Crémant-de-limoux,8
+291,Faugères,8
+292,Saint-chinian,8
+354,Beaujolais-villages,25
+373,Fleurie,25
+393,Côte-de-brouilly,25
+326,Saint-amour,25
+377,Moulin-à-vent,25
+378,Morgon,25
+386,Chénas,25
+250,Reuilly,4
+251,Quincy,4
+252,Pouilly-sur-loire,4
+253,Pouilly-fumé,4
+254,Menetou-salon,4
+255,Côte-roannaise,4
+396,Beaujolais,25
+374,Saint-pourçain,4
+369,Côtes-du-forez,4
+368,Châteaumeillant,4
+324,Crémant-de-loire,4
+283,Monthélie,15
+282,Volnay,15
+394,Pommard,15
+363,Orléans-cléry,4
+356,Valençay,4
+346,Cheverny,4
+340,Vouvray,4
+351,Minervois-la-livinière,8
+367,Minervois,8
+319,Malepère,8
+304,Limoux,8
+395,Savigny-lès-beaune,15
+376,Pernand-vergelesses,15
+321,Montlouis-sur-loire,4
+331,Saint-nicolas-de-bourgueil,4
+347,Coteaux-du-loir,4
+307,Luberon,5
+316,Tavel,5
+349,Lirac,5
+300,Châteauneuf-du-pape,5
+301,Gigondas,5
+330,Costières-de-nîmes,5
+302,Clairette-de-bellegarde,5
+387,Vacqueyras,5
+364,Saint-mont,7
+366,Tursan,7
+339,Pacherenc-du-vic-bilh,7
+343,Madiran,7
+295,Jurançon,7
+315,Irouléguy,7
+344,Béarn,7
+360,Entraygues-le-fel,7
+350,Gaillac,7
+371,Saussignac,7
+336,Pécharmant,7
+352,Savoie (vin de),3
+361,Bugey,3
+384,Côtes-de-bergerac,7
+338,Bergerac,7
+388,Côtes-du-marmandais,7
+365,Brulhois,7
+385,Fronton,7
+335,Buzet,7
+318,Baux-de-Provence (Les),2
+299,Bandol,2
+320,Crémant-d'alsace,1
+296,Alsace sylvaner,1
+359,Alsace riesling,1
+438,Touraine-mesland,4
+426,Touraine-amboise,4
+442,Patrimonio,14
+449,Muscat-du-cap-corse,14
+400,Bourgogne-côte-chalonnaise,15
+440,Coteaux-champenois,16
+446,Champagne,16
+431,Coteaux-d'ancenis,4
+409,Fiefs-vendéens,4
+407,Gros-plant-du-pays-nantais,4
+452,Côtes-de-toul,13
+243,Vins de pays/IGP Haute vallée de l'Aude,9
+416,Corbières-boutenac,8
+463,Clairette-du-languedoc,8
+443,Cabardès,8
+423,Muscadet,4
+453,Muscadet-côtes-de-grand-lieu,4
+15,Anjou-villages-brissac,4
+274,Vins de pays/IGP Sables du Golfe du Lion,9
+461,Muscat-de-rivesaltes,6
+471,Maury sec,6
+428,Bonnezeaux,4
+417,Coteaux-du-layon,4
+405,Crozes-hermitage,5
+412,Maury,6
+342,Alsace chasselas ou gutedel,1
+429,Banyuls grand cru,6
+464,Moselle luxembourgeoise,10
+411,Banyuls,6
+465,Crémant-de-luxembourg,10
+415,Seyssel,3
+306,Grignan-les-adhémar,5
+460,Châtillon-en-diois,5
+424,Pineau-des-charentes,11
+408,Haut-poitou,11
+309,Côtes-du-jura,12
+11,Coteaux-de-l'aubance,4
+466,La Clape,8
+454,Crémant-du-jura,12
+298,Picpoul-de-pinet,8
+448,Rosé-d'anjou,4
+467,Pic-saint-loup,8
+404,Muscat-de-saint-jean-de-minervois,8
+456,Muscat-de-mireval,8
+462,Brouilly,25
+433,Beaujolais supérieur,25
+397,Juliénas,25
+398,Coteaux-du-Lyonnais,25
+430,Chiroubles,25
+432,Régnié,25
+124,Saint-georges-saint-émilion,17
+139,Vins de pays/IGP Coteaux et terrasses de Montauban,9
+439,Coteaux-du-giennois,4
+402,Côtes-d'auvergne,4
+447,Rosé-de-loire,4
+259,Vins de pays/IGP Drôme,9
+468,Touraine-oisly,4
+444,Crémant-de-die,5
+469,Touraine-chenonceaux,4
+213,Vins de pays/IGP Coteaux des Fenouillèdes,9
+451,Côte-de-beaune,15
+434,Beaune,15
+441,Chorey-lès-beaune,15
+459,Touraine-noble-joué,4
+425,Orléans,4
+422,Coteaux-du-vendômois,4
+458,Muscat-de-lunel,8
+450,Muscat-de-frontignan,8
+390,Corton-charlemagne,15
+399,Corton,15
+455,Jasnières,4
+472,Coteaux-de-die,5
+473,Cairanne,5
+474,Rasteau sec,5
+475,Duché d'Uzès,5
+435,Pierrevert,5
+418,Floc-de-gascogne,7
+401,Marcillac,7
+421,Vins-d'estaing,7
+427,Cahors,7
+403,Côtes-de-millau,7
+413,Côtes-de-duras,7
+420,Rosette,7
+457,Haut-montravel,7
+414,Roussette-de-savoie,3
+476,Crépy,3
+477,Crémant-de-savoie,3
+406,Montravel,7
+436,Monbazillac,7
+287,Cassis,2
+419,Bellet,2
+410,Alsace muscat,1
+437,Alsace klevener-de-heiligenstein,1
+445,Alsace grand cru,1
+312,Alsace gewurztraminer,1
+478,Alsace edelzwicker,1

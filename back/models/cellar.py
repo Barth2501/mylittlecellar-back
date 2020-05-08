@@ -5,6 +5,11 @@ from back.core import db
 from .base_model import BaseModel
 from .user import User
 
+from playhouse.migrate import *
+
+
+migrator = PostgresqlMigrator(db)
+
 class Cellar(BaseModel):
     id = AutoField()
     name = CharField()

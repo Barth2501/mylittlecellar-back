@@ -21,6 +21,7 @@ def find_recipes(query, model):
         result = vectorial_search(inverted_index,query)
         return result
 
+
 def find_area(query):
     inverted_index = load_inverted_index_pickle('back/controllers/search_engine/indexes/areas_index.txt')
     query = query_transformation(query, inverted_index)

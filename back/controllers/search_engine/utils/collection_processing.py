@@ -6,8 +6,8 @@ import unidecode
 
 
 def load_data(filename):
-    recipes_df = pd.read_csv(filename, header=None, usecols=[
-                             0, 1, 2, 5], names=['id', 'name', 'ingredients', 'category_id'])
+    recipes_df = pd.read_csv(filename, header=0, usecols=[
+                             0, 1, 2], names=['id', 'name', 'ingredients'])
 
     def replace(x):
         res = x.copy()
@@ -92,12 +92,23 @@ def remove_stop_words(collection, stop_word_file):
                 collection_filtered[i].append(j)
     return collection_filtered
 
+# gere les mots au pluriel ('retire juste le s final')
+
+def collection_lemmatize(collection):
+    collection_lemmatized = {}
+    for i in collection:
+        collection_lemmatized[i] = []
+        for j in collection[i]:
+            if j[-1]=='S':
+                collection_lemmatized[i].append(j[:-1])
+            else:
+                collection_lemmatized[i].append(j)
+    return collection_lemmatized
 
 def pre_process_collection(collection):
-    collection = remove_stop_words(collection, STOP_WORDS)
-    return collection
-
-
+    lemmatized_collection = collection_lemmatize(collection)
+    return remove_stop_words(lemmatized_collection, STOP_WORDS)
+    
 def get_pre_processed_collection(filename):
     recipes_df = load_data(filename)
     collection = build_collection_from_df(recipes_df)

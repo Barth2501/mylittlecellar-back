@@ -15,18 +15,19 @@ class RegionStat(Resource):
 
 class AreaStat(Resource):
     # @jwt_required
-    def get(self):
+    def get(self,region_name):
+        print(region_name)
         cellar_id = request.headers['current_cellar_id']
         to_send = {'msg':'success'}
-        to_send['area_agg'] = area_agg(cellar_id)
+        to_send['area_agg'] = area_agg(cellar_id, region_name)
         return to_send
 
 class VintageStat(Resource):
     # @jwt_required
-    def get(self):
+    def get(self, name):
         cellar_id = request.headers['current_cellar_id']
         to_send = {'msg':'success'}
-        to_send['vintage_agg'], to_send['region_vintage_agg'],to_send['area_vintage_agg'] = vintage_agg(cellar_id)
+        to_send['vintage_agg'] = vintage_agg(cellar_id, name)
         return to_send
 
 

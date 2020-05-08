@@ -3,8 +3,6 @@ from peewee import *
 from back.core import db
 
 from .base_model import BaseModel
-from .area import Area
-
 
 class User(BaseModel):
     id = AutoField()
