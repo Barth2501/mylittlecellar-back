@@ -21,12 +21,4 @@ def create_winery(name:str, area, description:str=''):
 
 def get_winery_info(id:int, cellar_id:int):
     winery = Winery.get_by_id(id)
-    if not winery:
-        return {'msg':'no winery has the id {}'.format(id)}
-    res = winery.get_small_data()
-    area = Area.get_by_id(winery.area)
-    res['area'] = area.get_small_data()
-    res['region'] = Region.get_by_id(area.region).get_small_data()
-    relevant_wines = Wine.select().from_(CellarWine,Wine).where(CellarWine.cellar==cellar_id, Wine.winery==id, Wine.id==CellarWine.wine)
-    res['wines'] = [wine.get_data_number(cellar_id) for wine in relevant_wines]
-    return res
+    return winery.get_names_number(cellar_id)

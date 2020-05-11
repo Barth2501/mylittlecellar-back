@@ -21,41 +21,32 @@ def add_wine_to_cellar(cellar, wine_name: str, winery_name: str, color: str, vin
     if not wine:
         wine = create_wine(name=wine_name, vintage=vintage, number=number,
                            mark=mark, maturity=maturity, winery_name=winery_name, color=color)
-
-        # This part has been commented because the recipe are not linked to the wine itself anymore
-        # Now recipes are linked to areas
-        # for i,_ in enumerate(data_recipes['recipes_names']):
-        #     recipe = Recipe.get_or_none(name=data_recipes['recipes_names'][i])
-        #     if recipe:
-        #         recipe = update_recipe(recipe=recipe, url=data_recipes['recipes_urls'][i])
-        #         WineRecipe.create(wine=wine, recipe=recipe)
+    # CellarWinery
     winery = Winery.get_by_id(wine.winery)
     cellar_winery = CellarWinery.get_or_none(cellar=cellar, winery=winery)
     if not cellar_winery:
         CellarWinery.create(cellar=cellar, winery=winery)
+    else:
+        cellar_winery.update_number(number=int(number))
+    # CellarArea
     area = Area.get_by_id(winery.area)
     cellar_area = CellarArea.get_or_none(cellar=cellar,area=area)
     if not cellar_area:
         CellarArea.create(cellar=cellar, area=area)
+    else:
+        cellar_area.update_number(number=int(number))
+    # CellarRegion
     region = Region.get_by_id(area.region)
     cellar_region = CellarRegion.get_or_none(cellar=cellar, region=region)
     if not cellar_region:
         CellarRegion.create(cellar=cellar, region=region)
-
+    else:
+        cellar_region.update_number(number=int(number))
+    #CellarWine
     cellarwine = CellarWine.get_or_none(cellar=cellar, wine=wine)
     if cellarwine:
-        if cellarwine.number + int(number) == 0:
-            cellarwine.deleted_instance()
-            cellar_area.deleted_instance()
-            cellar_region.deleted_instance()
-            cellar_winery.deleted_instance()
-            return {'msg': 'deleted'}
-        else:
-            cellarwine.modify_number(number=int(number))
-            cellar_area.modify_number(number=int(number))
-            cellar_region.modify_number(number=int(number))
-            cellar_winery.modify_number(number=int(number))
-            return {'msg': 'updated'}
+        cellarwine.update_number(numner=int(number))
+        return {'msg':'updated'}
     else:
         CellarWine.create(cellar=cellar, wine=wine, number=number)
         return {'msg': 'created'}
@@ -104,17 +95,29 @@ def get_my_areas(region_id: int, cellar_id: int):
     return {area.get_small_data()['id']:area.get_small_data() for area in areas}
 
 def get_my_wineries(area_id:int, cellar_id:int):
-    wineries = Winery.select().from_(Winery,CellarWinery,Area).where(
-        CellarWinery.cellar==cellar_id,
-        Area.id==area_id,
-        Winery.area==Area.id,
-        CellarWinery.winery==Winery.id
-    )
-    return {winery.get_small_data()['id']:winery.get_small_data() for winery in wineries}
+    wineries = Winery.select(Winery, CellarWinery.number).join(
+                        CellarWinery, on=(CellarWinery.winery==Winery.id)).join(
+                        Area, on=(Area.id==Winery.area)).where(
+                            Area.id==area_id,
+                            CellarWinery.cellar==cellar_id).dicts()
+
+    # wineries = Winery.select().from_(Winery,CellarWinery,Area).where(
+    #     CellarWinery.cellar==cellar_id,
+    #     Area.id==area_id,
+    #     Winery.area==Area.id,
+    #     CellarWinery.winery==Winery.id
+    # )
+    return {winery['id']:{'name':winery['name'], 'number':winery['number']} for winery in wineries}
 
 def get_my_wines(winery_id:int, cellar_id:int):
-    winery = Winery.get_by_id(winery_id)
-    wines = [wine.get_data_number(cellar_id) for wine in winery.wines]
+    wine_q = Wine.select(Wine.name, Wine.vintage, CellarWine.number).join(
+                        CellarWine, on=(CellarWine.wine==Wine.id)).join(
+                        Winery, on=(Winery.id==Wine.winery)).where(
+                        Winery.id==winery_id,
+                        CellarWine.cellar==cellar_id).dicts()
+    wines = [{'name':wine['name'], 'vintage':wine['vintage'], 'number':wine['number']} for wine in wine_q]
+    # winery = Winery.get_by_id(winery_id)
+    # wines = [wine.get_data_number(cellar_id) for wine in winery.wines]
     wines = pd.DataFrame(wines)
     grouped = wines.groupby(
          ['name', 'vintage']).agg({'number': 'sum'})

@@ -85,6 +85,12 @@ class CellarArea(BaseModel):
     def modify_number(self, number):
         return CellarArea.update(number=self.number+number).where(CellarArea.cellar==self.cellar,CellarArea.area==self.area).execute()
 
+    def update_number(self,number):
+        if self.number + number == 0:
+            return self.delete_instance()
+        else:
+            return CellarArea.update(number=self.number+number).where(CellarArea.cellar==self.cellar,CellarArea.area==self.area).execute()
+
 class AreaVintage(BaseModel):
     id = AutoField()
     area = ForeignKeyField(Area, backref='vintage')

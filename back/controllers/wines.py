@@ -143,3 +143,11 @@ def search_other_wines(wine_id: int, cellar_id: int):
 def get_wine_trend(wine_id: int):
     wine=Wine.get_by_id(wine_id)
     return wine.get_trend()
+
+def get_wines_from_winery(winery_id:int,cellar_id:int):
+    wines = Wine.select(Wine, CellarWine.number).join(
+                CellarWine, on=(CellarWine.wine==Wine.id)).join(
+                Winery, on=(Wine.winery==Winery.id)).where(
+                CellarWine.cellar==cellar_id,
+                Winery.id==winery_id).dicts()
+    return [{**wine} for wine in wines]

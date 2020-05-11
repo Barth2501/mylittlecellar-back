@@ -120,6 +120,16 @@ class Wine(BaseModel):
             data['area_'+key] = area[key]
         return data
 
+    def modify_color(self):
+        if self.color=='Blanc':
+            return Wine.update(color='blanc').where(Wine.id==self.id).execute()
+        elif self.color=='Rouge':
+            return Wine.update(color='rouge').where(Wine.id==self.id).execute()
+        elif self.color=='Rose':
+            return Wine.update(color='rosé').where(Wine.id==self.id).execute()
+        elif self.color=='Jaune':
+            return Wine.update(color='jaune').where(Wine.id==self.id).execute()
+
 class CellarWine(BaseModel):
     id = AutoField()
     cellar = ForeignKeyField(Cellar, backref='wines')
@@ -133,6 +143,12 @@ class CellarWine(BaseModel):
         data = self.get_small_data()
         data['vintage'] = self.wine.get_small_data()['vintage']
         return data
+    
+    def update_number(self, number):
+        if self.number+number==0:
+            return self.delete_instance()
+        else:
+            return CellarWine.update(number=self.number+number).where(CellarWine.cellar==self.cellar,CellarWine.wine==self.wine).execute()
 
 with db:
     #migrate(migrator.drop_column('wine','advise',Wine.advise))

@@ -2,7 +2,7 @@ from flask import request
 from flask_jwt_extended import jwt_required, get_jwt_identity
 from flask_restful import Resource
 
-from back.controllers.wines import search_wines, get_wine, search_other_vintage, search_other_wines, get_wine_trend
+from back.controllers.wines import search_wines, get_wine, search_other_vintage, search_other_wines, get_wine_trend, get_wines_from_winery
 
 
 class Wines(Resource):
@@ -16,6 +16,12 @@ class Wines(Resource):
 
     def post(self):
         pass
+
+class WinesFromWinery(Resource):
+    @jwt_required
+    def get(self, winery_id):
+        cellar_id = request.headers['current_cellar_id']
+        return get_wines_from_winery(winery_id, cellar_id)
 
 class Wine(Resource):
     @jwt_required

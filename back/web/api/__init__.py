@@ -4,7 +4,7 @@ from flask_restful import Api
 from back.core import db
 
 from .winery import Wineries, Area, Winery, Region, RegionsAreas
-from .wine import Wines, Wine, WineVintage, WineOther, WineTrend
+from .wine import Wines, Wine, WineVintage, WineOther, WineTrend, WinesFromWinery
 from .recipe import ImportRecipes, RecipesToWines, ModifyIngRecipes, WinesToRecipes
 from .me import MyCellar, Me, MyCellars, MyRegions, MyAreas, MyWineries, MyWines
 from .cellar import CurrentCellar
@@ -38,6 +38,7 @@ api.add_resource(Wineries, "/wineries")
 api.add_resource(Region, "/regions/<region_name>")
 api.add_resource(Area, "/areas/<area_name>")
 api.add_resource(Winery, "/wineries/<int:winery_id>")
+api.add_resource(WinesFromWinery, "/wineries/<int:winery_id>/wines")
 api.add_resource(RegionsAreas, "/regions_areas")
 
 api.add_resource(ImportRecipes, "/import_recipes")

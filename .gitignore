@@ -1,3 +1,4 @@
 dockerfile
 .gitignore
 *__pycache__*
+back/web/.env

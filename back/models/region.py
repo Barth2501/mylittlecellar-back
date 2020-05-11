@@ -44,6 +44,12 @@ class CellarRegion(BaseModel):
         data['region_name'] = self.region.get_small_data()['name']
         return data
 
+    def update_number(self, number):
+        if self.number+number==0:
+            return self.delete_instance()
+        else:
+            return CellarRegion.update(number=self.number+number).where(CellarRegion.cellar==self.cellar,CellarRegion.region==self.region).execute()
+
 with db:
     Region.create_table(safe=True)
     RegionInfo.create_table(safe=True)

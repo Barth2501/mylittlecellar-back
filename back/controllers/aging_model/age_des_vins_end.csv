@@ -1,0 +1,866 @@
+id;name;region_id;id;area_id;color;age_min;age_max;t_min;t_max;glass_type;comments
+396;Beaujolais;25;1;396;blanc;2;5;10;12;"Bordelais ; INAO";nan
+396;Beaujolais;25;2;396;rosé;2;4;8;11;Bourgogne;nan
+396;Beaujolais;25;3;396;rouge;3;8;14;16;Bourgogne;nan
+433;Beaujolais supérieur;25;4;433;rouge;3;8;14;16;Bourgogne;nan
+462;Brouilly;25;5;462;rouge;2;6;12;13;Bourgogne;nan
+386;Chénas;25;6;386;rouge;4;10;16;16;nan;nan
+430;Chiroubles;25;7;430;rouge;1;4;12;13;nan;nan
+373;Fleurie;25;8;373;rouge;1;4;14;14;nan;nan
+397;Juliénas;25;9;397;rouge;4;10;14;15;nan;nan
+378;Morgon;25;10;378;rouge;4;12;16;16;nan;nan
+377;Moulin-à-vent;25;11;377;rouge;5;12;16;16;nan;nan
+432;Régnié;25;12;432;rouge;3;8;14;16;nan;nan
+326;Saint-amour;25;13;326;rouge;2;6;15;15;nan;nan
+86;Vins de pays/IGP Saône-et-Loire;9;14;86;rouge;3;5;14;15;nan;nan
+86;Vins de pays/IGP Saône-et-Loire;9;15;86;blanc;1;3;8;11;nan;nan
+86;Vins de pays/IGP Saône-et-Loire;9;16;86;rosé;2;4;10;13;nan;nan
+44;Blaye;17;17;44;rouge;5;10;15;15;Bordelais;nan
+44;Blaye;17;18;44;blanc;3;5;8;11;nan;nan
+57;Bordeaux;17;19;57;rosé;1;3;8;11;Bordelais;nan
+57;Bordeaux;17;20;57;blanc;3;5;8;11;"Bordelais ; INAO";nan
+57;Bordeaux;17;21;57;rouge;3;5;14;16;Bordelais;nan
+40;Bordeaux haut-benauge;17;22;40;blanc;5;15;8;11;Bordelais;nan
+53;Bordeaux supérieur;17;23;53;blanc;3;7;10;13;"Bordelais ; INAO";nan
+53;Bordeaux supérieur;17;24;53;rouge;5;15;15;15;Bordelais;nan
+90;Cadillac;17;25;90;jaune;5;30;10;13;"Bordelais ; INAO";nan
+90;Cadillac;17;26;90;rouge;5;10;15;15;Bordelais;nan
+39;Entre-deux-mers;17;27;39;blanc;2;5;8;11;nan;nan
+38;Entre-deux-mers haut-benauge;17;28;38;blanc;3;7;8;11;nan;nan
+67;Loupiac;17;29;67;jaune;5;20;9;11;nan;nan
+66;Sainte-croix-du-mont;17;30;66;jaune;5;30;9;11;nan;nan
+178;Sainte-foy-bordeaux;17;31;178;rouge;5;10;16;18;nan;nan
+178;Sainte-foy-bordeaux;17;32;178;blanc;1;5;10;12;nan;nan
+178;Sainte-foy-bordeaux;17;33;178;jaune;5;15;8;10;nan;nan
+65;Cérons;17;34;65;jaune;5;20;8;10;nan;nan
+174;Graves;17;35;174;rouge;3;10;16;0;nan;nan
+174;Graves;17;36;174;blanc;3;8;10;12;nan;nan
+173;Graves supérieures;17;37;173;jaune;2;10;9;12;nan;nan
+175;Pessac-léognan;17;38;175;rouge;10;35;16;16;nan;nan
+175;Pessac-léognan;17;39;175;blanc;5;20;10;12;nan;nan
+48;Canon-fronsac;17;40;48;rouge;3;15;15;0;nan;nan
+47;Fronsac;17;41;47;rouge;7;20;16;0;nan;nan
+45;Lalande-de-pomerol;17;42;45;rouge;8;20;16;18;nan;nan
+46;Pomerol;17;43;46;rouge;10;25;16;18;nan;nan
+101;Haut-médoc;17;44;101;rouge;5;10;15;16;nan;nan
+100;Listrac-médoc;17;45;100;rouge;3;10;16;18;nan;nan
+103;Margaux;17;46;103;rouge;10;35;16;16;nan;nan
+102;Médoc;17;47;102;rouge;3;8;16;18;nan;nan
+59;Moulis-en-médoc;17;48;59;rouge;3;15;16;18;nan;nan
+123;Pauillac;17;49;123;rouge;10;35;16;16;nan;nan
+122;Saint-estèphe;17;50;122;rouge;10;35;16;18;nan;nan
+64;Barsac;17;51;64;jaune;10;50;10;13;"Bordelais ; INAO";nan
+110;Bourgogne;15;52;110;rouge;2;6;14;16;nan;nan
+110;Bourgogne;15;53;110;blanc;2;8;12;14;nan;nan
+110;Bourgogne;15;54;110;rosé;1;3;10;12;nan;nan
+109;Coteaux bourguignons;15;55;109;rouge;2;5;14;14;nan;nan
+109;Coteaux bourguignons;15;56;109;blanc;1;5;10;12;nan;nan
+109;Coteaux bourguignons;15;57;109;rosé;1;3;12;0;nan;nan
+83;Vins de pays/IGP Coteaux de l'Auxois;9;58;83;rouge;2;5;13;15;nan;nan
+83;Vins de pays/IGP Coteaux de l'Auxois;9;59;83;blanc;2;6;12;14;nan;nan
+83;Vins de pays/IGP Coteaux de l'Auxois;9;60;83;rosé;1;2;8;10;nan;nan
+78;Vins de pays/IGP Coteaux de Tannay;9;61;78;rouge;2;4;13;15;nan;nan
+78;Vins de pays/IGP Coteaux de Tannay;9;62;78;blanc;1;4;12;14;nan;nan
+78;Vins de pays/IGP Coteaux de Tannay;9;63;78;rosé;1;2;7;9;nan;nan
+80;Vins de pays/IGP Sainte-Marie-la-Blanche;9;64;80;rouge;2;5;14;15;nan;nan
+80;Vins de pays/IGP Sainte-Marie-la-Blanche;9;65;80;blanc;1;4;9;11;nan;nan
+80;Vins de pays/IGP Sainte-Marie-la-Blanche;9;66;80;rosé;1;3;8;10;nan;nan
+87;Vins de pays/IGP Yonne;9;67;87;rouge;1;4;13;15;nan;nan
+87;Vins de pays/IGP Yonne;9;68;87;blanc;1;3;8;10;nan;nan
+87;Vins de pays/IGP Yonne;9;69;87;rosé;1;2;9;11;nan;nan
+150;Chablis;15;70;150;blanc;4;10;10;12;nan;nan
+149;Chablis premier cru;15;71;149;blanc;5;15;12;12;nan;nan
+148;Chablis grand cru;15;72;148;blanc;5;15;12;14;nan;nan
+152;Irancy;15;73;152;rouge;2;10;15;0;nan;nan
+147;Saint-bris;15;74;147;blanc;1;6;8;0;nan;nan
+27;Bouzeron;15;75;27;blanc;1;5;11;13;nan;nan
+24;Givry;15;76;24;rouge;2;10;16;0;nan;nan
+24;Givry;15;77;24;blanc;1;5;13;0;nan;nan
+25;Mercurey;15;78;25;rouge;3;7;16;0;nan;nan
+25;Mercurey;15;79;25;blanc;2;6;12;0;nan;nan
+23;Montagny;15;80;23;blanc;1;4;11;13;nan;nan
+26;Rully;15;81;26;rouge;2;7;16;0;nan;nan
+26;Rully;15;82;26;blanc;2;6;13;0;nan;nan
+21;Aloxe-corton;15;83;21;rouge;5;10;16;0;nan;nan
+21;Aloxe-corton;15;84;21;blanc;3;7;12;0;nan;nan
+28;Auxey-duresses;15;85;28;rouge;5;10;16;0;nan;nan
+28;Auxey-duresses;15;86;28;blanc;3;7;11;13;nan;nan
+32;Bâtard-montrachet;15;87;32;blanc;10;30;12;14;nan;nan
+434;Beaune;15;88;434;rouge;5;15;15;16;nan;nan
+434;Beaune;15;89;434;blanc;2;8;11;13;nan;nan
+31;Bienvenues-bâtard-montrachet;15;90;31;blanc;10;30;12;14;nan;nan
+236;Blagny;15;91;236;rouge;3;6;16;16;nan;nan
+29;Chassagne-montrachet;15;92;29;rouge;4;10;16;0;nan;nan
+29;Chassagne-montrachet;15;93;29;blanc;3;10;12;14;nan;nan
+33;Chevalier-montrachet;15;94;33;blanc;8;20;12;14;nan;nan
+441;Chorey-lès-beaune;15;95;441;rouge;5;10;16;0;nan;nan
+441;Chorey-lès-beaune;15;96;441;blanc;3;8;12;13;nan;nan
+399;Corton;15;97;399;rouge;5;30;16;0;nan;nan
+399;Corton;15;98;399;blanc;5;15;12;14;nan;nan
+30;Criots-bâtard-montrachet;15;99;30;blanc;6;25;12;14;nan;nan
+22;Ladoix;15;100;22;rouge;2;7;16;0;nan;nan
+22;Ladoix;15;101;22;blanc;2;6;13;0;nan;nan
+222;Maranges;15;102;222;rouge;2;5;16;0;nan;nan
+222;Maranges;15;103;222;blanc;2;5;13;0;nan;nan
+237;Meursault;15;104;237;rouge;5;20;16;0;nan;nan
+237;Meursault;15;105;237;blanc;4;10;12;14;nan;nan
+283;Monthélie;15;106;283;rouge;3;8;16;0;nan;nan
+283;Monthélie;15;107;283;blanc;2;5;13;0;nan;nan
+34;Montrachet;15;108;34;blanc;7;30;12;14;nan;nan
+187;Musigny;15;109;187;rouge;7;35;15;16;nan;nan
+187;Musigny;15;110;187;blanc;7;20;12;14;nan;nan
+376;Pernand-vergelesses;15;111;376;rouge;2;7;16;0;nan;nan
+376;Pernand-vergelesses;15;112;376;blanc;1;4;13;0;nan;nan
+394;Pommard;15;113;394;rouge;5;15;16;0;nan;nan
+35;Puligny-montrachet;15;114;35;rouge;5;10;16;0;nan;nan
+35;Puligny-montrachet;15;115;35;blanc;3;10;13;0;nan;nan
+224;Saint-aubin;15;116;224;rouge;5;12;16;0;nan;nan
+224;Saint-aubin;15;117;224;blanc;4;10;13;0;nan;nan
+238;Saint-romain;15;118;238;rouge;4;12;16;0;nan;nan
+238;Saint-romain;15;119;238;blanc;2;10;13;0;nan;nan
+223;Santenay;15;120;223;rouge;3;7;16;0;nan;nan
+223;Santenay;15;121;223;blanc;2;8;13;0;nan;nan
+395;Savigny-lès-beaune;15;122;395;rouge;4;10;16;0;nan;nan
+395;Savigny-lès-beaune;15;123;395;blanc;4;10;13;0;nan;nan
+282;Volnay;15;124;282;rouge;3;6;16;0;nan;nan
+188;Bonnes-mares;15;125;188;rouge;10;25;16;0;nan;nan
+207;Chambertin;15;126;207;rouge;7;15;14;16;nan;nan
+189;Chambolle-musigny;15;127;189;rouge;5;10;16;16;nan;nan
+204;Chapelle-chambertin;15;128;204;rouge;7;20;15;16;nan;nan
+203;Charmes-chambertin;15;129;203;rouge;6;25;16;0;nan;nan
+36;Fixin;15;130;36;rouge;3;8;16;0;nan;nan
+36;Fixin;15;131;36;blanc;1;5;13;0;nan;nan
+208;Gevrey-chambertin;15;132;208;rouge;2;10;16;0;nan;nan
+202;Griotte-chambertin;15;133;202;rouge;8;30;16;0;nan;nan
+205;Latricières-chambertin;15;134;205;rouge;7;35;16;0;nan;nan
+219;Marsannay;15;135;219;rouge;2;9;16;0;nan;nan
+219;Marsannay;15;136;219;blanc;3;7;12;0;nan;nan
+219;Marsannay;15;137;219;rosé;1;4;12;0;nan;nan
+201;Mazis-chambertin;15;138;201;rouge;7;30;16;0;nan;nan
+200;Mazoyères-chambertin;15;139;200;rouge;7;30;16;0;nan;nan
+42;Morey-saint-denis;15;140;42;rouge;3;12;16;0;nan;nan
+42;Morey-saint-denis;15;141;42;blanc;2;8;13;0;nan;nan
+154;Nuits-saint-georges;15;142;154;rouge;4;15;16;0;nan;nan
+154;Nuits-saint-georges;15;143;154;blanc;3;8;13;0;nan;nan
+156;Richebourg;15;144;156;rouge;7;35;16;0;nan;nan
+158;Romanée-conti;15;145;158;rouge;7;40;16;0;nan;nan
+157;Romanée-saint-vivant;15;146;157;rouge;7;35;16;0;nan;nan
+43;Ruchottes-chambertin;15;147;43;rouge;7;30;16;0;nan;nan
+182;Vosne-romanée;15;148;182;rouge;2;13;16;0;nan;nan
+186;Vougeot;15;149;186;rouge;3;12;16;0;nan;nan
+186;Vougeot;15;150;186;blanc;2;10;13;0;nan;nan
+132;Pouilly-fuissé;15;151;132;blanc;3;12;13;0;nan;nan
+131;Pouilly-loché;15;152;131;blanc;5;15;13;0;nan;nan
+130;Pouilly-vinzelles;15;153;130;blanc;2;8;13;0;nan;nan
+129;Saint-véran;15;154;129;blanc;3;8;13;0;nan;nan
+111;Viré-clessé;15;155;111;blanc;3;10;13;0;nan;nan
+268;Vins de pays/IGP Comtés rhodaniens;9;156;268;rouge;2;5;16;16;nan;nan
+268;Vins de pays/IGP Comtés rhodaniens;9;157;268;blanc;1;3;8;10;nan;nan
+268;Vins de pays/IGP Comtés rhodaniens;9;158;268;rosé;2;4;8;10;nan;nan
+446;Champagne;16;159;446;blanc;1;15;10;12;nan;nan
+446;Champagne;16;160;446;rosé;1;15;11;12;nan;nan
+446;Champagne;16;161;446;rouge;3;8;13;14;nan;nan
+89;Vins de pays/IGP Coteaux de Coiffy;9;162;89;rouge;2;7;12;14;nan;nan
+89;Vins de pays/IGP Coteaux de Coiffy;9;163;89;blanc;2;7;12;14;nan;nan
+89;Vins de pays/IGP Coteaux de Coiffy;9;164;89;rosé;1;4;11;13;nan;nan
+88;Vins de pays/IGP Haute-Marne;9;165;88;rouge;2;5;16;17;nan;nan
+88;Vins de pays/IGP Haute-Marne;9;166;88;blanc;2;5;12;14;nan;nan
+88;Vins de pays/IGP Haute-Marne;9;167;88;rosé;1;3;8;10;nan;nan
+353;Ajaccio;14;168;353;rouge;2;5;16;16;nan;nan
+353;Ajaccio;14;169;353;blanc;1;3;7;9;nan;nan
+353;Ajaccio;14;170;353;rosé;1;3;8;10;nan;nan
+280;Vins de pays/IGP Charentais;9;171;280;rouge;1;4;16;16;nan;nan
+280;Vins de pays/IGP Charentais;9;172;280;blanc;1;2;9;11;nan;nan
+280;Vins de pays/IGP Charentais;9;173;280;rosé;1;3;8;10;nan;nan
+442;Patrimonio;14;174;442;rouge;3;10;16;16;nan;nan
+442;Patrimonio;14;175;442;blanc;1;3;10;11;nan;nan
+442;Patrimonio;14;176;442;rosé;1;2;12;12;nan;nan
+310;Arbois;12;177;310;rouge;3;10;14;16;nan;nan
+310;Arbois;12;178;310;blanc;1;7;11;0;nan;nan
+310;Arbois;12;179;310;rosé;1;2;10;12;nan;nan
+310;Arbois;12;180;310;jaune;5;20;7;8;nan;nan
+85;Vins de pays/IGP Franche-Comté;9;181;85;rouge;2;5;16;16;nan;nan
+85;Vins de pays/IGP Franche-Comté;9;182;85;blanc;1;5;12;14;nan;nan
+85;Vins de pays/IGP Franche-Comté;9;183;85;rosé;1;2;9;11;nan;nan
+443;Cabardès;8;184;443;rouge;5;10;14;16;nan;nan
+443;Cabardès;8;185;443;rosé;1;3;10;12;nan;nan
+463;Clairette-du-languedoc;8;186;463;blanc;1;3;10;10;nan;nan
+463;Clairette-du-languedoc;8;187;463;jaune;5;15;10;13;nan;nan
+314;Corbières;8;188;314;blanc;4;8;10;11;nan;nan
+314;Corbières;8;189;314;rouge;4;10;16;18;nan;nan
+314;Corbières;8;190;314;rosé;1;3;8;10;nan;nan
+416;Corbières-boutenac;8;191;416;rouge;4;15;16;18;nan;nan
+391;Crémant-de-limoux;8;192;391;blanc;2;4;8;10;nan;nan
+391;Crémant-de-limoux;8;193;391;rosé;2;4;8;10;nan;nan
+291;Faugères;8;194;291;rouge;5;15;16;18;nan;nan
+291;Faugères;8;195;291;blanc;3;8;11;13;nan;nan
+291;Faugères;8;196;291;rosé;1;4;10;11;nan;nan
+332;Fitou;8;197;332;rouge;5;10;16;18;nan;nan
+466;La Clape;8;198;466;rouge;5;15;16;18;nan;nan
+242;IGP Coteaux de Béziers;9;199;242;rouge;0;0;0;0;nan;nan
+242;IGP Coteaux de Béziers;9;200;242;blanc;0;0;0;0;nan;nan
+242;IGP Coteaux de Béziers;9;201;242;rosé;0;0;0;0;nan;nan
+290;Languedoc;8;202;290;rouge;2;10;16;18;nan;nan
+290;Languedoc;8;203;290;blanc;1;8;9;11;nan;nan
+290;Languedoc;8;204;290;rosé;1;4;10;12;nan;nan
+195;Vins de pays/IGP Cathare;9;205;195;rouge;1;3;16;17;nan;nan
+195;Vins de pays/IGP Cathare;9;206;195;blanc;1;3;10;12;nan;nan
+195;Vins de pays/IGP Cathare;9;207;195;rosé;1;2;8;10;nan;nan
+198;Vins de pays/IGP Cité de Carcassonne;9;208;198;rouge;1;4;16;16;nan;nan
+198;Vins de pays/IGP Cité de Carcassonne;9;209;198;blanc;1;3;10;11;nan;nan
+198;Vins de pays/IGP Cité de Carcassonne;9;210;198;rosé;1;2;8;10;nan;nan
+212;Vins de pays/IGP Coteaux d'Ensérune;9;211;212;rouge;2;8;14;16;nan;nan
+212;Vins de pays/IGP Coteaux d'Ensérune;9;212;212;blanc;1;3;8;10;nan;nan
+212;Vins de pays/IGP Coteaux d'Ensérune;9;213;212;rosé;1;2;7;9;nan;nan
+231;Vins de pays/IGP Coteaux de Peyriac;9;214;231;rouge;1;3;16;16;nan;nan
+231;Vins de pays/IGP Coteaux de Peyriac;9;215;231;blanc;1;2;7;9;nan;nan
+231;Vins de pays/IGP Coteaux de Peyriac;9;216;231;rosé;1;2;7;9;nan;nan
+276;Vins de pays/IGP Côtes de Thau;9;217;276;rouge;2;6;16;18;nan;nan
+276;Vins de pays/IGP Côtes de Thau;9;218;276;blanc;2;5;11;13;nan;nan
+276;Vins de pays/IGP Côtes de Thau;9;219;276;rosé;1;3;8;10;nan;nan
+227;Vins de pays/IGP Côtes de Thongue;9;220;227;rouge;1;6;16;18;nan;nan
+227;Vins de pays/IGP Côtes de Thongue;9;221;227;blanc;1;3;9;11;nan;nan
+227;Vins de pays/IGP Côtes de Thongue;9;222;227;rosé;1;2;8;10;nan;nan
+169;Vins de pays/IGP Côtes du Brian;9;223;169;rouge;2;6;16;18;nan;nan
+169;Vins de pays/IGP Côtes du Brian;9;224;169;blanc;1;3;11;12;nan;nan
+169;Vins de pays/IGP Côtes du Brian;9;225;169;rosé;1;2;8;10;nan;nan
+243;Vins de pays/IGP Haute vallée de l'Aude;9;226;243;rouge;2;5;16;16;nan;nan
+243;Vins de pays/IGP Haute vallée de l'Aude;9;227;243;blanc;1;4;10;12;nan;nan
+243;Vins de pays/IGP Haute vallée de l'Aude;9;228;243;rosé;1;1;8;10;nan;nan
+239;Vins de pays/IGP Haute vallée de l'Orb;9;229;239;rouge;1;4;16;16;nan;nan
+239;Vins de pays/IGP Haute vallée de l'Orb;9;230;239;blanc;1;4;10;12;nan;nan
+239;Vins de pays/IGP Haute vallée de l'Orb;9;231;239;rosé;1;2;8;10;nan;nan
+226;Vins de pays/IGP Hérault;9;232;226;rouge;3;12;16;16;nan;nan
+226;Vins de pays/IGP Hérault;9;233;226;blanc;2;10;11;13;nan;nan
+226;Vins de pays/IGP Hérault;9;234;226;rosé;1;3;9;11;nan;nan
+161;Vins de pays/IGP Sable de Camargue;9;235;161;rouge;2;5;16;16;nan;nan
+161;Vins de pays/IGP Sable de Camargue;9;236;161;blanc;1;4;9;11;nan;nan
+161;Vins de pays/IGP Sable de Camargue;9;237;161;rosé;1;3;9;11;nan;nan
+172;Vins de pays/IGP Saint-Guilhem-le-Désert;9;238;172;rouge;2;6;16;16;nan;nan
+172;Vins de pays/IGP Saint-Guilhem-le-Désert;9;239;172;blanc;2;4;10;12;nan;nan
+172;Vins de pays/IGP Saint-Guilhem-le-Désert;9;240;172;rosé;1;2;8;10;nan;nan
+199;Vins de pays/IGP Torgan;9;241;199;rouge;2;4;16;16;nan;nan
+199;Vins de pays/IGP Torgan;9;242;199;blanc;1;4;9;11;nan;nan
+199;Vins de pays/IGP Torgan;9;243;199;rosé;1;2;8;10;nan;nan
+164;Vins de pays/IGP Vallée du paradis;9;244;164;rouge;2;6;15;17;nan;nan
+164;Vins de pays/IGP Vallée du paradis;9;245;164;blanc;1;4;10;11;nan;nan
+164;Vins de pays/IGP Vallée du paradis;9;246;164;rosé;1;2;8;10;nan;nan
+194;Vins de pays/IGP Vicomté d'Aumélas;9;247;194;rouge;2;7;16;16;nan;nan
+194;Vins de pays/IGP Vicomté d'Aumélas;9;248;194;blanc;2;5;12;14;nan;nan
+194;Vins de pays/IGP Vicomté d'Aumélas;9;249;194;rosé;1;2;8;10;nan;nan
+193;Vins de pays/IGPCoteaux de Narbonne;9;250;193;rouge;1;4;16;16;nan;nan
+193;Vins de pays/IGPCoteaux de Narbonne;9;251;193;blanc;1;3;8;10;nan;nan
+193;Vins de pays/IGPCoteaux de Narbonne;9;252;193;rosé;1;2;7;9;nan;nan
+304;Limoux;8;253;304;rouge;3;10;15;17;nan;nan
+304;Limoux;8;254;304;blanc;2;8;9;11;nan;nan
+382;Blanquette méthode ancestrale;8;255;382;blanc;2;5;8;10;nan;nan
+333;Blanquette-de-limoux;8;256;333;blanc;2;5;8;10;nan;nan
+319;Malepère;8;257;319;rouge;4;12;15;16;nan;nan
+319;Malepère;8;258;319;rosé;2;4;8;11;nan;nan
+367;Minervois;8;259;367;rouge;4;10;15;17;nan;nan
+367;Minervois;8;260;367;rosé;2;4;9;11;nan;nan
+367;Minervois;8;261;367;blanc;2;7;12;12;nan;nan
+351;Minervois-la-livinière;8;262;351;rouge;5;15;16;18;nan;nan
+450;Muscat-de-frontignan;8;263;450;jaune;4;20;9;11;nan;nan
+458;Muscat-de-lunel;8;264;458;jaune;4;20;9;11;nan;nan
+456;Muscat-de-mireval;8;265;456;jaune;4;20;9;11;nan;nan
+404;Muscat-de-saint-jean-de-minervois;8;266;404;jaune;4;20;9;11;nan;nan
+467;Pic-saint-loup;8;267;467;rouge;5;15;16;18;nan;nan
+298;Picpoul-de-pinet;8;268;298;rouge;5;15;16;18;nan;nan
+292;Saint-chinian;8;269;292;rouge;3;10;16;18;nan;nan
+292;Saint-chinian;8;270;292;blanc;3;8;8;10;nan;nan
+292;Saint-chinian;8;271;292;rosé;2;4;9;11;nan;nan
+232;Vins de pays/IGP Oc;9;272;232;rouge;2;6;15;17;nan;nan
+232;Vins de pays/IGP Oc;9;273;232;blanc;1;4;9;11;nan;nan
+232;Vins de pays/IGP Oc;9;274;232;rosé;1;3;9;11;nan;nan
+452;Côtes-de-toul;13;275;452;rouge;2;6;14;16;nan;nan
+452;Côtes-de-toul;13;276;452;blanc;3;5;10;12;nan;nan
+82;Vins de pays/IGP Côte de Meuse;9;277;82;rouge;1;3;16;16;nan;nan
+82;Vins de pays/IGP Côte de Meuse;9;278;82;blanc;1;2;8;10;nan;nan
+82;Vins de pays/IGP Côte de Meuse;9;279;82;rosé;1;3;8;11;nan;nan
+297;Moselle;13;280;297;rouge;2;5;14;16;nan;nan
+297;Moselle;13;281;297;blanc;3;5;10;12;nan;nan
+297;Moselle;13;282;297;rosé;2;3;10;12;nan;nan
+408;Haut-poitou;11;283;408;rouge;3;10;14;16;nan;nan
+408;Haut-poitou;11;284;408;blanc;2;5;9;11;nan;nan
+408;Haut-poitou;11;285;408;rosé;1;3;8;11;nan;nan
+299;Bandol;2;286;299;rouge;3;20;16;18;nan;nan
+299;Bandol;2;287;299;rosé;2;7;8;11;nan;nan
+299;Bandol;2;288;299;blanc;2;5;8;11;nan;nan
+318;Baux-de-Provence (Les);2;289;318;rouge;3;15;15;17;nan;nan
+318;Baux-de-Provence (Les);2;290;318;blanc;2;8;8;11;nan;nan
+318;Baux-de-Provence (Les);2;291;318;rosé;2;5;8;10;nan;nan
+419;Bellet;2;292;419;rouge;3;15;14;15;nan;nan
+419;Bellet;2;293;419;blanc;3;10;8;11;nan;nan
+419;Bellet;2;294;419;rosé;1;3;10;12;nan;nan
+287;Cassis;2;295;287;rouge;2;7;14;16;nan;nan
+287;Cassis;2;296;287;blanc;4;10;10;12;nan;nan
+287;Cassis;2;297;287;rosé;2;4;10;11;nan;nan
+317;Coteaux-d'aix-en-provence;2;298;317;rouge;3;15;14;16;nan;nan
+317;Coteaux-d'aix-en-provence;2;299;317;blanc;2;8;8;10;nan;nan
+317;Coteaux-d'aix-en-provence;2;300;317;rosé;1;4;9;11;nan;nan
+6;Coteaux-varois-en-provence;2;301;6;rouge;3;15;14;16;nan;nan
+6;Coteaux-varois-en-provence;2;302;6;blanc;2;8;8;10;nan;nan
+6;Coteaux-varois-en-provence;2;303;6;rosé;1;4;9;11;nan;nan
+5;Côtes-de-provence;2;304;5;rouge;3;15;14;16;nan;nan
+5;Côtes-de-provence;2;305;5;blanc;2;8;8;10;nan;nan
+5;Côtes-de-provence;2;306;5;rosé;1;4;9;11;nan;nan
+4;Palette;2;307;4;rouge;4;16;15;17;nan;nan
+4;Palette;2;308;4;blanc;4;12;10;12;nan;nan
+4;Palette;2;309;4;rosé;2;6;10;13;nan;nan
+92;Vins de pays/IGP Alpes-de-Haute-Provence;9;310;92;rouge;2;10;16;16;nan;nan
+92;Vins de pays/IGP Alpes-de-Haute-Provence;9;311;92;blanc;1;2;8;10;nan;nan
+92;Vins de pays/IGP Alpes-de-Haute-Provence;9;312;92;rosé;1;3;9;11;nan;nan
+114;Vins de pays/IGP Alpes-Maritimes;9;313;114;rouge;2;8;14;16;nan;nan
+114;Vins de pays/IGP Alpes-Maritimes;9;314;114;blanc;1;4;8;10;nan;nan
+114;Vins de pays/IGP Alpes-Maritimes;9;315;114;rosé;1;3;8;10;nan;nan
+266;Vins de pays/IGP Alpilles;9;316;266;rouge;2;6;14;16;nan;nan
+266;Vins de pays/IGP Alpilles;9;317;266;blanc;1;4;8;10;nan;nan
+266;Vins de pays/IGP Alpilles;9;318;266;rosé;1;2;8;10;nan;nan
+96;Vins de pays/IGP Maures;9;319;96;rouge;2;4;16;16;nan;nan
+96;Vins de pays/IGP Maures;9;320;96;blanc;1;4;8;10;nan;nan
+96;Vins de pays/IGP Maures;9;321;96;rosé;1;3;8;10;nan;nan
+112;Vins de pays/IGP Mont-Caume;9;322;112;rouge;2;5;16;16;nan;nan
+112;Vins de pays/IGP Mont-Caume;9;323;112;blanc;1;4;8;10;nan;nan
+112;Vins de pays/IGP Mont-Caume;9;324;112;rosé;1;3;8;10;nan;nan
+93;Vins de pays/IGP Var;9;325;93;rouge;2;6;16;16;nan;nan
+93;Vins de pays/IGP Var;9;326;93;blanc;1;3;8;10;nan;nan
+93;Vins de pays/IGP Var;9;327;93;rosé;1;4;10;12;nan;nan
+113;Vins de pays/IGPCoteaux du Verdon;9;328;113;rouge;2;6;16;16;nan;nan
+113;Vins de pays/IGPCoteaux du Verdon;9;329;113;blanc;1;3;8;10;nan;nan
+113;Vins de pays/IGPCoteaux du Verdon;9;330;113;rosé;1;4;10;12;nan;nan
+91;Vins de pays/IGPHautes-Alpes;9;331;91;rouge;2;5;16;16;nan;nan
+91;Vins de pays/IGPHautes-Alpes;9;332;91;blanc;1;5;8;10;nan;nan
+91;Vins de pays/IGPHautes-Alpes;9;333;91;rosé;1;3;8;10;nan;nan
+99;Vins de pays/IGP Île de Beauté;9;334;99;rouge;2;4;14;15;nan;nan
+99;Vins de pays/IGP Île de Beauté;9;335;99;blanc;1;3;8;10;nan;nan
+99;Vins de pays/IGP Île de Beauté;9;336;99;rosé;1;2;8;9;nan;nan
+411;Banyuls;6;337;411;rouge;5;25;10;12;nan;nan
+411;Banyuls;6;338;411;jaune;6;12;10;13;nan;nan
+411;Banyuls;6;339;411;rosé;5;10;10;13;nan;nan
+429;Banyuls grand cru;6;340;429;rouge;5;30;10;12;nan;nan
+289;Collioure;6;341;289;rouge;5;15;16;18;nan;nan
+289;Collioure;6;342;289;blanc;4;12;8;11;nan;nan
+289;Collioure;6;343;289;rosé;2;8;8;10;nan;nan
+288;Côtes-du-roussillon;6;344;288;rouge;3;10;16;18;nan;nan
+288;Côtes-du-roussillon;6;345;288;blanc;2;8;8;10;nan;nan
+288;Côtes-du-roussillon;6;346;288;rosé;1;3;10;12;nan;nan
+334;Côtes-du-roussillon-villages;6;347;334;rouge;2;10;16;18;nan;nan
+412;Maury;6;348;412;rouge;5;25;10;12;nan;nan
+412;Maury;6;349;412;jaune;5;15;10;13;nan;nan
+471;Maury sec;6;350;471;rouge;5;15;16;18;nan;nan
+461;Muscat-de-rivesaltes;6;351;461;jaune;6;20;10;13;nan;nan
+325;Rivesaltes;6;352;325;jaune;5;15;14;16;nan;nan
+325;Rivesaltes;6;353;325;rouge;5;15;11;13;nan;nan
+160;Vins de pays/IGP Côte Vermeille;9;354;160;rouge;1;4;16;16;nan;nan
+160;Vins de pays/IGP Côte Vermeille;9;355;160;blanc;1;3;10;11;nan;nan
+160;Vins de pays/IGP Côte Vermeille;9;356;160;rosé;1;2;7;9;nan;nan
+218;Vins de pays/IGP Côtes catalanes;9;357;218;rouge;3;10;16;16;nan;nan
+218;Vins de pays/IGP Côtes catalanes;9;358;218;blanc;1;4;8;10;nan;nan
+218;Vins de pays/IGP Côtes catalanes;9;359;218;rosé;1;2;7;9;nan;nan
+361;Bugey;3;360;361;blanc;1;2;10;0;nan;nan
+361;Bugey;3;361;361;rouge;3;10;14;16;nan;nan
+361;Bugey;3;362;361;rosé;1;2;10;12;nan;nan
+415;Seyssel;3;363;415;blanc;1;3;12;12;nan;nan
+257;Vins de Pays IGP vins des Allobroges;9;364;257;rouge;3;6;16;16;nan;nan
+257;Vins de Pays IGP vins des Allobroges;9;365;257;blanc;4;10;8;10;nan;nan
+261;Vins de pays/IGP Isère;9;366;261;rouge;3;8;16;16;nan;nan
+261;Vins de pays/IGP Isère;9;367;261;blanc;2;6;8;12;nan;nan
+261;Vins de pays/IGP Isère;9;368;261;rosé;1;2;8;10;nan;nan
+475;Duché d'Uzès;5;369;475;rouge;2;5;16;16;nan;nan
+475;Duché d'Uzès;5;370;475;blanc;1;4;10;12;nan;nan
+475;Duché d'Uzès;5;371;475;rosé;1;2;8;10;nan;nan
+94;Vins de pays/IGP Bouches-du-Rhône;9;372;94;rouge;3;12;16;16;nan;nan
+94;Vins de pays/IGP Bouches-du-Rhône;9;373;94;blanc;2;8;11;13;nan;nan
+94;Vins de pays/IGP Bouches-du-Rhône;9;374;94;rosé;1;3;9;11;nan;nan
+247;Vins de pays/IGP Cévennes;9;375;247;rouge;2;8;16;16;nan;nan
+247;Vins de pays/IGP Cévennes;9;376;247;blanc;1;4;9;11;nan;nan
+247;Vins de pays/IGP Cévennes;9;377;247;rosé;1;2;8;10;nan;nan
+168;Vins de pays/IGP Coteaux du Pont du Gard;9;378;168;rouge;2;6;16;16;nan;nan
+168;Vins de pays/IGP Coteaux du Pont du Gard;9;379;168;blanc;1;3;11;13;nan;nan
+168;Vins de pays/IGP Coteaux du Pont du Gard;9;380;168;rosé;1;2;9;11;nan;nan
+217;Vins de pays/IGP Gard;9;381;217;rouge;3;8;16;16;nan;nan
+217;Vins de pays/IGP Gard;9;382;217;blanc;2;5;12;14;nan;nan
+217;Vins de pays/IGP Gard;9;383;217;rosé;1;2;8;10;nan;nan
+62;Vins de pays/IGP Méditerranée;9;384;62;rouge;2;5;16;16;nan;nan
+62;Vins de pays/IGP Méditerranée;9;385;62;blanc;1;3;10;12;nan;nan
+62;Vins de pays/IGP Méditerranée;9;386;62;rosé;1;2;8;10;nan;nan
+271;Vins de pays/IGP Landes;9;387;271;rouge;1;4;14;16;nan;nan
+271;Vins de pays/IGP Landes;9;388;271;blanc;1;2;8;10;nan;nan
+271;Vins de pays/IGP Landes;9;389;271;rosé;1;2;8;10;nan;nan
+344;Béarn;7;390;344;rouge;2;8;14;16;nan;nan
+344;Béarn;7;391;344;blanc;2;6;7;10;nan;nan
+344;Béarn;7;392;344;rosé;1;4;8;10;nan;nan
+338;Bergerac;7;393;338;rouge;3;12;15;16;nan;nan
+338;Bergerac;7;394;338;blanc;2;8;10;11;nan;nan
+338;Bergerac;7;395;338;rosé;1;4;11;13;nan;nan
+365;Brulhois;7;396;365;rouge;4;12;16;18;nan;nan
+365;Brulhois;7;397;365;rosé;1;3;10;11;nan;nan
+335;Buzet;7;398;335;rouge;3;12;14;16;nan;nan
+335;Buzet;7;399;335;blanc;1;4;8;10;nan;nan
+335;Buzet;7;400;335;rosé;1;3;9;11;nan;nan
+427;Cahors;7;401;427;rouge;5;15;16;18;nan;nan
+345;Coteaux-du-quercy;7;402;345;rouge;5;15;16;18;nan;nan
+384;Côtes-de-bergerac;7;403;384;rouge;4;10;16;18;nan;nan
+384;Côtes-de-bergerac;7;404;384;blanc;5;20;10;12;nan;nan
+413;Côtes-de-duras;7;405;413;rouge;3;12;14;16;nan;nan
+413;Côtes-de-duras;7;406;413;blanc;1;4;7;9;nan;nan
+413;Côtes-de-duras;7;407;413;rosé;1;3;8;10;nan;nan
+403;Côtes-de-millau;7;408;403;rouge;5;15;16;18;nan;nan
+403;Côtes-de-millau;7;409;403;blanc;1;4;8;10;nan;nan
+403;Côtes-de-millau;7;410;403;rosé;1;2;8;10;nan;nan
+381;Côtes-de-montravel;7;411;381;jaune;5;20;10;13;nan;nan
+388;Côtes-du-marmandais;7;412;388;rouge;5;15;16;18;nan;nan
+388;Côtes-du-marmandais;7;413;388;blanc;3;10;8;10;nan;nan
+388;Côtes-du-marmandais;7;414;388;rosé;2;3;10;12;nan;nan
+360;Entraygues-le-fel;7;415;360;rouge;3;8;16;0;nan;nan
+360;Entraygues-le-fel;7;416;360;blanc;2;4;10;12;nan;nan
+360;Entraygues-le-fel;7;417;360;rosé;1;3;10;12;nan;nan
+385;Fronton;7;418;385;rouge;4;15;16;0;nan;nan
+385;Fronton;7;419;385;rosé;1;3;8;10;nan;nan
+350;Gaillac;7;420;350;rouge;3;8;15;17;nan;nan
+350;Gaillac;7;421;350;rosé;1;4;8;10;nan;nan
+350;Gaillac;7;422;350;blanc;2;6;8;10;nan;nan
+350;Gaillac;7;423;350;jaune;5;25;10;12;nan;nan
+457;Haut-montravel;7;424;457;blanc;5;20;8;10;nan;nan
+315;Irouléguy;7;425;315;rouge;3;15;16;0;nan;nan
+315;Irouléguy;7;426;315;blanc;2;8;10;12;nan;nan
+315;Irouléguy;7;427;315;rosé;2;5;9;11;nan;nan
+295;Jurançon;7;428;295;blanc;2;10;10;12;nan;nan
+295;Jurançon;7;429;295;jaune;5;20;10;13;nan;nan
+343;Madiran;7;430;343;rouge;5;25;16;18;nan;nan
+401;Marcillac;7;431;401;rouge;2;6;16;16;nan;nan
+401;Marcillac;7;432;401;rosé;1;3;8;10;nan;nan
+436;Monbazillac;7;433;436;jaune;5;25;9;11;nan;nan
+406;Montravel;7;434;406;rouge;5;15;16;0;nan;nan
+406;Montravel;7;435;406;blanc;2;8;8;10;nan;nan
+339;Pacherenc-du-vic-bilh;7;436;339;blanc;2;5;10;12;nan;nan
+336;Pécharmant;7;437;336;rouge;4;15;16;16;nan;nan
+420;Rosette;7;438;420;blanc;2;7;8;10;nan;nan
+364;Saint-mont;7;439;364;rouge;2;6;14;16;nan;nan
+364;Saint-mont;7;440;364;blanc;1;4;10;12;nan;nan
+364;Saint-mont;7;441;364;rosé;1;3;9;11;nan;nan
+389;Saint-sardos;7;442;389;rouge;3;10;15;16;nan;nan
+389;Saint-sardos;7;443;389;rosé;1;3;10;12;nan;nan
+371;Saussignac;7;444;371;blanc;5;20;8;10;nan;nan
+371;Saussignac;7;445;371;jaune;5;25;9;11;nan;nan
+138;Lavilledieu;9;446;138;rouge;2;4;16;16;nan;nan
+138;Lavilledieu;9;447;138;rosé;1;2;8;10;nan;nan
+279;Vins de pays/IGP Agenais;9;448;279;rouge;2;4;16;16;nan;nan
+279;Vins de pays/IGP Agenais;9;449;279;blanc;1;2;8;9;nan;nan
+279;Vins de pays/IGP Agenais;9;450;279;rosé;1;2;8;9;nan;nan
+118;Vins de pays/IGP Ariège;9;451;118;rouge;2;7;16;16;nan;nan
+118;Vins de pays/IGP Ariège;9;452;118;blanc;1;3;8;10;nan;nan
+118;Vins de pays/IGP Ariège;9;453;118;rosé;1;2;8;10;nan;nan
+269;Vins de pays/IGP Atlantique;9;454;269;rouge;1;4;15;17;nan;nan
+269;Vins de pays/IGP Atlantique;9;455;269;blanc;1;2;8;9;nan;nan
+269;Vins de pays/IGP Atlantique;9;456;269;rosé;1;2;8;10;nan;nan
+248;Vins de pays/IGP Aude;9;457;248;rouge;1;4;16;16;nan;nan
+248;Vins de pays/IGP Aude;9;458;248;blanc;1;3;8;10;nan;nan
+248;Vins de pays/IGP Aude;9;459;248;rosé;1;2;8;10;nan;nan
+115;Vins de pays/IGP Aveyron;9;460;115;rouge;1;3;16;16;nan;nan
+115;Vins de pays/IGP Aveyron;9;461;115;blanc;1;3;10;12;nan;nan
+115;Vins de pays/IGP Aveyron;9;462;115;rosé;1;2;8;10;nan;nan
+142;Vins de pays/IGP Comté tolosan;9;463;142;rouge;2;4;14;16;nan;nan
+142;Vins de pays/IGP Comté tolosan;9;464;142;blanc;1;3;8;11;nan;nan
+142;Vins de pays/IGP Comté tolosan;9;465;142;rosé;1;3;9;11;nan;nan
+140;Vins de pays/IGP Corrèze;9;466;140;rouge;1;4;16;16;nan;nan
+140;Vins de pays/IGP Corrèze;9;467;140;blanc;2;6;8;10;nan;nan
+140;Vins de pays/IGP Corrèze;9;468;140;rosé;1;2;8;10;nan;nan
+134;Vins de pays/IGP Coteaux de Glanes;9;469;134;rouge;1;3;14;16;nan;nan
+134;Vins de pays/IGP Coteaux de Glanes;9;470;134;rosé;1;2;8;10;nan;nan
+136;Vins de pays/IGP Côtes de Gascogne;9;471;136;rouge;2;5;16;16;nan;nan
+136;Vins de pays/IGP Côtes de Gascogne;9;472;136;blanc;1;3;8;10;nan;nan
+136;Vins de pays/IGP Côtes de Gascogne;9;473;136;rosé;1;4;9;11;nan;nan
+119;Vins de pays/IGP Côtes du Lot;9;474;119;rouge;1;5;13;15;nan;nan
+119;Vins de pays/IGP Côtes du Lot;9;475;119;blanc;1;4;10;12;nan;nan
+119;Vins de pays/IGP Côtes du Lot;9;476;119;rosé;1;2;8;10;nan;nan
+141;Vins de pays/IGP Côtes du Tarn;9;477;141;rouge;2;5;16;16;nan;nan
+141;Vins de pays/IGP Côtes du Tarn;9;478;141;blanc;1;5;10;12;nan;nan
+141;Vins de pays/IGP Côtes du Tarn;9;479;141;rosé;1;2;8;9;nan;nan
+117;Vins de pays/IGP Gers;9;480;117;rouge;1;4;14;16;nan;nan
+117;Vins de pays/IGP Gers;9;481;117;blanc;1;3;8;10;nan;nan
+117;Vins de pays/IGP Gers;9;482;117;jaune;1;4;9;11;nan;nan
+117;Vins de pays/IGP Gers;9;483;117;rosé;1;2;8;10;nan;nan
+270;Vins de pays/IGP Périgord;9;484;270;rouge;3;6;16;18;nan;nan
+270;Vins de pays/IGP Périgord;9;485;270;blanc;1;3;9;11;nan;nan
+270;Vins de pays/IGP Périgord;9;486;270;rosé;1;2;8;10;nan;nan
+281;Vins de pays/IGP Thézac-Perricard;9;487;281;rouge;2;6;15;16;nan;nan
+281;Vins de pays/IGP Thézac-Perricard;9;488;281;rosé;1;2;8;9;nan;nan
+366;Tursan;7;489;366;rouge;4;15;16;16;nan;nan
+366;Tursan;7;490;366;blanc;2;5;8;10;nan;nan
+421;Vins-d'estaing;7;491;421;blanc;2;5;8;10;nan;nan
+366;Tursan;7;492;366;rosé;1;3;10;11;nan;nan
+421;Vins-d'estaing;7;493;421;rosé;1;3;10;11;nan;nan
+328;Anjou;4;494;328;rouge;2;5;14;15;nan;nan
+328;Anjou;4;495;328;blanc;2;4;8;10;nan;nan
+10;Anjou-coteaux-de-la-loire;4;496;10;jaune;2;15;8;10;nan;nan
+392;Anjou-villages;4;497;392;rouge;4;12;16;16;nan;nan
+15;Anjou-villages-brissac;4;498;15;rouge;5;15;16;16;nan;nan
+428;Bonnezeaux;4;499;428;jaune;5;35;10;12;nan;nan
+322;Bourgueil;4;500;322;rouge;3;16;14;16;nan;nan
+322;Bourgueil;4;501;322;rosé;1;3;8;10;nan;nan
+12;Cabernet-d'anjou;4;502;12;rosé;2;3;8;11;nan;nan
+18;Cabernet-de-saumur;4;503;18;rosé;1;2;10;12;nan;nan
+368;Châteaumeillant;4;504;368;rouge;2;5;14;16;nan;nan
+368;Châteaumeillant;4;505;368;blanc;1;3;8;10;nan;nan
+14;Chaume;4;506;14;jaune;3;25;11;13;nan;nan
+346;Cheverny;4;507;346;rouge;3;10;14;14;nan;nan
+346;Cheverny;4;508;346;blanc;1;5;8;10;nan;nan
+346;Cheverny;4;509;346;rosé;1;2;8;10;nan;nan
+323;Chinon;4;510;323;rouge;4;20;16;16;nan;nan
+323;Chinon;4;511;323;blanc;2;5;10;12;nan;nan
+323;Chinon;4;512;323;rosé;1;3;9;11;nan;nan
+255;Côte-roannaise;4;513;255;rouge;1;5;14;16;nan;nan
+255;Côte-roannaise;4;514;255;rosé;1;2;8;10;nan;nan
+431;Coteaux-d'ancenis;4;515;431;rouge;3;7;14;16;nan;nan
+431;Coteaux-d'ancenis;4;516;431;blanc;2;5;10;12;nan;nan
+431;Coteaux-d'ancenis;4;517;431;rosé;1;3;10;12;nan;nan
+11;Coteaux-de-l'aubance;4;518;11;jaune;5;20;9;12;nan;nan
+17;Coteaux-de-saumur;4;519;17;jaune;5;20;10;12;nan;nan
+439;Coteaux-du-giennois;4;520;439;rouge;2;6;14;15;nan;nan
+439;Coteaux-du-giennois;4;521;439;blanc;1;3;8;10;nan;nan
+439;Coteaux-du-giennois;4;522;439;rosé;1;2;10;12;nan;nan
+417;Coteaux-du-layon;4;523;417;jaune;5;25;10;13;nan;nan
+347;Coteaux-du-loir;4;524;347;rouge;1;4;14;14;nan;nan
+347;Coteaux-du-loir;4;525;347;blanc;1;6;10;12;nan;nan
+347;Coteaux-du-loir;4;526;347;rosé;1;2;10;12;nan;nan
+422;Coteaux-du-vendômois;4;527;422;rouge;1;3;14;14;nan;nan
+422;Coteaux-du-vendômois;4;528;422;blanc;1;3;10;11;nan;nan
+402;Côtes-d'auvergne;4;529;402;rouge;3;7;15;16;nan;nan
+402;Côtes-d'auvergne;4;530;402;blanc;2;4;12;14;nan;nan
+402;Côtes-d'auvergne;4;531;402;rosé;1;3;10;12;nan;nan
+369;Côtes-du-forez;4;532;369;rouge;2;4;14;14;nan;nan
+369;Côtes-du-forez;4;533;369;rosé;1;2;11;12;nan;nan
+380;Cour-cheverny;4;534;380;blanc;2;5;9;11;nan;nan
+324;Crémant-de-loire;4;535;324;blanc;1;4;7;9;nan;nan
+324;Crémant-de-loire;4;536;324;rosé;1;3;8;9;nan;nan
+409;Fiefs-vendéens;4;537;409;rouge;3;12;16;0;nan;nan
+409;Fiefs-vendéens;4;538;409;blanc;3;10;12;13;nan;nan
+409;Fiefs-vendéens;4;539;409;rosé;1;3;11;12;nan;nan
+407;Gros-plant-du-pays-nantais;4;540;407;blanc;1;4;8;10;nan;nan
+455;Jasnières;4;541;455;blanc;3;15;11;13;nan;nan
+254;Menetou-salon;4;542;254;rouge;3;10;16;16;nan;nan
+254;Menetou-salon;4;543;254;blanc;3;8;10;12;nan;nan
+254;Menetou-salon;4;544;254;rosé;1;3;10;11;nan;nan
+321;Montlouis-sur-loire;4;545;321;blanc;3;8;10;12;nan;nan
+423;Muscadet;4;546;423;blanc;1;5;8;10;nan;nan
+341;Muscadet-coteaux-de-la-loire;4;547;341;blanc;1;5;8;10;nan;nan
+453;Muscadet-côtes-de-grand-lieu;4;548;453;blanc;1;5;8;10;nan;nan
+293;Muscadet-sèvre-et-maine;4;549;293;blanc;1;5;8;10;nan;nan
+425;Orléans;4;550;425;rouge;1;4;13;14;nan;nan
+425;Orléans;4;551;425;blanc;1;3;10;11;nan;nan
+425;Orléans;4;552;425;rosé;1;2;8;10;nan;nan
+363;Orléans-cléry;4;553;363;rouge;2;5;13;14;nan;nan
+253;Pouilly-fumé;4;554;253;blanc;3;15;10;12;nan;nan
+252;Pouilly-sur-loire;4;555;252;blanc;2;6;10;12;nan;nan
+13;Quarts-de-chaume;4;556;13;jaune;5;35;8;10;nan;nan
+251;Quincy;4;557;251;blanc;3;10;10;12;nan;nan
+250;Reuilly;4;558;250;rouge;1;4;16;16;nan;nan
+250;Reuilly;4;559;250;blanc;1;3;10;11;nan;nan
+250;Reuilly;4;560;250;rosé;1;2;12;12;nan;nan
+448;Rosé-d'anjou;4;561;448;rosé;1;4;10;12;nan;nan
+447;Rosé-de-loire;4;562;447;rosé;1;3;8;10;nan;nan
+331;Saint-nicolas-de-bourgueil;4;563;331;rouge;3;17;14;16;nan;nan
+331;Saint-nicolas-de-bourgueil;4;564;331;rosé;1;4;10;11;nan;nan
+374;Saint-pourçain;4;565;374;rouge;2;6;14;14;nan;nan
+374;Saint-pourçain;4;566;374;blanc;1;5;10;10;nan;nan
+374;Saint-pourçain;4;567;374;rosé;1;3;9;11;nan;nan
+233;Sancerre;4;568;233;rouge;2;8;14;15;nan;nan
+233;Sancerre;4;569;233;blanc;2;15;10;12;nan;nan
+233;Sancerre;4;570;233;rosé;1;4;12;12;nan;nan
+19;Saumur;4;571;19;rouge;3;10;16;16;nan;nan
+19;Saumur;4;572;19;blanc;2;10;12;14;nan;nan
+19;Saumur;4;573;19;rosé;1;2;6;8;nan;nan
+16;Saumur-champigny;4;574;16;rouge;3;12;16;16;nan;nan
+9;Savennières;4;575;9;blanc;3;15;11;13;nan;nan
+8;Savennières-coulée-de-serrant;4;576;8;blanc;4;20;11;13;nan;nan
+7;Savennières-roche-aux-moines;4;577;7;blanc;3;15;11;13;nan;nan
+294;Touraine;4;578;294;rouge;2;10;14;15;nan;nan
+294;Touraine;4;579;294;blanc;1;5;8;10;nan;nan
+294;Touraine;4;580;294;rosé;1;3;8;10;nan;nan
+459;Touraine-noble-joué;4;581;459;rosé;2;4;8;10;nan;nan
+356;Valençay;4;582;356;rouge;2;5;14;14;nan;nan
+356;Valençay;4;583;356;blanc;1;4;10;11;nan;nan
+356;Valençay;4;584;356;rosé;1;3;9;11;nan;nan
+81;Vins de pays/IGP Allier;9;585;81;rouge;1;4;14;16;nan;nan
+81;Vins de pays/IGP Allier;9;586;81;blanc;1;2;8;10;nan;nan
+81;Vins de pays/IGP Allier;9;587;81;rosé;1;2;8;10;nan;nan
+69;Vins de pays/IGP Calvados;9;588;69;rouge;1;4;12;14;nan;nan
+69;Vins de pays/IGP Calvados;9;589;69;blanc;1;6;9;11;nan;nan
+69;Vins de pays/IGP Calvados;9;590;69;rosé;1;2;8;10;nan;nan
+72;Vins de pays/IGP Cher;9;591;72;rouge;2;4;13;15;nan;nan
+72;Vins de pays/IGP Cher;9;592;72;blanc;1;4;8;10;nan;nan
+72;Vins de pays/IGP Cher;9;593;72;rosé;1;3;8;10;nan;nan
+75;Vins de pays/IGP Coteaux charitois;9;594;75;rouge;2;4;15;16;nan;nan
+75;Vins de pays/IGP Coteaux charitois;9;595;75;blanc;2;6;10;12;nan;nan
+75;Vins de pays/IGP Coteaux charitois;9;596;75;rosé;1;2;9;11;nan;nan
+76;Vins de pays/IGP Côtes de la Charité;9;597;76;rouge;2;6;13;15;nan;nan
+76;Vins de pays/IGP Côtes de la Charité;9;598;76;blanc;2;5;12;14;nan;nan
+76;Vins de pays/IGP Côtes de la Charité;9;599;76;rosé;1;3;9;11;nan;nan
+77;Vins de pays/IGP Puy-de-Dôme;9;600;77;rouge;2;5;16;16;nan;nan
+77;Vins de pays/IGP Puy-de-Dôme;9;601;77;blanc;1;3;8;10;nan;nan
+77;Vins de pays/IGP Puy-de-Dôme;9;602;77;rosé;1;2;8;10;nan;nan
+263;Vins de pays/IGP Urfé;9;603;263;rouge;2;6;14;15;nan;nan
+263;Vins de pays/IGP Urfé;9;604;263;blanc;1;5;11;13;nan;nan
+263;Vins de pays/IGP Urfé;9;605;263;rosé;1;2;9;10;nan;nan
+73;Vins de pays/IGP Val de Loire;9;606;73;rouge;2;6;15;17;nan;nan
+73;Vins de pays/IGP Val de Loire;9;607;73;blanc;1;5;9;12;nan;nan
+73;Vins de pays/IGP Val de Loire;9;608;73;rosé;1;3;9;11;nan;nan
+340;Vouvray;4;609;340;blanc;4;17;10;12;nan;nan
+329;Beaumes-de-venise;5;610;329;rouge;3;10;16;16;nan;nan
+473;Cairanne;5;611;473;rouge;3;10;15;17;nan;nan
+473;Cairanne;5;612;473;blanc;2;8;12;13;nan;nan
+473;Cairanne;5;613;473;rosé;1;4;10;11;nan;nan
+286;Château-grillet;5;614;286;blanc;3;15;10;12;nan;nan
+300;Châteauneuf-du-pape;5;615;300;rouge;5;25;15;17;nan;nan
+300;Châteauneuf-du-pape;5;616;300;blanc;3;15;12;14;nan;nan
+460;Châtillon-en-diois;5;617;460;rouge;3;8;15;17;nan;nan
+460;Châtillon-en-diois;5;618;460;blanc;1;4;12;14;nan;nan
+460;Châtillon-en-diois;5;619;460;rosé;1;3;9;11;nan;nan
+302;Clairette-de-bellegarde;5;620;302;blanc;1;2;10;11;nan;nan
+383;Clairette-de-die;5;621;383;blanc;1;2;7;9;nan;nan
+311;Condrieu;5;622;311;blanc;3;12;12;13;nan;nan
+311;Condrieu;5;623;311;jaune;5;50;11;13;nan;nan
+348;Cornas;5;624;348;rouge;5;20;16;16;nan;nan
+330;Costières-de-nîmes;5;625;330;rouge;2;6;16;16;nan;nan
+330;Costières-de-nîmes;5;626;330;blanc;1;4;8;10;nan;nan
+330;Costières-de-nîmes;5;627;330;rosé;1;2;10;12;nan;nan
+379;Côte-rôtie;5;628;379;rouge;5;20;15;17;nan;nan
+472;Coteaux-de-die;5;629;472;blanc;1;4;10;12;nan;nan
+308;Côtes-du-rhône;5;630;308;rouge;2;8;15;17;nan;nan
+308;Côtes-du-rhône;5;631;308;blanc;1;5;10;12;nan;nan
+308;Côtes-du-rhône;5;632;308;rosé;1;2;11;13;nan;nan
+337;Côtes-du-rhône-villages;5;633;337;rouge;1;10;16;0;nan;nan
+337;Côtes-du-rhône-villages;5;634;337;blanc;1;6;11;0;nan;nan
+337;Côtes-du-rhône-villages;5;635;337;rosé;1;4;10;0;nan;nan
+305;Côtes-du-vivarais;5;636;305;rouge;3;8;16;16;nan;nan
+305;Côtes-du-vivarais;5;637;305;blanc;2;5;11;13;nan;nan
+305;Côtes-du-vivarais;5;638;305;rosé;1;4;10;11;nan;nan
+444;Crémant-de-die;5;639;444;blanc;1;3;7;9;nan;nan
+405;Crozes-hermitage;5;640;405;rouge;2;10;15;17;nan;nan
+405;Crozes-hermitage;5;641;405;blanc;1;6;10;12;nan;nan
+301;Gigondas;5;642;301;rouge;5;20;16;17;nan;nan
+301;Gigondas;5;643;301;rosé;1;5;11;13;nan;nan
+306;Grignan-les-adhémar;5;644;306;rouge;2;6;15;17;nan;nan
+306;Grignan-les-adhémar;5;645;306;blanc;2;4;10;12;nan;nan
+306;Grignan-les-adhémar;5;646;306;rosé;1;2;8;10;nan;nan
+313;Hermitage;5;647;313;rouge;7;40;16;16;nan;nan
+313;Hermitage;5;648;313;blanc;5;20;11;13;nan;nan
+313;Hermitage;5;649;313;jaune;5;50;10;13;nan;nan
+349;Lirac;5;650;349;rouge;3;10;15;17;nan;nan
+349;Lirac;5;651;349;rosé;2;4;10;12;nan;nan
+349;Lirac;5;652;349;blanc;1;5;10;11;nan;nan
+307;Luberon;5;653;307;rouge;2;8;15;17;nan;nan
+307;Luberon;5;654;307;rosé;1;3;10;12;nan;nan
+307;Luberon;5;655;307;blanc;2;5;10;11;nan;nan
+235;Muscat-de-beaumes-de-venise;5;656;235;rouge;3;15;8;10;nan;nan
+235;Muscat-de-beaumes-de-venise;5;657;235;jaune;2;15;6;8;nan;nan
+235;Muscat-de-beaumes-de-venise;5;658;235;rosé;2;10;8;10;nan;nan
+435;Pierrevert;5;659;435;nan;0;0;0;0;nan;nan
+234;Rasteau;5;660;234;rouge;5;25;14;16;nan;nan
+234;Rasteau;5;661;234;jaune;5;20;10;12;nan;nan
+474;Rasteau sec;5;662;474;rouge;5;15;14;16;nan;nan
+285;Saint-joseph;5;663;285;blanc;2;10;11;13;nan;nan
+285;Saint-joseph;5;664;285;rouge;3;20;15;17;nan;nan
+284;Saint-péray;5;665;284;blanc;3;10;10;11;nan;nan
+316;Tavel;5;666;316;rosé;1;5;10;12;nan;nan
+387;Vacqueyras;5;667;387;rouge;3;15;15;17;nan;nan
+387;Vacqueyras;5;668;387;blanc;2;6;10;12;nan;nan
+387;Vacqueyras;5;669;387;rosé;1;4;12;14;nan;nan
+264;Vins de pays/IGP Ardèche;9;670;264;rouge;2;4;16;16;nan;nan
+264;Vins de pays/IGP Ardèche;9;671;264;blanc;1;4;8;10;nan;nan
+264;Vins de pays/IGP Ardèche;9;672;264;rosé;1;2;8;10;nan;nan
+20;Vins de pays/IGP Collines rhodaniennes;9;673;20;rouge;2;8;16;16;nan;nan
+20;Vins de pays/IGP Collines rhodaniennes;9;674;20;blanc;1;5;10;12;nan;nan
+20;Vins de pays/IGP Collines rhodaniennes;9;675;20;rosé;1;2;8;10;nan;nan
+262;Vins de pays/IGP Comté de Grignan;9;676;262;rouge;2;6;16;16;nan;nan
+262;Vins de pays/IGP Comté de Grignan;9;677;262;blanc;1;5;10;12;nan;nan
+262;Vins de pays/IGP Comté de Grignan;9;678;262;rosé;1;2;8;10;nan;nan
+258;Vins de pays/IGP Coteaux des Baronnies;9;679;258;rouge;2;5;14;16;nan;nan
+258;Vins de pays/IGP Coteaux des Baronnies;9;680;258;blanc;1;2;11;13;nan;nan
+258;Vins de pays/IGP Coteaux des Baronnies;9;681;258;rosé;1;2;8;10;nan;nan
+259;Vins de pays/IGP Drôme;9;682;259;rouge;1;5;16;16;nan;nan
+259;Vins de pays/IGP Drôme;9;683;259;blanc;1;2;8;10;nan;nan
+259;Vins de pays/IGP Drôme;9;684;259;rosé;1;4;12;14;nan;nan
+95;Vins de pays/IGP Vaucluse;9;685;95;rouge;2;6;16;16;nan;nan
+95;Vins de pays/IGP Vaucluse;9;686;95;blanc;1;4;10;12;nan;nan
+95;Vins de pays/IGP Vaucluse;9;687;95;rosé;1;3;10;12;nan;nan
+303;Ventoux;5;688;303;rouge;2;5;14;16;nan;nan
+303;Ventoux;5;689;303;blanc;1;4;10;12;nan;nan
+303;Ventoux;5;690;303;rosé;1;2;10;11;nan;nan
+370;Vinsobres;5;691;370;rouge;3;8;16;16;nan;nan
+159;Rancio sec;9;692;159;blanc;1;20;13;15;nan;nan
+63;Vins de pays/IGP Argens;9;693;63;nan;0;0;0;0;nan;nan
+260;Vins de pays/IGP Balmes dauphinoises;9;694;260;nan;0;0;0;0;nan;nan
+246;Vins de pays/IGP Bénovie;9;695;246;nan;0;0;0;0;nan;nan
+166;Vins de pays/IGP Bessan;9;696;166;nan;0;0;0;0;nan;nan
+211;Vins de pays/IGP Cassan;9;697;211;nan;0;0;0;0;nan;nan
+225;Vins de pays/IGP Catalan;9;698;225;nan;0;0;0;0;nan;nan
+273;Vins de pays/IGP Caux;9;699;273;nan;0;0;0;0;nan;nan
+167;Vins de pays/IGP Cessenon;9;700;167;nan;0;0;0;0;nan;nan
+228;Vins de pays/IGP Collines de la Moure;9;701;228;nan;0;0;0;0;nan;nan
+230;Vins de pays/IGP Coteaux de Bessilles;9;702;230;nan;0;0;0;0;nan;nan
+265;Vins de pays/IGP Coteaux de l'Ardèche;9;703;265;nan;0;0;0;0;nan;nan
+244;Vins de pays/IGP Coteaux de Laurens;9;704;244;nan;0;0;0;0;nan;nan
+256;Vins de pays/IGP Coteaux de Montélimar;9;705;256;nan;0;0;0;0;nan;nan
+216;Vins de pays/IGP Coteaux de Murviel;9;706;216;nan;0;0;0;0;nan;nan
+213;Vins de pays/IGP Coteaux des Fenouillèdes;9;707;213;nan;0;0;0;0;nan;nan
+267;Vins de pays/IGP Coteaux du Grésivaudan;9;708;267;nan;0;0;0;0;nan;nan
+163;Vins de pays/IGP Coteaux du littoral audois;9;709;163;nan;0;0;0;0;nan;nan
+240;Vins de pays/IGP Coteaux du Salagou;9;710;240;nan;0;0;0;0;nan;nan
+245;Vins de pays/IGP Coteaux du Salavès;9;711;245;nan;0;0;0;0;nan;nan
+139;Vins de pays/IGP Coteaux et terrasses de Montauban;9;712;139;nan;0;0;0;0;nan;nan
+196;Vins de pays/IGP Côtes de Pérignan;9;713;196;nan;0;0;0;0;nan;nan
+197;Vins de pays/IGP Côtes du Ceressou;9;714;197;nan;0;0;0;0;nan;nan
+120;Vins de pays/IGP Côtes du Condomois;9;716;120;nan;0;0;0;0;nan;nan
+74;Vins de pays/IGP Deux Sèvres;9;717;74;nan;0;0;0;0;nan;nan
+278;Vins de pays/IGP Dordogne;9;718;278;nan;0;0;0;0;nan;nan
+209;Vins de pays/IGP Grand-roussillon;9;719;209;nan;0;0;0;0;nan;nan
+210;Vins de pays/IGP Hauterive;9;720;210;nan;0;0;0;0;nan;nan
+171;Vins de pays/IGP Hautes Vallées de l'Aude;9;721;171;nan;0;0;0;0;nan;nan
+214;Vins de pays/IGP Hauts de Badens;9;722;214;nan;0;0;0;0;nan;nan
+241;Vins de pays/IGP Lastours;9;723;241;nan;0;0;0;0;nan;nan
+71;Vins de pays/IGP Loire-Atlantique;9;724;71;nan;0;0;0;0;nan;nan
+135;Vins de pays/IGP Lot-et-Garonne;9;725;135;nan;0;0;0;0;nan;nan
+68;Vins de pays/IGP Meuse;9;726;68;nan;0;0;0;0;nan;nan
+170;Vins de pays/IGP Mont Baudile;9;727;170;nan;0;0;0;0;nan;nan
+275;Vins de pays/IGP Monts de la Grage;9;728;275;nan;0;0;0;0;nan;nan
+70;Vins de pays/IGP Nièvre;9;729;70;nan;0;0;0;0;nan;nan
+97;Vins de pays/IGP Petite Crau;9;730;97;nan;0;0;0;0;nan;nan
+98;Vins de pays/IGP Principauté d'Orange;9;731;98;nan;0;0;0;0;nan;nan
+121;Vins de pays/IGP Pyrénées-Atlantiques;9;732;121;nan;0;0;0;0;nan;nan
+272;Vins de pays/IGP Pyrénées-Orientales;9;733;272;nan;0;0;0;0;nan;nan
+274;Vins de pays/IGP Sables du Golfe du Lion;9;734;274;nan;0;0;0;0;nan;nan
+137;Vins de pays/IGP Saint-Sardos;9;735;137;nan;0;0;0;0;nan;nan
+61;Vins de pays/IGP Sainte-Baume;9;736;61;nan;0;0;0;0;nan;nan
+116;Vins de pays/IGP Tarn et Garonne;9;737;116;nan;0;0;0;0;nan;nan
+277;Vins de pays/IGP Terroirs landais;9;738;277;nan;0;0;0;0;nan;nan
+165;Vins de pays/IGP Val de Cesse;9;739;165;nan;0;0;0;0;nan;nan
+229;Vins de pays/IGP Val de Montferrand;9;740;229;nan;0;0;0;0;nan;nan
+162;Vins de pays/IGP Vallée de l'Orb;9;741;162;nan;0;0;0;0;nan;nan
+84;Vins de pays/IGP Vendée;9;742;84;nan;0;0;0;0;nan;nan
+79;Vins de pays/IGP Vienne;9;743;79;nan;0;0;0;0;nan;nan
+215;Vins de pays/IGPCoteaux de Fontcaude;9;744;215;nan;0;0;0;0;nan;nan
+249;Vins de pays/IGPCoteaux de Miramont;9;745;249;nan;0;0;0;0;nan;nan
+342;Alsace chasselas ou gutedel;1;;;blanc;1;5;10;12;;
+478;Alsace edelzwicker;1;;;blanc;1;5;10;12;;
+312;Alsace gewurztraminer;1;;;blanc;4;20;10;12;;
+445;Alsace grand cru;1;;;blanc;5;30;10;12;;
+437;Alsace klevener-de-heiligenstein;1;;;blanc;3;5;10;12;;
+410;Alsace muscat;1;;;blanc;2;4;10;12;;
+3;Alsace pinot blanc ou klevner;1;;;blanc;2;5;10;12;;
+2;Alsace pinot gris;1;;;blanc;2;6;10;12;;
+1;Alsace pinot noir;1;;;rouge;2;6;10;12;;
+359;Alsace riesling;1;;;blanc;4;20;10;12;;
+296;Alsace sylvaner;1;;;blanc;2;5;10;12;;
+355;Anjou-gamay;4;;;rouge;1;1;13;14;;
+354;Beaujolais-villages;25;;;Blanc;2;5;10;12;;
+354;Beaujolais-villages;25;;;rosé;2;4;8;11;;
+354;Beaujolais-villages;25;;;rouge;3;8;14;16;;
+144;Blaye-côtes-de-bordeaux;17;;;rouge;5;10;15;15;;
+55;Bordeaux blanc;17;;;blanc;3;5;8;11;;
+56;Bordeaux clairet;17;;;clairet;1;3;8;11;;
+54;Bordeaux rosé;17;;;rosé;1;3;8;11;;
+108;Bourgogne-aligoté;15;;;blanc;2;5;10;12;;
+400;Bourgogne-côte-chalonnaise;15;;;rouge;2;10;14;16;;
+400;Bourgogne-côte-chalonnaise;15;;;blanc;1;5;12;14;;
+105;Bourgogne-hautes-côtes-de-beaune;15;;;rouge;2;6;14;16;;
+105;Bourgogne-hautes-côtes-de-beaune;15;;;blanc;1;5;12;14;;
+106;Bourgogne-hautes-côtes-de-nuits;15;;;rouge;3;8;14;16;;
+106;Bourgogne-hautes-côtes-de-nuits;15;;;blanc;1;6;12;14;;
+107;Bourgogne-passetoutgrain;15;;;rouge;1;5;12;14;;
+37;Cadillac-côtes-de-bordeaux;17;;;rouge;5;10;15;15;;
+50;Castillon-côtes-de-bordeaux;17;;;rouge;3;5;15;;;
+206;Chambertin-clos-de-bèze;15;;;rouge;10;35;14;16;;
+358;Château-chalon;12;;;blanc;7;60;14;16;;
+41;Clos-de-la-roche;15;;;rouge;8;30;14;16;;
+191;Clos-de-tart;15;;;rouge;8;30;14;16;;
+185;Clos-de-vougeot;15;;;rouge;10;35;14;16;;
+190;Clos-des-lambrays;15;;;rouge;7;25;14;16;;
+192;Clos-saint-denis;15;;;rouge;5;20;14;16;;
+362;Corse (vin de);14;;;rouge;2;5;16;;;
+362;Corse (vin de);14;;;blanc;1;3;8;;;
+362;Corse (vin de);14;;;rosé;1;3;10;;;
+390;Corton-charlemagne;15;;;blanc;5;20;12;14;;
+451;Côte-de-beaune;15;;;rouge;2;6;16;;;
+451;Côte-de-beaune;15;;;blanc;1;5;12;14;;
+221;Côte-de-beaune-villages;15;;;rouge;3;8;16;;;
+393;Côte-de-brouilly;25;;;rouge;4;8;15;15;;
+153;Côte-de-nuits-villages;15;;;rouge;3;8;16;;;
+153;Côte-de-nuits-villages;15;;;blanc;1;5;12;14;;
+440;Coteaux-champenois;16;;;rouge;3;8;13;14;;
+440;Coteaux-champenois;16;;;blanc;2;10;10;10;;
+440;Coteaux-champenois;16;;;rosé;1;4;8;10;;
+398;Coteaux-du-Lyonnais;25;;;rouge;2;5;14;16;;
+398;Coteaux-du-Lyonnais;25;;;blanc;1;4;10;12;;
+398;Coteaux-du-Lyonnais;25;;;rosé;1;3;9;11;;
+145;Côtes-de-blaye;17;;;blanc;3;5;8;11;;
+176;Côtes-de-Bordeaux;17;;;blanc;3;5;8;11;;
+176;Côtes-de-Bordeaux;17;;;rouge;5;15;15;15;;
+180;Côtes-de-bordeaux-saint-macaire;17;;;blanc;3;5;8;11;;
+143;Côtes-de-bourg;17;;;rouge;5;20;15;16;;
+143;Côtes-de-bourg;17;;;blanc;3;10;10;12;;
+309;Côtes-du-jura;12;;;blanc;2;8;12;14;;
+309;Côtes-du-jura;12;;;rouge;2;10;16;16;;
+309;Côtes-du-jura;12;;;rosé;1;3;8;10;;
+320;Crémant-d'alsace;1;;;blanc;1;4;5;7;;
+320;Crémant-d'alsace;1;;;rosé;1;4;6;8;;
+58;Crémant-de-bordeaux;17;;;blanc;1;3;6;8;;
+104;Crémant-de-bourgogne;15;;;blanc;1;5;6;8;;
+104;Crémant-de-bourgogne;15;;;rosé;1;3;8;10;;
+465;Crémant-de-luxembourg;10;;;;;;;;;
+477;Crémant-de-savoie;3;;;blanc;1;3;6;8;;
+454;Crémant-du-jura;12;;;blanc;1;5;8;;;
+454;Crémant-du-jura;12;;;rosé;1;4;8;;;
+476;Crépy;3;;;blanc;3;8;10;12;;
+184;Échézeaux;15;;;rouge;7;30;14;16;;
+418;Floc-de-gascogne;7;;;rosé;2;12;6;9;;
+418;Floc-de-gascogne;7;;;blanc;2;12;6;9;;
+49;Francs-côtes-de-bordeaux;17;;;rouge;3;12;15;;;
+49;Francs-côtes-de-bordeaux;17;;;blanc;3;8;10;12;;
+220;Grande-rue (La);15;;;rouge;7;25;14;16;;
+183;Grands-échézeaux;15;;;rouge;5;25;14;16;;
+179;Graves-de-vayres;17;;;rouge;1;5;14;16;;
+179;Graves-de-vayres;17;;;blanc;1;3;8;10;;
+357;L'Étoile;12;;;blanc;3;10;12;;;
+127;Lussac-saint-émilion;17;;;rouge;5;10;16;18;;
+146;Mâcon et mâcon-villages;15;;;rouge;2;6;14;;;
+146;Mâcon et mâcon-villages;15;;;blanc;2;8;12;13;;
+146;Mâcon et mâcon-villages;15;;;rosé;1;3;10;;;
+133;Mâcon supérieur;15;;;rouge;2;8;14;;;
+133;Mâcon supérieur;15;;;blanc;2;10;12;13;;
+133;Mâcon supérieur;15;;;rosé;1;4;10;;;
+372;Macvin-du-jura;12;;;blanc;5;20;10;13;;
+372;Macvin-du-jura;12;;;rouge;5;20;11;14;;
+372;Macvin-du-jura;12;;;rosé;5;15;10;13;;
+126;Montagne-saint-émilion;17;;;rouge;5;15;16;18;;
+464;Moselle luxembourgeoise;10;;;;;;;;;
+449;Muscat-du-cap-corse;14;;;blanc;3;10;9;11;;
+151;Petit-chablis;15;;;blanc;1;2;10;;;
+424;Pineau-des-charentes;11;;;;;;;;;
+177;Premières-côtes-de-bordeaux;17;;;blanc;3;15;8;11;;
+125;Puisseguin-saint-émilion;17;;;rouge;3;8;16;18;;
+470;Ratafia champenois;16;;;;;;;;;
+181;Romanée (La);15;;;rouge;10;40;14;16;;
+327;Rosé-des-riceys;16;;;rosé;2;6;10;12;;
+414;Roussette-de-savoie;3;;;blanc;2;5;12;12;;
+128;Saint-émilion;17;;;rouge;3;8;16;18;;
+51;Saint-émilion grand cru;17;;;rouge;10;35;15;16;;
+124;Saint-georges-saint-émilion;17;;;rouge;4;13;16;18;;
+52;Saint-julien;17;;;rouge;10;35;16;17;;
+60;Sauternes;17;;;blanc;10;50;10;13;;
+352;Savoie (vin de);3;;;rouge;1;6;14;16;;
+352;Savoie (vin de);3;;;blanc;1;6;11;11;;
+155;Tâche (La);15;;;rouge;8;30;14;16;;
+426;Touraine-amboise;4;;;rouge;2;10;14;15;;
+426;Touraine-amboise;4;;;blanc;1;5;8;10;;
+426;Touraine-amboise;4;;;rosé;1;3;8;10;;
+375;Touraine-azay-le-rideau;4;;;blanc;2;10;10;12;;
+375;Touraine-azay-le-rideau;4;;;rosé;1;3;10;12;;
+469;Touraine-chenonceaux;4;;;rouge;3;10;14;15;;
+469;Touraine-chenonceaux;4;;;blanc;1;3;8;10;;
+438;Touraine-mesland;4;;;rouge;3;10;14;15;;
+438;Touraine-mesland;4;;;blanc;1;5;8;10;;
+438;Touraine-mesland;4;;;rosé;1;3;8;10;;
+468;Touraine-oisly;4;;;blanc;1;5;10;12;;

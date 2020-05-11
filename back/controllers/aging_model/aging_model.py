@@ -31,19 +31,11 @@ def aging_model(vintage, age_max, age_min, rank, l=20):
     return scores_list, list_of_years
 
 def import_csv():
-    df = pd.read_csv('back/controllers/aging_model/age_des_vins_v4.csv', header=0, names=['area_name','cru','age_min','age_max','t_min','t_max','glass_type','comments','color'])
-    count = 0
-    for info in df.itertuples():
-        area = Area.select().where(fn.Upper(Area.name)==info.cru.upper())
-        if area.exists():
-            area = area.get()
-            area_detail = AreaDetail.get_or_none(area=area, color=info.color)
-            if not area_detail:
-                AreaDetail.create(area = area, color=info.color, age_min=info.age_min, age_max=info.age_max, comments=info.comments, t_min=info.t_min, t_max=info.t_max, glass_type=info.glass_type)
-        area = Area.select().where(fn.Upper(Area.name)==info.area_name.upper())
-        if area.exists():
-            area = area.get()
-            area_detail = AreaDetail.get_or_none(area=area, color=info.color)
-            if not area_detail:
-                AreaDetail.create(area=area,  color=info.color, age_min=info.age_min, age_max=info.age_max, comments=info.comments, t_min=info.t_min, t_max=info.t_max, glass_type=info.glass_type)
+    df = pd.read_csv('back/controllers/aging_model/age_des_vins_v8.csv', header=0)
+    for i,info in enumerate(df.itertuples()):
+        area = Area.get_by_id(info.true_area_id)
+        area_detail = AreaDetail.get_or_none(area=area, color=info.color)
+        if not area_detail:
+            AreaDetail.create(area = area, color=info.color, age_min=info.age_min, age_max=info.age_max, comments=info.comments, t_min=info.t_min, t_max=info.t_max, glass_type=info.glass_type)
+        print(i)
     return {'msg':'done'}
