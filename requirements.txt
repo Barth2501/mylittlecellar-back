@@ -76,7 +76,7 @@ tqdm==4.46.0
 Twisted==20.3.0
 typed-ast==1.4.1
 Unidecode==1.1.1
-urllib3==1.25.8
+urllib3==1.26.5
 w3lib==1.21.0
 wasabi==0.6.0
 Werkzeug==1.0.0
