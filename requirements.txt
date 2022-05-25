@@ -54,7 +54,7 @@ PyDispatcher==2.0.5
 pydocstyle==5.0.2
 pyflakes==2.1.1
 PyHamcrest==2.0.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylama==7.7.1
 pylint==2.4.4
 pyOpenSSL==19.1.0
